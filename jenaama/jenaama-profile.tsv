@@ -1,0 +1,196 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+-	<?>	yōlō-cɛ̄ɛ̄ⁿ-māā-kèwⁿ, mūwā-nā	Jenaama	204	U+002d
+g	g	dùgòⁿ-kɛ̄ɛ̄gū, sórógō	Jenaama	154	U+0067
+^k	k	kùmbùrù, kɔ̄ɔ̄-nā	Jenaama	142	U+005e U+006b
+n	n	mūwā-nā, bāànā	Jenaama	129	U+006e
+l	l	būlēwⁿ, sílē	Jenaama	116	U+006c
+à	à	dàràmàyīwⁿ, kàlàmàntùŋɔ́	Jenaama	113	U+00e0
+^s	s	sɔ̄ⁿ, sílē	Jenaama	105	U+005e U+0073
+b	b	kùmbùrù, sébú-sébū	Jenaama	104	U+0062
+m	m	kùmbùrù, mɔ̄nɔ̄mì	Jenaama	102	U+006d
+^t	t	tūɥ̄-gù, tɔ̀bɛ̀	Jenaama	95	U+005e U+0074
+ā	ā	jāŋān-tàbà, mānāmì	Jenaama	90	U+0101
+ū	ū	būlēwⁿ, mūwā-nā	Jenaama	84	U+016b
+à$	à	wúwò-nà, jāŋān-tàbà	Jenaama	68	U+00e0 U+0024
+r	r	pírí-pīrī, sórógō	Jenaama	66	U+0072
+y	y	tīyɔ̄ⁿ, tīyɛ̄	Jenaama	63	U+0079
+k	k	mìskììnà-mà-kɛ̄lɛ̄, tēè-kɔ̀lù	Jenaama	62	U+006b
+ù	ù	kùmbùrù, kùgù-bōgū	Jenaama	62	U+00f9
+ɔ̀	ɔ̀	kɔ̀ɔ̀ⁿjɛ́wⁿ, pɔ̀ŋɔ̀náwⁿ	Jenaama	61	U+0254 U+0300
+^p	p	pīⁿ, pùlēwⁿ	Jenaama	59	U+005e U+0070
+ā$	ā	mūwā-nā, pā	Jenaama	59	U+0101 U+0024
+ɔ̄	ɔ̄	mɔ̄nɔ̄mì, yɔ̄gɔ̄-yɔ̄gɔ̀-nà	Jenaama	56	U+0254 U+0304
+^b	b	būlēwⁿ, bāànā	Jenaama	52	U+005e U+0062
+ī	ī	tīyɔ̄ⁿ, tīyɛ̄	Jenaama	52	U+012b
+^d	d	dūwɔ̄, dòndì	Jenaama	49	U+005e U+0064
+ì	ì	pìyⁿɛ̀, bìrìgì	Jenaama	47	U+00ec
+ŋ	ŋ	sɔ̀ŋgɔ̀ⁿ-kúŋgólō, jāŋān-tàbà	Jenaama	46	U+014b
+wⁿ$	wⁿ	kɔ̀ɔ̀ⁿjɛ́wⁿ, sùwɔ̀-lɛ̄wⁿ	Jenaama	45	U+0077 U+207f U+0024
+ù$	ù	míyⁿɛ̀-gù, tūɥ̄-gù	Jenaama	45	U+00f9 U+0024
+d	d	kèndē-bòndò, bàndà	Jenaama	44	U+0064
+w	w	mūwā-nā, wúwò-nà	Jenaama	43	U+0077
+ū$	ū	bōgū, kānū	Jenaama	42	U+016b U+0024
+ō$	ō	sórógō, wógō	Jenaama	41	U+014d U+0024
+ɛ̄	ɛ̄	sùwɔ̀-lɛ̄wⁿ, kɛ̄lɛ̄mù	Jenaama	40	U+025b U+0304
+ɛ̀	ɛ̀	míyⁿɛ̀-gù, pùnàŋ-kɛ̀rɛ̀bɛ̄	Jenaama	38	U+025b U+0300
+í	í	sílē, míyⁿɛ̀-gù	Jenaama	35	U+00ed
+ɔ̄$	ɔ̄	sɔ̄gɔ̄, túwɔ̄	Jenaama	33	U+0254 U+0304 U+0024
+t	t	jāŋān-tàbà, ā-tɔ̀wⁿ	Jenaama	32	U+0074
+^m	m	mūwā-nā, míyⁿɛ̀-gù	Jenaama	32	U+005e U+006d
+ì$	ì	ā-pì, mānāmì	Jenaama	32	U+00ec U+0024
+ú	ú	wúwò-nà, túwɔ̄	Jenaama	31	U+00fa
+è	è	tègèncíⁿ, ā-sèy	Jenaama	31	U+00e8
+ō	ō	wōlō-ŋ̄-wōlōⁿ, tōmōⁿ	Jenaama	31	U+014d
+ī$	ī	wààjībī, dārī	Jenaama	31	U+012b U+0024
+j	j	kɔ̀ɔ̀ⁿjɛ́wⁿ, wààjībī	Jenaama	29	U+006a
+ɔ̀$	ɔ̀	dɔ̀, kɔ̀ɔ̀rnɔ̀	Jenaama	27	U+0254 U+0300 U+0024
+^w	w	wúwò-nà, wógō	Jenaama	27	U+005e U+0077
+^à	à	à-sɛ̄gɛ̀, à-bāwⁿ	Jenaama	27	U+005e U+00e0
+á	á	ɲárágō, ságánī	Jenaama	27	U+00e1
+ò	ò	wúwò-nà, nàfòlò-tūgū	Jenaama	26	U+00f2
+p	p	ā-pì, pɔ́rípūwɔ̄	Jenaama	25	U+0070
+^ɲ	ɲ	ɲɔ̄ŋɔ̄, ɲàmà-ɲāmā	Jenaama	24	U+005e U+0272
+ùw	ùw	sùwɔ̀-lɛ̄wⁿ, tùwɔ̀-lɛ̄wⁿ	Jenaama	24	U+00f9 U+0077
+ē$	ē	sílē, sīlē	Jenaama	24	U+0113 U+0024
+^y	y	yùgòⁿ, yūwɔ̄	Jenaama	23	U+005e U+0079
+^ā	ā	ā-pì, ā-sèy	Jenaama	22	U+005e U+0101
+ōⁿ$	ōⁿ	tōmōⁿ, kābōⁿ	Jenaama	22	U+014d U+207f U+0024
+s	s	ā-sèy, sɔ̀ɔ̄ⁿ-sèlē	Jenaama	21	U+0073
+^j	j	jāŋān-tàbà, jíbā	Jenaama	21	U+005e U+006a
+ē	ē	à-dēgē, pēndē	Jenaama	21	U+0113
+ɛ̀$	ɛ̀	pìyⁿɛ̀, tɔ̀bɛ̀	Jenaama	19	U+025b U+0300 U+0024
+^g	g	gándā, gə̀yə̀n-dāgānā	Jenaama	18	U+005e U+0067
+ɲ	ɲ	wáɲɔ̄wⁿ, kɔ̀ɲɔ́ⁿ	Jenaama	17	U+0272
+ò$	ò	tɔ̄ɔ̄-kòòmbò, ʃēmpùwò	Jenaama	17	U+00f2 U+0024
+ēwⁿ$	ēwⁿ	būlēwⁿ, pùlēwⁿ	Jenaama	17	U+0113 U+0077 U+207f U+0024
+ɛ̄$	ɛ̄	tīyɛ̄, pɛ́rɛ̄	Jenaama	16	U+025b U+0304 U+0024
+āā	āā	ʃèètāānà, sīrāān-dūmà	Jenaama	16	U+0101 U+0101
+^n	n	nà, nùmàsāⁿ	Jenaama	15	U+005e U+006e
+àà	àà	kɔ̀nààkūⁿ, kàànàŋkè	Jenaama	14	U+00e0 U+00e0
+è$	è	kàànàŋkè, tìŋgè	Jenaama	14	U+00e8 U+0024
+ó	ó	sórógō, wógō	Jenaama	14	U+00f3
+ə̀	ə̀	gə̀yə̀n-dāgānā, kə̀lə̀-jīyāwⁿ	Jenaama	12	U+0259 U+0300
+ɛ̄ɛ̄	ɛ̄ɛ̄	yōle-y-cɛ̄ɛ̄m, bùwɔ̀-kɛ̄ɛ̄gū	Jenaama	11	U+025b U+0304 U+025b U+0304
+áá	áá	wáátū, káádō	Jenaama	11	U+00e1 U+00e1
+é	é	pélú-gù, dégé-nà	Jenaama	11	U+00e9
+ɔ́	ɔ́	tɔ́ŋkɔ́nɔ̄, kìtɔ́mɔ́	Jenaama	11	U+0254 U+0301
+āwⁿ$	āwⁿ	pīyⁿāwⁿ, kə̀lə̀-jīyāwⁿ	Jenaama	11	U+0101 U+0077 U+207f U+0024
+āⁿ$	āⁿ	kɔ̄yāⁿ, nùmàsāⁿ	Jenaama	10	U+0101 U+207f U+0024
+ūⁿ$	ūⁿ	gùrū-gùsūⁿ, kɔ̀nààkūⁿ	Jenaama	10	U+016b U+207f U+0024
+y$	y	ā-sèy, ā-kày	Jenaama	10	U+0079 U+0024
+àwⁿ$	àwⁿ	nàtàwⁿ, yàwⁿ	Jenaama	9	U+00e0 U+0077 U+207f U+0024
+ɛ́	ɛ́	kɔ̀ɔ̀ⁿjɛ́wⁿ, pɛ́rɛ̄	Jenaama	9	U+025b U+0301
+ɔ̄ⁿ$	ɔ̄ⁿ	sɔ̄ⁿ, tīyɔ̄ⁿ	Jenaama	8	U+0254 U+0304 U+207f U+0024
+yⁿ	yⁿ	míyⁿɛ̀-gù, pìyⁿɛ̀	Jenaama	8	U+0079 U+207f
+ɔ́$	ɔ́	kìtɔ́mɔ́, ʃèbúwɔ́	Jenaama	8	U+0254 U+0301 U+0024
+ɔ̄ɔ̄	ɔ̄ɔ̄	kɔ̄ɔ̄-nā, tɔ̄ɔ̄-kòòmbò	Jenaama	8	U+0254 U+0304 U+0254 U+0304
+īⁿ$	īⁿ	pīⁿ, kùwɔ̀-pīⁿ	Jenaama	7	U+012b U+207f U+0024
+ɥ	ɥ	kāŋāⁿ-kə̀ɥə̀m, kùɥgù	Jenaama	7	U+0265
+àⁿ	àⁿ	sàⁿáⁿ, tàbàⁿ-būwɔ̄	Jenaama	7	U+00e0 U+207f
+c	c	à-cɔ̄bì, yōlō-cɛ̄ɛ̄ⁿ-māā-kèwⁿ	Jenaama	7	U+0063
+ŋ$	ŋ	būrōŋ, sūmūŋ	Jenaama	7	U+014b U+0024
+áⁿ$	áⁿ	sáⁿ, jáⁿ	Jenaama	6	U+00e1 U+207f U+0024
+òⁿ$	òⁿ	yùgòⁿ, tìyòⁿ	Jenaama	6	U+00f2 U+207f U+0024
+ɛ́$	ɛ́	à-tɛ̄gɛ́, bɛ̀bɛ́	Jenaama	6	U+025b U+0301 U+0024
+āⁿ	āⁿ	tāⁿ-péndē, kāŋāⁿ-kə̀ɥə̀m	Jenaama	6	U+0101 U+207f
+í$	í	mìsírí, tɔ̀sìbí	Jenaama	5	U+00ed U+0024
+é$	é	tèndé, wàŋgé	Jenaama	5	U+00e9 U+0024
+ɔ̀ɔ̀	ɔ̀ɔ̀	tàbā-kɔ̀ɔ̀njɛ́wⁿ, kɔ̀ɔ̀rnɔ̀	Jenaama	5	U+0254 U+0300 U+0254 U+0300
+m$	m	cɛ̄ɛ̄m, kə̀ɥə̀m	Jenaama	5	U+006d U+0024
+wⁿ	wⁿ	kúwⁿɔ̄, tūwɔ̄-lɛ̄wⁿ-tɔ̄mɔ̄	Jenaama	5	U+0077 U+207f
+^kw	kʷ	kwàⁿ, kwālà	Jenaama	5	U+005e U+006b U+0077
+^h	h	híílā, hūyà	Jenaama	5	U+005e U+0068
+^ʃ	ʃ	ʃēmpùwò, ʃɛ̀ⁿ	Jenaama	5	U+005e U+0283
+ùù	ùù	pùùgù, wùùjūⁿ	Jenaama	4	U+00f9 U+00f9
+ōō	ōō	wōō-lɛ̄wⁿ, dōōrò	Jenaama	4	U+014d U+014d
+á$	á	pàmbá, sàbá	Jenaama	4	U+00e1 U+0024
+àⁿ$	àⁿ	kwàⁿ, tàⁿ	Jenaama	4	U+00e0 U+207f U+0024
+a᷆$	a᷆	kèba᷆, kàma᷆	Jenaama	4	U+0061 U+1dc6 U+0024
+ẁⁿ$	<?>	tàbāẁⁿ, sìkèẁⁿ	Jenaama	4	U+1e81 U+207f U+0024
+^l	l	lɔ̄g-dēmō, lààrābū	Jenaama	4	U+005e U+006c
+ɛ̄ⁿ	ɛ̄ⁿ	yōlō-cɛ̄ɛ̄ⁿ-māā-kèwⁿ, mɛ̀ɛ̄ⁿ-sìyōⁿ	Jenaama	4	U+025b U+0304 U+207f
+^c	c	cɛ̄ɛ̄m, cɔ̄llɔ̀	Jenaama	4	U+005e U+0063
+ɔ̀ⁿ$	ɔ̀ⁿ	sùŋɔ̀ⁿ, sɔ̀ⁿ	Jenaama	4	U+0254 U+0300 U+207f U+0024
+ɔ̀ⁿ	ɔ̀ⁿ	kɔ̀ɔ̀ⁿjɛ́wⁿ, sɔ̀ŋgɔ̀ⁿ-kúŋgólō	Jenaama	4	U+0254 U+0300 U+207f
+ɛ̄ⁿ$	ɛ̄ⁿ	à-kwɛ̄ⁿ, sībɛ̄ⁿ	Jenaama	4	U+025b U+0304 U+207f U+0024
+óⁿ$	óⁿ	kānā-kòlóⁿ, jàmbóⁿ	Jenaama	3	U+00f3 U+207f U+0024
+ìs	ìs	mìsírí, mìskììnà-mà-kɛ̄lɛ̄	Jenaama	3	U+00ec U+0073
+èwⁿ$	èwⁿ	tààlmá-sìgèwⁿ, yōlō-cɛ̄ɛ̄ⁿ-māā-kèwⁿ	Jenaama	3	U+00e8 U+0077 U+207f U+0024
+īī	īī	mìskīīnī, à-mīīlà	Jenaama	3	U+012b U+012b
+òò	òò	kòòmbò, tɔ̄ɔ̄-kòòmbò	Jenaama	3	U+00f2 U+00f2
+íí	íí	híílā, síí-mā	Jenaama	3	U+00ed U+00ed
+f	f	màlīfā, nàfòlò-tūgū	Jenaama	3	U+0066
+íⁿ$	íⁿ	cíⁿ, tègèncíⁿ	Jenaama	3	U+00ed U+207f U+0024
+ə̀$	ə̀	kə̀, kə̀lə̀	Jenaama	3	U+0259 U+0300 U+0024
+ùⁿ$	ùⁿ	nàndùⁿ, ɲɛ̄ɛ̀-hùⁿ	Jenaama	3	U+00f9 U+207f U+0024
+nn	nn	pān-nā, sànnā	Jenaama	3	U+006e U+006e
+òⁿ	òⁿ	dùgòⁿ-kɛ̄ɛ̄gū, yùgòⁿ-kānū	Jenaama	3	U+00f2 U+207f
+ɔ̄ⁿ	ɔ̄ⁿ	sɔ̀ɔ̄ⁿ-sèlē, kɔ̄ⁿ-yà	Jenaama	3	U+0254 U+0304 U+207f
+n$	n	pàn-pán, à-bīyɛ̀n	Jenaama	2	U+006e U+0024
+ùw$	ùw	wùw, kùw	Jenaama	2	U+00f9 U+0077 U+0024
+yⁿ$	yⁿ	kāyⁿ, à-māyⁿ	Jenaama	2	U+0079 U+207f U+0024
+ās	ās	dāsì, kāsò	Jenaama	2	U+0101 U+0073
+ə̄	ə̄	kə̀lə̄-nàwⁿ, gə̄lə̄	Jenaama	2	U+0259 U+0304
+ə̄$	ə̄	gə̄lə̄, kə́gə̄	Jenaama	2	U+0259 U+0304 U+0024
+ūū	ūū	tūū-bàlà, kāābūūsì	Jenaama	2	U+016b U+016b
+ùwⁿ	ùwⁿ	pùwⁿɔ́, kùwⁿɔ̀	Jenaama	2	U+00f9 U+0077 U+207f
+èⁿ	èⁿ	tèèⁿ-kɛ̄ɛ̄gū, tèèⁿ-yūgōⁿ	Jenaama	2	U+00e8 U+207f
+^ŋ	ŋ	ŋìyɛ̀wⁿ	Jenaama	2	U+005e U+014b
+ɥ̄	ɥː	tūɥ̄-gù	Jenaama	2	U+0265 U+0304
+īwⁿ$	īwⁿ	dàràmàyīwⁿ, à-tīwⁿ	Jenaama	2	U+012b U+0077 U+207f U+0024
+òwⁿ$	òwⁿ	pòwⁿ	Jenaama	2	U+00f2 U+0077 U+207f U+0024
+ll	ll	bíllà-nà, cɔ̄llɔ̀	Jenaama	2	U+006c U+006c
+ú$	ú	bùkúrú, mùɲú	Jenaama	2	U+00fa U+0024
+ỳ$	ỳ	sɔ̄ŋgɔ̄ỳ, nànāỳ	Jenaama	2	U+1ef3 U+0024
+ùs	ùs	gùùsūⁿ, gùrū-gùsūⁿ	Jenaama	2	U+00f9 U+0073
+ɛ́ɛ́	ɛ́ɛ́	kɛ́ɛ́rāwⁿ, tìgè-kɛ́ɛ́gū	Jenaama	2	U+025b U+0301 U+025b U+0301
+i᷆$	i᷆	nìŋi᷆, yàmbāā-nìŋi᷆	Jenaama	2	U+0069 U+1dc6 U+0024
+āā$	āā	kāā	Jenaama	2	U+0101 U+0101 U+0024
+ìⁿ$	ìⁿ	dūgā-pìⁿ, tùùmìⁿ	Jenaama	2	U+00ec U+207f U+0024
+às	às	dàsíŋkēwⁿ, nùmàsāⁿ	Jenaama	2	U+00e0 U+0073
+C	<?>	ā-C109āmɛ̀wⁿ	Jenaama	1	U+0043
+^bw	bw	bwɛ᷆	Jenaama	1	U+005e U+0062 U+0077
+àh	àh	bààhúmā	Jenaama	1	U+00e0 U+0068
+ìì	ìì	mìskììnà-mà-kɛ̄lɛ̄	Jenaama	1	U+00ec U+00ec
+kw	kʷ	à-kwɛ̄ⁿ	Jenaama	1	U+006b U+0077
+e	e	yōle-y-cɛ̄ɛ̄m	Jenaama	1	U+0065
+ɛ̀ɛ̀	ɛ̀ɛ̀	kɛ̀ɛ̀gù	Jenaama	1	U+025b U+0300 U+025b U+0300
+^ŋ̄$	ŋː	ŋ̄	Jenaama	1	U+005e U+014b U+0304 U+0024
+ūⁿ	ūⁿ	tūūⁿ-wàà-nà	Jenaama	1	U+016b U+207f
+e᷆	e᷆	kèŋge᷆-gū	Jenaama	1	U+0065 U+1dc6
+áⁿ	áⁿ	súbááⁿ-sōŋ	Jenaama	1	U+00e1 U+207f
+èw$	èw	kèw	Jenaama	1	U+00e8 U+0077 U+0024
+īⁿ	īⁿ	pīīⁿ-bòndò	Jenaama	1	U+012b U+207f
+ùⁿ	ùⁿ	tùùⁿkūwō	Jenaama	1	U+00f9 U+207f
+o᷆$	o᷆	sùwo᷆	Jenaama	1	U+006f U+1dc6 U+0024
+ə̄ə̄	ə̄ə̄	gə̄ə̄wⁿ	Jenaama	1	U+0259 U+0304 U+0259 U+0304
+íⁿ	íⁿ	pííⁿ-dū	Jenaama	1	U+00ed U+207f
+u᷆$	u᷆	à-tu᷆	Jenaama	1	U+0075 U+1dc6 U+0024
+h	h	ɲɛ̄ɛ̀-hùⁿ	Jenaama	1	U+0068
+ɛ᷆$	ɛ᷆	bwɛ᷆	Jenaama	1	U+025b U+1dc6 U+0024
+109	<?>	ā-C109āmɛ̀wⁿ	Jenaama	1	U+0031 U+0030 U+0039
+^ā$	ā	ā	Jenaama	1	U+005e U+0101 U+0024
+ɛ̀ⁿ$	ɛ̀ⁿ	ʃɛ̀ⁿ	Jenaama	1	U+025b U+0300 U+207f U+0024
+a᷆ⁿ$	a᷆ⁿ	kūla᷆ⁿ	Jenaama	1	U+0061 U+1dc6 U+207f U+0024
+úú	úú	púújī	Jenaama	1	U+00fa U+00fa
+ȳⁿ	<?>	ɲòȳⁿ-ɲòȳⁿ	Jenaama	1	U+0233 U+207f
+a	a	bambàlà	Jenaama	1	U+0061
+e᷆$	e᷆	kìrìke᷆	Jenaama	1	U+0065 U+1dc6 U+0024
+ɛ̌	ɛ̌	ɲɛ̌ŋkūlù	Jenaama	1	U+025b U+030c
+ōⁿ	ōⁿ	wōⁿ-wōⁿ	Jenaama	1	U+014d U+207f
+^X$	<?>	X	Jenaama	1	U+005e U+0058 U+0024
+òⁿs	òⁿs	dòⁿsò	Jenaama	1	U+00f2 U+207f U+0073
+ȳⁿ$	<?>	ɲòȳⁿ-ɲòȳⁿ	Jenaama	1	U+0233 U+207f U+0024
+ɔ́ⁿ$	ɔ́ⁿ	kɔ̀ɲɔ́ⁿ	Jenaama	1	U+0254 U+0301 U+207f U+0024
+ə́	ə́	kə́gə̄	Jenaama	1	U+0259 U+0301
+u᷆ⁿ$	u᷆ⁿ	bànàⁿku᷆ⁿ	Jenaama	1	U+0075 U+1dc6 U+207f U+0024
+^ǹs	<?>	ǹsīnì	Jenaama	1	U+005e U+01f9 U+0073
+ȳ	<?>	dɛ̀bɛ̀-ȳ-cɛ̄ɛ̄m	Jenaama	1	U+0233
+ŋ̄	ŋː	wōlō-ŋ̄-wōlōⁿ	Jenaama	1	U+014b U+0304
+èè	èè	ʃèètāānà	Jenaama	1	U+00e8 U+00e8
+yy	yː	kōy-yà	Jenaama	1	U+0079 U+0079
+ōwⁿ$	ōwⁿ	tíyōwⁿ	Jenaama	1	U+014d U+0077 U+207f U+0024
+ēⁿ	ēⁿ	kēlēⁿ-kālāⁿ	Jenaama	1	U+0113 U+207f
+ēw$	ēw	kēw	Jenaama	1	U+0113 U+0077 U+0024

@@ -1,0 +1,1099 @@
+ID	NUMBER	ENGLISH	FRENCH	ENGLISH_SHORT	SEMFIELD_CODE	REFERENCE	OCCURRENCE	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY	ADD	COMMENT
+23	23	man, male person	homme, personne mâle	man	6.0.7.0.1.0	167.0	25	683	PERSON	4		each separate concept
+64	64	lie down, go to bed	se coucher	lie down	12.0.8.0.1.0	734.0	24	1585	SLEEP	4		each separate concept
+67	67	uproot (peanuts, weeds) by hand	déraciner (arachides, mauvaises herbes) d'la main	uproot	37.0.20.0.1.0	2298.0	24		HARVEST			PICK
+1	1	tooth	dent	tooth	10.0.21.0.1.0	499.0	25	1380	TOOTH	2		
+2	2	water	eau	water	22.0.9.0.1.0	1495.0	25	948	WATER	2		
+3	3	ear	oreille	ear	10.0.16.0.1.0	460.0	25	1247	EAR	2		
+4	4	tongue	langue (corps)	tongue	10.0.18.0.2.0	478.0	25	1205	TONGUE	2		
+6	6	woman, female person	femme, personne femelle	woman	6.0.8.0.1.0	169.0	25	962	WOMAN	4		
+7	7	skin	peau	skin	10.0.2.0.1.0	309.0	25	763	SKIN	2		
+8	8	dog	chien	dog	1.0.5.0.1.0	16.0	25	2009	DOG	2		
+9	9	blood	sang	blood	10.0.2.0.5.0	313.0	25	946	BLOOD	2		
+178	178	thick cotton thread (warp, in weaving)	fil épais de coton (chaîne, en tissage)	cotton, thread, warp	17.0.2.0.3.0	1253.0	22	133	THREAD	4		noun
+187	187	unripe (fruit)	(fruit) cru	unripe	31.0.5.0.2.0	1902.0	22	1958	UNRIPE	4		also not yet ready
+10	10	die	mourir	die	9.0.1.0.1.0	238.0	25	1494	DIE	2		
+203	203	wind (airflow)	vent	wind (air)	60.0.6.0.1.0	3118.0	22	960	WIND	4		noun
+11	11	foot	pied	foot	10.0.12.0.1.0	411.0	25	2098	FOOT OR LEG	2		
+207	207	put on one's shoes	se chausser, mettre ses chaussures	put on	16.0.15.0.2.0	1129.0	22		???		put on	see DRESS UP
+210	210	spit, emit a spit	cracher, faire un crachat	spit	11.0.11.0.1.0	612.0	22	1440	SPIT	4		also VOMIT
+216	216	domestic animal (esp. livestock)	animal domestique (surtout bétail)	animal	1.0.1.0.1.0	1.0	22		ANIMAL			not WILD ANIMAL
+217	217	woman's head shawl	foulard de tête de femme	shawl	16.0.18.0.1.0	1197.0	22		???		shawl	see HEADRESS but only for women
+12	12	(single) grain, seed, nut	graine (individuelle), noix	grain, seed, nut	15.0.10.0.1.0	941.0	25	191	NUT	4		
+13	13	meat	viande	meat	26.0.12.0.1.0	1682.0	25	634	MEAT	2		
+14	14	liver	foie	liver	10.0.7.0.1.0	359.0	25	1224	LIVER	2		
+15	15	eye	œil	eye	10.0.17.0.1.0	464.0	25	1248	EYE	2		
+245	245	shea-butter (for cooking)	beurre de karité	shea-butter	34.0.3.0.1.0	1996.0	22		???		shea-butter	see SHEA NUT TREE
+18	18	head	tête	head	10.0.15.0.1.0	455.0	25	1256	HEAD	2		
+260	260	green baobab-leaf sauce (the common sauce for millet cakes)	sauce verte aux feuilles de baobab (la sauce ordinaire pour le tô)	sauce	26.0.15.0.1.0	1693.0	22		???		Baobab leaf sauce	see BAOBAB TREE
+275	275	sift (sth)	tamiser (qch)	sift	28.0.4.0.1.0	1779.0	22		???		sift	(see WINNOWING)
+20	20	cotton	coton	cotton	17.0.1.0.1.0	1247.0	25	1850	COTTON	2		
+297	297	whirlwind, twister	tourbillon	whirlwind	60.0.6.0.10.0	3127.0	21		???		whirlwind	see TORNADO
+21	21	fire	feu	fire	35.0.1.0.1.0	2012.0	25	221	FIRE	2		
+322	322	throat (interior)	gorge (intérieure)	throat	10.0.23.0.2.0	528.0	21	1333	NECK	4		often the same concept
+23	23	man, male person	homme, personne mâle	man	6.0.7.0.1.0	167.0	25	1554	MAN	4		
+24	24	kill	tuer	kill	9.0.2.0.1.0	251.0	25	1417	KILL	2		
+350	350	sleep (verb only)	dormir (verbe seulement)	sleep	142.0.1.0.3.0	6922.0	21	2116	REST OR SLEEP	3		see above, separate concepts
+26	26	nose	nez	nose	10.0.19.0.1.0	483.0	25	1221	NOSE	2		
+28	28	oil (vegetable, liquid or buttery)	huile (végétal, liquide ou en forme de beurre)	oil	34.0.2.0.1.0	1991.0	24	2551	ORGANIC FAT OR OIL	4		
+31	31	go hunting, do some hunting (verb plus noun)	faire la chasse, aller d'la chasse (verbe plus substantif)	hunt	27.0.1.0.2.0	1718.0	24		HUNT			
+32	32	forehead	front	forehead	10.0.20.0.2.0	489.0	24	123	FOREHEAD	2		
+33	33	chicken	poulet	chicken	5.0.1.0.1.0	129.0	24	1318	CHICKEN	2		
+34	34	lung	poumon	lung	10.0.7.0.3.0	361.0	24	688	LUNG	2		
+417	417	(individuals) come together, assemble, gather	(individus) se rassembler, se réunir	assemble, gather	80.0.3.0.1.0	4010.0	21	1831	MEET	4		separate concepts
+425	425	disease, sickness, illness (general term)	maladie (mot général)	disease, sickness, illness	98.0.1.0.1.0	4819.0	21	1847	SICK	4		separate concepts
+428	428	inquiry, question (noun)	interrogation, question	question	102.0.6.0.2.0	5131.0	21		???		question see ASK (INQUIRE)	see ASK (INQUIRE)
+35	35	pestle (for pounding in a mortar)	pilon (d'piler dans un mortier)	pestle	29.0.3.0.1.0	1804.0	24	225	PESTLE	4		
+36	36	new	nouveau	new	7.0.5.0.1.0	196.0	24	1231	NEW	2		
+37	37	body	corps	body	10.0.1.0.1.0	307.0	24	1480	BODY	2		
+38	38	horn (of animal)	corne (d'animal)	horn	13.0.5.0.1.0	772.0	24	1393	HORN (ANATOMY)	2		
+463	463	earth (as brick mix or to repair walls)	banco, terre (pour faire des briques ou pour crépir les murs)	soil, earth	48.0.4.0.2.0	2628.0	21	1228	EARTH (SOIL)	4		separate concepts
+41	41	root	racine	root	15.0.2.0.1.0	867.0	24	670	ROOT	2		
+480	480	speak (verb only)	parler (verbe seulement)	speak, tell, say	102.0.1.0.2.0	5104.0	20	1458	SAY	3		separate concepts
+42	42	slightly concave circular calabash cover and winnowing van, woven from doum-palm fronds	couverture de calabasse et van d'vanner, légèrement concave, tissé en feuille de doum	winnowing van, calabash cover	28.0.2.0.1.0	1771.0	24		LID			
+43	43	egg	œuf	egg	5.0.3.0.1.0	138.0	24	744	EGG	2		
+44	44	thorn	épine	thorn	15.0.8.0.1.0	922.0	24	124	THORN	2		
+45	45	sorghum	sorgho	sorghum	36.0.2.0.3.0	2070.0	24	347	SORGHUM	4		
+47	47	knee	genou	knee	10.0.10.0.1.0	387.0	24	1371	KNEE	2		
+48	48	pounding mortar (any kind)	mourtier pilé (toute sorte)	mortar	29.0.1.0.1.0	1796.0	24		MORTAR CRUSHER			
+50	50	suck (e.g. candy)	sucer (bonbon, etc.)	suck	25.0.11.0.1.0	1595.0	24	1421	SUCK	4		
+52	52	wing (of bird)	aile (d'oiseau)	wing	13.0.4.0.1.0	762.0	24	1257	WING	2		
+569	569	(sth) be charred (by burning)	(qch) ê. carbonisé (après ê. brûlé)	char	32.0.7.0.2.0	1944.0	20		???		burnt	see BURN
+574	574	(2Pl subject pronominal)	(marque de sujet 2Pl)	2Pl subject	179.0.2.0.6.0	9607.0	20		???		you pl 	see YOU TWO
+54	54	hair	cheveux	hair	10.0.14.0.1.0	434.0	24	1040	HAIR	2		
+587	587	pod shell (of legume)	coque de gousse (de légumineux)	pod, shell	15.0.15.0.13.0	990.0	20		???		pod	see SHELL but for vegetables as well
+594	594	unroll, roll back down (rolled-up ends of pants)	désenrouler (bout de pantalon enroulé)	unroll	16.0.23.0.4.0	1230.0	20		???		unroll	see above unravel
+596	596	eggshell	coque d'œuf	eggsheel	13.0.10.0.1.0	786.0	20		???		shell	see SHELL but for an egg
+624	624	shade, shadows	ombre	shade	174.0.6.0.1.0	8163.0	20	1388	SHADE	4		same concept
+55	55	mouth	bouche	mouth	10.0.18.0.1.0	477.0	24	674	MOUTH	2		
+56	56	hearth for cooking formed by three large stones (or two stones against a wall)	foyer de cuisine constitué par trois grosses pierres (ou par deux pierres contre un mur)	oven, hearth	32.0.1.0.1.0	1908.0	24		OVEN			
+57	57	carapace, shell (of tortoise)	carapace (coque de tortue)	shell, carapace	13.0.10.0.2.0	787.0	24	598	SHELL	4		
+58	58	beard	barbe	beard	10.0.14.0.3.0	436.0	24	678	BEARD	2		
+59	59	goat	chèvre	goat	1.0.6.0.1.0	17.0	24	1502	GOAT	2		
+60	60	squat	s'accroupir	squat	12.0.3.0.1.0	703.0	24		CROUCH			
+61	61	back (body)	dos	back	10.0.4.0.8.0	325.0	24	1482	SHOULDER	4		
+62	62	stem, stalk	tige	stem	15.0.3.0.1.0	873.0	24	2628	PLANT STEM	4		
+64	64	lie down, go to bed	se coucher	lie down	12.0.8.0.1.0	734.0	24	215	LIE DOWN	4		
+65	65	millet	mil	millet	36.0.2.0.2.0	2069.0	24	931	MILLET	2		
+68	68	hunger (noun)	faim	hunger	25.0.8.0.1.0	1580.0	24	1864	HUNGER	3		
+69	69	shut eye(s)	fermer les yeux	shut eye	11.0.19.0.3.0	664.0	23		CLOSE THE EYES			
+70	70	fabric, cloth	tissu, étoffe	fabric, cloth	16.0.4.0.1.0	1054.0	23	1616	CLOTH	4		
+71	71	old (thing, animal)	vieux (objet, animal)	old	7.0.1.0.7.0	181.0	23	2113	OLD (USED)	4		
+745	745	Muslim holy man, marabou	marabout musulman	holy man	87.0.12.0.4.0	4330.0	20		???		marabout	see SHAMAN
+73	73	okra	gombo	okra	36.0.8.0.5.0	2154.0	23	1737	OKRA	2		
+765	765	snuff, sniffing tobacco	tabac d'priser	snuff	51.0.3.0.1.0	2716.0	19		???		snuff	see TOBACCO
+74	74	boubou (robe) or shirt (all types)	boubou ou chemise (toutes sortes)	boubou	16.0.1.0.1.0	1023.0	23	461	BOUBOU	4		
+75	75	stomach	estomac	stomach	10.0.7.0.6.0	364.0	23	819	STOMACH	2		
+76	76	salt	sel	salt	33.0.9.0.1.0	1976.0	23	1274	SALT	2		
+78	78	elbow	coude	elbow	10.0.10.0.5.0	391.0	23	981	ELBOW	2		
+79	79	laughter	rire (substantif)	laughter	11.0.16.0.3.0	650.0	23	2958	LAUGHTER	2		
+80	80	urine	urine	urine	11.0.15.0.2.0	646.0	23	1142	URINE	2		
+795	795	I am not (copula, with noun)	je ne suis pas (copule, avec substantif)	be	64.0.5.0.4.0	3282.0	19		???		it is not	see BE, (negative)
+803	803	crumple (e.g. tin can)	froisser (boîte de conserve, etc.)	crumple	30.0.3.0.2.0	1831.0	19		???		crumple	see WRINKLE (verb)
+81	81	hat (any type)	chapeau (toute sorte)	hat	16.0.16.0.1.0	1156.0	23	771	HAT	4		
+82	82	honey	miel	honey	24.0.1.0.1.0	1528.0	23	942	HONEY	2		
+83	83	boundary (of field)	limite (d'un champ)	boundary	37.0.5.0.1.0	2179.0	23	1010	BOUNDARY	4		
+84	84	shoulderbag from an entire goatskin (carried to fields)	gibecière d'une peau entière de chèvre (portée aux champs)	shoulderbag	43.0.1.0.1.0	2468.0	23		BAG			
+85	85	farmer, peasant	cultivateur, paysan	farmer	37.0.1.0.1.0	2157.0	23	979	FARMER	4		
+86	86	reap, cut (stems, e.g. harvesting rice or roselle) by slashing with a sickle	faucher, couper (tiges, par ex. en récoltant le riz ou le dah) d'coups de faucille	reap, harvest	37.0.23.0.1.0	2331.0	23	1827	HARVEST CROPS	4		
+87	87	donkey	âne	donkey	3.0.1.0.1.0	95.0	23	1862	DONKEY	2		
+842	842	itchy area, rash	démangeaison	itch, rash	98.0.17.0.1.0	4917.0	19		???		rash	 see ITCH
+88	88	wide, flat, slightly concave grindstone with coarse texture on which one grinds (e.g. millet) with a small round stone	pierre large, plate et légèrement creuse d'surface rugueuse sur laquelle on écrase (mil etc.) avec une petite pierre ronde	grindstone	30.0.2.0.1.0	1822.0	23	1243	GRINDSTONE	4		
+844	844	imam (Muslim preacher)	imam	imam	87.0.12.0.5.0	4331.0	19		???		Imam	see PRIEST
+850	850	daba (hoe) with a pin in the back of the blade inserted into a hole in the curved end of the short handle, for basic farm work	daba d'lame large dont le derrière pointu est inséré dans un trou au bout courbé du manche court, sert d'cultiver	hoe, daba	37.0.7.0.2.0	2199.0	19		HOE			(but only one prong/blade)
+89	89	breathe	respirer	breathe	11.0.1.0.10.0	555.0	23	1407	BREATHE	2		
+90	90	horse	cheval	horse	1.0.8.0.1.0	43.0	23	615	HORSE	2		
+878	878	transform (sth, into sth)	transformer (qch, en qch)	transform	64.0.2.0.1.0	3263.0	19		???		transform	 see CHANGE
+879	879	(1Pl subject pronominal)	(marque de sujet 1Pl)	1Pl subject	179.0.2.0.4.0	9605.0	19		WE			no INCL vs EXCL distinction
+91	91	heart	cœur	heart	10.0.7.0.2.0	360.0	23	1223	HEART	2		
+92	92	garment, clothes	vêtement, habits	garment, clothes, clothing	16.0.13.0.1.0	1122.0	23	1895	CLOTHES	4		
+93	93	shoe, footwear (any kind)	chaussure (toute sorte)	shoe	16.0.15.0.1.0	1128.0	23	1381	SHOE	4		
+94	94	winnow (pounded grain) by dropping it slowly into a calabash in the wind (which blows chaff away)	vanner (graines pilées) en les laissant tomber dans une calebasse, au vent (qui emporte le son)	winnow	28.0.1.0.1.0	1767.0	23		WINNOWING			
+95	95	onion	oignon	onion	36.0.6.0.6.0	2140.0	23	2366	ONION	2		
+97	97	traditional flint lighter (fire-making device)	briquet d'silex traditionnel	lighter	35.0.3.0.1.0	2028.0	23		???		lighter	
+98	98	eat (meal)	manger (repas)	eat meal	25.0.1.0.2.0	1540.0	23	1336	EAT	4		
+100	100	cat	chat	cat	1.0.3.0.1.0	5.0	23	1208	CAT	2		
+101	101	marrow	moelle	marrow	13.0.11.0.1.0	794.0	23	1835	MARROW	2		
+937	937	turn on (lights)	allumer (lumière)	turn on	174.0.7.0.1.0	8167.0	19		???		turn on	same as IGNITE
+961	961	(2Sg independent pronoun)	(pronom indépendant 2Sg)	2Sg	179.0.1.0.2.0	9591.0	19		YOU  			sg
+102	102	hiccup (noun)	hoquet (substantif)	hiccup	11.0.1.0.9.0	554.0	23		HICCOUGH			
+965	965	speak, talk, do some talking (verb plus noun)	parler (verbe plus substantif)	speak, tell, say	102.0.1.0.1.0	5103.0	19	1623	SPEAK	4		separate concepts
+968	968	scarification (decorative facial scars, general word)	balafre, scarification (cicatrices décoratives, mot général)	scarification	18.0.4.0.1.0	1304.0	19		???		scarification	see SCAR, but not from a wound
+103	103	cut throat of (animal), slaughter	égorger	cut throat, slaughter	2.0.11.0.1.0	91.0	23	1796	SLAUGHTER	4		
+105	105	pants	pantalon	pants	16.0.9.0.2.0	1089.0	23		TROUSERS			
+107	107	breakfast	petit déjeuner	breakfast	26.0.2.0.1.0	1610.0	23	1322	BREAKFAST	2		
+978	978	(2Pl independent pronoun)	(pronom indépendant 2Pl)	2Pl	179.0.1.0.4.0	9593.0	19		YOU  			pl
+108	108	animal fat (in meat)	graisse d'animal (dans la viande)	fat	26.0.13.0.1.0	1687.0	23	1282	FAT (FROM ANIMALS)	4		
+111	111	large wooden eating bowl	grosse écuelle d'manger en bois	bowl	42.0.1.0.1.0	2455.0	23		BOWL (CLASSIFIER)			
+112	112	sickle (for cutting grass, or cutting stems of rice, roselle, sesame with slashing action)	faucille (pour couper l'herbe, ou pour couper les tiges de riz, de dah, de sésame en frappant)	sickle	37.0.9.0.1.0	2216.0	23	2132	SICKLE OR SCYTHE	4		
+113	113	urinate, have a piss	uriner, pisser	urinate, piss	11.0.15.0.1.0	645.0	23	592	PISS	4		
+114	114	scale (of fish or snake)	écaille (de poisson ou de serpent)	scale	13.0.9.0.2.0	785.0	23	730	SNAKE	4		
+114	114	scale (of fish or snake)	écaille (de poisson ou de serpent)	scale	13.0.9.0.2.0	785.0	23	266	SCALE	4		
+1011	1011	(sth) become short, be shortened	(qch) devenir plus court, se raccourcir	short	69.0.8.0.2.0	3521.0	19		???		shorten	see SHORT (cause)
+117	117	cow-pea	haricot	cow-pea	36.0.3.0.1.0	2110.0	23		BEAN OR PEA			
+1015	1015	interethnic cousinhood (joking relationship, e.g. Dogon and Bozo, Dogon and Songhay)	cousinage interethnique (plaisanterie, par ex. dogon et bozo, ou dogon et songhay)	joking	78.0.5.0.6.0	3859.0	19		???		joking cousin	see COUSIN, but specific to W. Africa
+118	118	sweet potato	patate (douce)	sweet potato	36.0.6.0.2.0	2136.0	23	159	SWEET POTATO	2		
+119	119	testicles	testicules	testicles	10.0.9.0.1.0	378.0	23	797	TESTICLES	2		
+120	120	female breast	sein de la femme	breast	10.0.4.0.6.0	323.0	23	1402	BREAST	2		
+124	124	feather	plume (d'oiseau)	feather	13.0.7.0.1.0	779.0	23	1201	FEATHER	2		
+125	125	hunter	chasseur	hunter	27.0.1.0.1.0	1717.0	23	1053	HUNTER	2		
+126	126	roselle, bissap (cultivated hibiscus, used in cooking and for beverages; Hibiscus sabdariffa)	dah, oseille (hibiscus cultivé, utilisé dans la cuisine et dans les boissons; Hibiscus sabdariffa)	roselle, bissap	33.0.6.0.1.0	1960.0	23		???		hibiscus	
+127	127	road, path	chemin, route	road	57.0.5.0.1.0	2969.0	23	2457	PATH OR ROAD	2		
+128	128	belly	ventre	belly	10.0.4.0.1.0	318.0	23	1251	BELLY	2		
+129	129	African eggplant (similar to tomato) in two varieties	aubergine africaine (ressemble aux tomates) en deux variétés	eggplant (African)	36.0.8.0.1.0	2150.0	23		AUBERGINE			
+1067	1067	pour (tea) back and forth	transvaser (thé)	pour	149.0.8.0.2.0	7360.0	18		???		pour back and forth	see POUR, but pour back and forth to cool or mix
+132	132	sheath (of knife or saber)	fourreau, gaine (de couteau ou de sabre)	sheath	14.0.5.0.1.0	855.0	23		???		sheath	
+133	133	large basket with squared base, woven tightly from grass stems (for bringing harvested millet grain spikes from the fields to the village)	gros panier carré en bas, tissé solidement d'base de tiges de graminées (sert d'apporter les épis de mil récoltés du champs au village)	basket (grass stems)	44.0.1.0.1.0	2486.0	23		BASKET			
+134	134	spin (cotton thread)	filer (fil de coton)	spin	17.0.6.0.1.0	1266.0	23	121	SPIN	4		
+141	141	kola nut	cola	kola	36.0.5.0.1.0	2126.0	23		???		kola nut	
+1095	1095	(sb's) shadow	ombre (de qn)	shadow	174.0.6.0.2.0	8164.0	18	1388	SHADE	4		same concept
+142	142	crumple (paper or clothing)	froisser (papier ou vêtement)	crumple	30.0.3.0.1.0	1830.0	23	1895		4	crumple	
+143	143	manure (sometimes mixed with garbage) as fertilizer	fumier (parfois mélangé d'ordures) en tant qu'engrais	manure, fertilizer	37.0.6.0.1.0	2191.0	23		???		manure	
+144	144	personal name	nom personnel	name	102.0.4.0.1.0	5121.0	23		NAME			
+145	145	bird (any)	(tout) oiseau	bird	1.0.11.0.1.0	47.0	23	937	BIRD	4		
+148	148	laugh (verb only)	rire (verbe seulement)	laugh	11.0.16.0.2.0	649.0	23	1355	LAUGH	3		
+149	149	rice	riz	rice	36.0.2.0.6.0	2073.0	23	926	RICE	2		
+150	150	rinse out one's mouth	se rincer la bouche	rinse mouth	11.0.12.0.1.0	632.0	23		???		rinse	
+1127	1127	my share	ma part	share, portion	111.0.17.0.1.0	5516.0	18		???		share	see SHARE (noun)
+152	152	tendon, sinew, nerve	tendon, nerf	nerve, tendon, sinew	10.0.8.0.1.0	373.0	23	1137	TENDON	4		
+1143	1143	carry (hoe, ax) with blade resting on one's shoulder	porter (houe, hache) avec la lame sur l'épaule	carry	148.0.2.0.3.0	7267.0	18	413	CARRY ON SHOULDER	4		but not like a bag, carry tool on shoulder
+152	152	tendon, sinew, nerve	tendon, nerf	nerve, tendon, sinew	10.0.8.0.1.0	373.0	23	2626	NERVE	4		
+1149	1149	drive in (nail)	clouer (clou)	nail, drive in	143.0.3.0.3.0	6963.0	18		???		nail (verb)	see POUND
+153	153	couscous (from millet flour)	couscous (d'base de farine de mil)	couscous	26.0.8.0.1.0	1656.0	23		???		couscous	
+154	154	corn, maize	maïs	corn, maize	36.0.2.0.8.0	2075.0	23	506	MAIZE	2		
+155	155	millet beer	bière de mil	millet beer	22.0.6.0.1.0	1480.0	23		BEER			
+156	156	moon	lune	moon	59.0.2.0.1.0	3059.0	23	1313	MOON	2		
+157	157	sun	soleil	sun	59.0.1.0.1.0	3058.0	23	1343	SUN	2		
+158	158	hot chili pepper	piment	chili pepper	33.0.5.0.1.0	1958.0	23		CHILI PEPPER			
+160	160	night	nuit	night	73.0.1.0.1.0	3698.0	23	1233	NIGHT	2		
+1186	1186	saw (gourd) in half (to make calabashes)	scier (gourde) pour faire des calebasses	saw	137.0.6.0.1.0	6783.0	18		???		saw	SAW (verb)
+161	161	lunch	déjeuner	lunch	26.0.2.0.3.0	1612.0	23	768	LUNCH	2		
+162	162	(sb, camel) kneel	(qn, chameau) s'agenouiller	kneel	12.0.2.0.1.0	701.0	22	66	KNEEL	4		
+163	163	grill, roast (meat) over a fire	griller (viande) au-dessus du feu	roast, grill	32.0.4.0.2.0	1925.0	22	1962	ROAST (SOMETHING)	4		
+164	164	see	voir	see	119.0.1.0.1.0	5967.0	22	1409	SEE	2		
+165	165	sand, sandy soil	sable, sol sableux	sand	48.0.6.0.1.0	2639.0	22	671	SAND	4		
+167	167	weave (fabric, from cotton thread)	tisser (tissu, en fil de coton)	weave	17.0.8.0.4.0	1276.0	22	133	WEAVE	4		
+169	169	belch, emit a belch	éructer, roter	belch, burp	11.0.1.0.4.0	549.0	22	2245	BELCH	4		
+170	170	tree bark	écorce	tree bark	15.0.4.0.1.0	883.0	22	1204	BARK	2		
+171	171	penis	pénis, sexe de l'homme	penis	10.0.9.0.5.0	382.0	22	1222	PENIS	2		
+173	173	sprinkle (water) from a container	asperger (eau) d'un récipient	sprinkle	47.0.2.0.1.0	2558.0	22		???		sprinkle	
+175	175	wrap (woman's garment)	pagne (vêtement de femme)	wrap (woman's)	16.0.8.0.1.0	1076.0	22	1113	WRAPPER	4		
+176	176	bracelet	bracelet	bracelet	20.0.1.0.1.0	1341.0	22	1754	BRACELET	2		
+180	180	six	six	6.0	109.0.2.0.5.0	5383.0	22	1703	SIX	2		
+181	181	three	trois	3.0	109.0.2.0.2.0	5380.0	22	492	THREE	2		
+184	184	lick	lécher	lick	25.0.10.0.1.0	1593.0	22	319	LICK	2		
+186	186	get old, age (verb)	vieiillir, ê. ou devenir vieux	get old	7.0.1.0.3.0	177.0	22	1789	AGE	4		
+1277	1277	daba (hoe-like tool for weeding, using a pulling action, all types)	daba (instrument d'manche pour désherber, en tirant vers soi, toutes sortes)	hoe, daba	37.0.7.0.1.0	2198.0	18		???		hoe	 but see comment above
+190	190	thing (general term)	chose (mot général)	thing, object	64.0.12.0.1.0	3314.0	22	738	THING	4		
+191	191	black, dark	noir, sombre	black, dark	160.0.3.0.1.0	7590.0	22	2633	BLACK OR DARK	4		
+192	192	chewstick, toothpick	cure-dents	chewstick, toothpick	19.0.5.0.1.0	1327.0	22		???		toothpick	
+193	193	near, close	proche, près	near, close	65.0.2.0.4.0	3325.0	22	1942	NEAR	4		
+198	198	meal (cooked)	repas (cuit)	meal	26.0.1.0.1.0	1606.0	22	1526	MEAL	4		
+199	199	far, distant	lointain	far, distant	65.0.1.0.1.0	3316.0	22	1406	FAR	4		
+200	200	place, location	lieu, endroit	place	66.0.1.0.1.0	3343.0	22	723	PLACE (POSITION)	4		
+202	202	necklace	collier	necklace	20.0.5.0.1.0	1361.0	22	1961	NECKLACE	2		
+204	204	vagina	vagin	vagina	10.0.9.0.7.0	384.0	22	1836	VAGINA	2		
+205	205	cream of millet	crème de mil	cream of millet	22.0.1.0.1.0	1446.0	22		???		porridge	
+206	206	heavy	lourd	heavy	165.0.1.0.1.0	7779.0	22	1210	HEAVY	2		
+211	211	supper	dîner	supper	26.0.2.0.6.0	1615.0	22	1833	DINNER (SUPPER)	2		
+212	212	excrement, shit (noun)	excréments, caca	excrement, shit	11.0.20.0.2.0	666.0	22	675	FAECES (EXCREMENT)	4		
+213	213	swallow	avaler	swallow	25.0.12.0.1.0	1597.0	22	897	SWALLOW	2		
+219	219	sieve	tamis	sieve	28.0.5.0.1.0	1787.0	22	86	SIEVE	2		
+221	221	earthenware water jar (all types)	canari, jarre d'eau en terre cuite (toutes sortes)	jar, waterjar	39.0.1.0.1.0	2390.0	22		???		ceramic pot	
+222	222	comb, crest (on head of rooster)	crête (de coq)	comb, crest	13.0.6.0.1.0	775.0	22	188	COMB OF BIRD	4		
+226	226	cloud	nuage	cloud	60.0.9.0.1.0	3134.0	22	1489	CLOUD	2		
+228	228	handful (of food)	tartine (poignée de nourriture)	handful	25.0.5.0.1.0	1566.0	22		???		handful	
+229	229	finger	doigt	finger	10.0.13.0.1.0	422.0	22	1303	FINGER	2		
+232	232	trough (of wood or metal, for drinking or to beat as a drum)	abreuvoir (en bois ou en métal, pour l'eau ou d'battre comme tambour)	trough	39.0.5.0.1.0	2418.0	22	205	TROUGH	4		
+233	233	buttock	fesse	buttock	10.0.5.0.1.0	335.0	22	834	BUTTOCKS	2		
+234	234	come	venir	come	146.0.2.0.1.0	7027.0	22	1446	COME	2		
+236	236	pigeon (domestic)	pigeon (domestic)	pigeon	1.0.9.0.1.0	44.0	22	1853	DOVE	4		
+237	237	big, large	gros, grand	big, large	69.0.1.0.1.0	3456.0	22	1202	BIG	2		
+240	240	firewood	bois de chauffage	firewood	35.0.2.0.1.0	2019.0	22	10	FIREWOOD	2		
+241	241	christening, naming ceremony (for newborn, one week after birth)	baptême (rite où on donne un nom au nouveau-né, sept jours après la naissance)	baptism	8.0.2.0.1.0	213.0	22		???		baptism	
+242	242	slash earth in field with pick-hoe (to plant seeds)	faire des poquets avec la pioche dans un champ (afin de semer)	slash earth	37.0.13.0.1.0	2234.0	22		PLANT (SOMETHING)			
+243	243	fonio (cultivated grain, Digitaria exilis)	fonio (céréale cultivée, Digitaria exilis)	fonio	36.0.2.0.7.0	2074.0	22		???		fonio	
+244	244	chaff, outer covering of grains and their connection to grain spikes	balle, son extérieur des graines de céréales et ce qui les attache d'l'épi	chaff	15.0.11.0.2.0	961.0	22	2363	CHAFF (HUSK)	4		
+246	246	calf (of leg)	mollet	calf (leg)	10.0.12.0.3.0	413.0	22	498	CALF OF LEG	2		
+249	249	two	deux	2.0	109.0.2.0.1.0	5379.0	22	1498	TWO	2		
+251	251	blow on (e.g. fire)	souffler sur (feu etc.)	blow	35.0.12.0.1.0	2052.0	22		BLOW (WITH MOUTH)			
+253	253	(female) give birth to (baby)	(femelle) accoucher (bébé)	bear, give birth to	8.0.1.0.1.0	204.0	22		GIVE BIRTH			
+254	254	(sb) braid the hair of, do the hair of (a woman)	(qn) tresser les cheveux de, coiffer (une femme)	braid	19.0.1.0.5.0	1321.0	22		PLAIT OR BRAID OR WEAVE			
+255	255	sweat (noun), perspiration	sueur	sweat	11.0.22.0.1.0	676.0	22	125	SWEAT (SUBSTANCE)	3		
+256	256	armpit, underarm (where infant is grabbed)	aisselle (où on prend un enfant)	armpit	10.0.11.0.11.0	409.0	22	1886	ARMPIT	4		
+257	257	good	bon	good	169.0.1.0.1.0	7935.0	22	1035	GOOD	2		
+258	258	dip briefly (e.g. piece of millet cake in sauce, clothing in water)	tremper rapidement (tartine de tô dans la sauce, vêtement dans l'eau, etc.)	dip	25.0.6.0.1.0	1572.0	22		???		dip	
+261	261	cold (e.g. water)	froid, frais (eau, etc.)	cold	173.0.1.0.1.0	8100.0	22	1287	COLD	4		
+265	265	boy	garçon	boy	6.0.4.0.2.0	155.0	22	1366	BOY	2		
+267	267	thousand	mille	thousand	109.0.6.0.1.0	5405.0	22	1843	THOUSAND	2		
+270	270	(liquid) drip (one drop at a time)	(liquide) goutter (goutte par goutte)	drip	47.0.1.0.1.0	2545.0	22	808	DRIP (FALL IN GLOBULES)	4		
+271	271	cow, bull (any bovine)	bovin (vache ou taureau)	cow, bull	1.0.4.0.1.0	6.0	22	1007	COW	4		
+272	272	five	cinq	5.0	109.0.2.0.4.0	5382.0	22	493	FIVE	2		
+1632	1632	deaf-mute, deaf person who communicates by gestures	sourd-muet, personne sourde qui communique avec des gestes	deaf, mute	122.0.15.0.1.0	6195.0	17		???		deaf-dumb person	see MUTE PERSON, also deaf
+277	277	sew (with needle)	coudre (d'l'aiguille)	sew	16.0.24.0.1.0	1232.0	22	1457	SEW	4		
+279	279	macari (black spice made with seeds of roselle)	macari (épice noire d'base de graines de dah)	macari	33.0.3.0.1.0	1954.0	22		???		macari	
+282	282	tea	thé	tea	22.0.8.0.1.0	1494.0	22	1373	TEA	2		
+287	287	girl	fille	girl	6.0.4.0.3.0	156.0	22	1646	GIRL	2		
+288	288	give	donner	give	99.0.1.0.1.0	5013.0	22	1447	GIVE	2		
+289	289	face	visage	face	10.0.20.0.1.0	488.0	22	1560	FACE	2		
+291	291	kidney	rein	kidney	10.0.7.0.7.0	365.0	21	489	KIDNEY	2		
+293	293	sorceror (who goes out at night, sucks blood, etc.)	sorcier (qui sort la nuit, suce le sang, etc.)	sorceror	88.0.1.0.7.0	4362.0	21	823	SORCERER	4		
+294	294	toe	orteil	toe	10.0.13.0.7.0	428.0	21	1389	TOE	2		
+295	295	where? (location)	où? (position)	where?	104.0.6.0.1.0	5292.0	21	1237	WHERE	4		
+302	302	how?	comment?	how?	104.0.9.0.1.0	5297.0	21	1239	HOW	2		
+306	306	chin	menton	chin	10.0.20.0.11.0	498.0	21	1510	CHIN	2		
+1714	1714	air (e.g. in tire)	air (dans un pneu, etc.)	air, atmosphere	60.0.6.0.11.0	3128.0	17	960	WIND	4		same concept
+308	308	spleen	rate	spleen	10.0.7.0.5.0	363.0	21	1744	SPLEEN	2		
+310	310	hoof	sabot	hoof	13.0.4.0.8.0	769.0	21	152	HOOF	2		
+311	311	take a stroll, walk around	faire une promenade	stroll, walk	146.0.29.0.1.0	7188.0	21		???		stroll, wander	
+312	312	(hen) brood (sit on eggs)	(poule) couver	brood	5.0.5.0.1.0	145.0	21	2075	BROOD (VERB)	4		
+313	313	be or do for a long time	durer, ê. ou faire pendant longtemps	long time	71.0.9.0.1.0	3653.0	21	1579		4	sustain	
+315	315	yoke wrapped in cloth around donkey's neck and tied by a rope to the two long poles of a cart	youg emballé en tissu autour du cou de l'âne, attaché par une corde aux deux perches de la charrette	yoke	3.0.2.0.5.0	100.0	21		YOKE			
+316	316	look at	regarder (qch)	look	119.0.2.0.1.0	5969.0	21	1819	LOOK	2		
+317	317	cause (sb) to sit, have (sb) sit, seat (sb)	faire asseoir (qn)	sit, seat (verb)	12.0.1.0.8.0	697.0	21	1476	CHAIR	4		
+317	317	cause (sb) to sit, have (sb) sit, seat (sb)	faire asseoir (qn)	sit, seat (verb)	12.0.1.0.8.0	697.0	21	2878	SEAT (SOMEBODY)	4		
+320	320	knife	couteau	knife	145.0.1.0.1.0	6991.0	21	1352	KNIFE	2		
+321	321	intestines (big and small)	intestin (gros et grêle)	intestine	10.0.7.0.10.0	368.0	21	1334	GUTS	4		
+322	322	throat (interior)	gorge (intérieure)	throat	10.0.23.0.2.0	528.0	21	1346	THROAT	4		
+323	323	cemetery	cimetière	cemetery	9.0.7.0.1.0	261.0	21		???		cemetery	
+12	12	(single) grain, seed, nut	graine (individuelle), noix	grain, seed, nut	15.0.10.0.1.0	941.0	25	714	SEED 	4		same concept
+325	325	year	année	year	71.0.3.0.1.0	3620.0	21	1226	YEAR	2		
+326	326	rainy season, wet season (June-September)	hivernage, saison pluvieuse (juin-septembre)	rainy season, wet season	75.0.1.0.1.0	3773.0	21	453	RAINY SEASON	4		
+327	327	village, town, settlement	village, ville	village	52.0.1.0.1.0	2725.0	21	1391	TOWN	4		
+329	329	pig	cochon	pig	1.0.12.0.1.0	49.0	21	1337	PIG	2		
+17	17	smoke	fumée	smoke	35.0.11.0.1.0	2050.0	25	778	SMOKE	2		noun
+330	330	greet (sb)	saluer (qn)	greet	105.0.1.0.2.0	5302.0	21		???		greet	
+19	19	drink (sth)	boire (qch)	drink	21.0.1.0.1.0	1436.0	25	1401	DRINK	4		verb
+336	336	bad, no good	mauvais	bad	169.0.7.0.1.0	7969.0	21	1292	BAD	4		
+337	337	first (adj)	premier	first	110.0.1.0.1.0	5415.0	21	728	FIRST	4		
+22	22	child	enfant	child	6.0.4.0.1.0	154.0	25	2099	CHILD	2		can also mean fruit
+338	338	lay (egg)	pondre (œuf)	lay egg	5.0.4.0.1.0	143.0	21	2071	LAY (VERB)	4		
+339	339	country, land	pays, terre	country, land	57.0.1.0.1.0	2952.0	21	1300	COUNTRY	2		
+340	340	froth, foam (on tea)	écume, mousse (sur le thé)	froth, foam	47.0.5.0.1.0	2574.0	21	1768	FOAM	4		
+343	343	fear (noun)	peur	fear	117.0.10.0.2.0	5815.0	21	781	FEAR (FRIGHT)	3		
+30	30	milk	lait	milk	23.0.1.0.1.0	1496.0	24	635	MILK	2		noun
+344	344	only	seulement	only	177.0.7.0.1.0	8219.0	21	1580	ONLY	2		
+347	347	hot (object, water)	chaud (objet, eau, etc.)	hot	173.0.2.0.1.0	8107.0	21	1286	HOT	4		
+352	352	bring	apporter, amener	bring	147.0.1.0.1.0	7243.0	21	692	BRING	2		
+354	354	blink (one's eyes)	cligner, clignoter (l'œil)	blink	11.0.5.0.1.0	583.0	21	1655	BLINK	4		
+355	355	herder, shepherd	berger	herder, shepherd	2.0.1.0.1.0	50.0	21	2544	SHEPHERD	4		
+356	356	fodder (grass or greens, for livestock)	fourrage (de l'herbe ou autre végétation, pour le bétail)	fodder	15.0.7.0.15.0	914.0	21		???		fodder	
+357	357	bladder	vessie	bladder	10.0.7.0.9.0	367.0	21	1746	BLADDER	2		
+358	358	Fulbe person	(un) peul	fulbe	81.0.11.0.1.0	4083.0	21		???		Fula person	
+360	360	heel	talon	heel	10.0.12.0.8.0	418.0	21	980	HEEL	2		
+361	361	the bush, outback (away from settlements)	la brousse (hors des villages)	outback, bush	52.0.3.0.1.0	2733.0	21	1683		3	wilderness	
+363	363	tomorrow	demain	tomorrow	72.0.5.0.1.0	3683.0	21	1329	TOMORROW	2		
+365	365	bury (sb)	enterrer (qn)	bury	9.0.4.0.1.0	256.0	21	1719	BURY	4		
+366	366	shroud (in white cotton cloth, for wrapping a corpse)	linceul (en tissue blanc de coton, d'emballer un cadavre)	shroud	9.0.5.0.1.0	259.0	21		???		shroud	
+367	367	divide, share (sth)	diviser, partager (qch)	divide, share	99.0.2.0.1.0	5019.0	21	884	SHARE	4		
+368	368	cowry shells (used as ornament, tossed by fortune-tellers, and formerly used as currency)	cauris (utilisés comme ornement, jetés par les devins, et utilisés jadis comme devise)	cowry	13.0.10.0.3.0	788.0	21		???		cowry	
+369	369	fist	poing	fist	10.0.11.0.6.0	404.0	21	1473	FIST	2		
+370	370	west	ouest	west	61.0.1.0.2.0	3143.0	21	1817	WEST	2		
+373	373	bell (e.g. for cow)	cloche (de vache etc.)	bell	93.0.9.0.1.0	4571.0	21	2246	BELL	4		
+374	374	life	vie	life	9.0.18.0.4.0	302.0	21	210	LIFE	2		
+375	375	which?	quel?	which?	104.0.5.0.1.0	5291.0	21	727	WHICH	2		
+376	376	granary	grenier	granary	55.0.1.0.1.0	2913.0	21		???		granary	
+377	377	green	vert	green	160.0.5.0.1.0	7599.0	21	1425	GREEN	2		
+379	379	slave	esclave	slave	85.0.5.0.1.0	4183.0	21	812	SLAVE	2		
+380	380	star	étoile	star	59.0.3.0.1.0	3063.0	21	1430	STAR	2		
+61	61	back (body)	dos	back	10.0.4.0.8.0	325.0	24	1291	BACK	4		see also HIP
+382	382	mud brick	brique de banco	brick	54.0.5.0.1.0	2787.0	21		BRICK			
+386	386	give a drink to (sb), have (sb, animals) drink	faire boire (qn), faire abreuver (bétail)	give drink	21.0.1.0.2.0	1437.0	21	773		4	water v.	
+387	387	weaver	tisserand	weaver	17.0.8.0.1.0	1273.0	21		???		weaver	
+391	391	small, little	petit	small, little	69.0.3.0.1.0	3476.0	21	1246	SMALL	2		
+392	392	seven	sept	7.0	109.0.2.0.6.0	5384.0	21	1704	SEVEN	2		
+393	393	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	blacksmith	82.0.1.0.1.0	4097.0	21	1001	BLACKSMITH	4		
+395	395	short	court	short	69.0.8.0.1.0	3520.0	21	1645	SHORT	2		
+396	396	hear (sound, voice)	entendre (bruit, voix)	hear	122.0.1.0.1.0	6074.0	21	1408	HEAR	4		
+398	398	begin, start (sth)	commencer (qch)	begin, start	77.0.1.0.2.0	3806.0	21	1806	BEGIN	4		
+399	399	sweet, sugary (taste)	(goût) doux, sucré	sweet	124.0.2.0.1.0	6264.0	21	717	SWEET	4		
+401	401	time, moment in time	temps, moment	time, moment	71.0.15.0.1.0	3670.0	21	892	TIME	4		
+402	402	rope, cord	corde	rope	125.0.8.0.1.0	6360.0	21	1218	ROPE	2		
+403	403	go down	descendre	go down	61.0.7.0.2.0	3177.0	21	2014	GO DOWN (DESCEND)	2		
+405	405	go up, rise	monter	go up, rise	61.0.6.0.5.0	3165.0	21	705	GO UP (ASCEND)	4		
+406	406	sing (verb only)	chanter (verbe seulement)	sing	92.0.8.0.2.0	4528.0	21	1261	SING	3		
+407	407	eight	huit	8.0	109.0.2.0.7.0	5385.0	21	1705	EIGHT	2		
+411	411	strength, power, force	force, pouvoir	power, strength, force	86.0.1.0.1.0	4193.0	21	2526	POWER	4		
+411	411	strength, power, force	force, pouvoir	power, strength, force	86.0.1.0.1.0	4193.0	21	1637	AUTHORITY	4		
+412	412	ten	dix	10.0	109.0.3.0.1.0	5387.0	21	1515	TEN	2		
+416	416	go to sleep, fall asleep, sleep	dormir, s'endormir	sleep	142.0.1.0.1.0	6920.0	21	1106	FALL ASLEEP	4		
+418	418	udder	pis	udder	13.0.1.0.2.0	747.0	21	154	UDDER	2		
+419	419	brain (tissue)	cervelle	brain	10.0.2.0.8.0	316.0	21	1583	BRAIN	4		
+421	421	sky	ciel	sky	60.0.8.0.1.0	3133.0	21	1732	SKY	2		
+424	424	my friend	mon ami	friend	79.0.2.0.1.0	3982.0	21		FRIEND			
+425	425	disease, sickness, illness (general term)	maladie (mot général)	disease, sickness, illness	98.0.1.0.1.0	4819.0	21	1986	DISEASE	4		
+426	426	earring	boucle d'oreille	earring	20.0.13.0.1.0	1404.0	21	770	EARRING	2		
+427	427	four	quatre	4.0	109.0.2.0.3.0	5381.0	21	1500	FOUR	2		
+431	431	cultivated sesame (Sesamum indicum)	sésame cultivé (Sesamum indicum)	sesame	36.0.7.0.1.0	2148.0	21		???		sesame	
+432	432	fear, be afraid of	avoir peur de	fear	117.0.10.0.1.0	5814.0	21	2109	FEAR OR FRIGHTEN	4		
+433	433	mat	natte	mat	56.0.1.0.1.0	2938.0	21	195	MAT	2		
+437	437	carry (sth, on one's head)	porter (qch, d'la tête)	carry on head	148.0.1.0.1.0	7258.0	21	700	CARRY	4		
+437	437	carry (sth, on one's head)	porter (qch, d'la tête)	carry on head	148.0.1.0.1.0	7258.0	21	465	CARRY ON BACK	4		
+437	437	carry (sth, on one's head)	porter (qch, d'la tête)	carry on head	148.0.1.0.1.0	7258.0	21	412	CARRY IN HAND	4		
+439	439	God, Allah	Dieu, Allah	god	87.0.12.0.1.0	4327.0	21	1944	GOD	4		
+440	440	female	femelle	female	6.0.9.0.1.0	172.0	21	1551	FEMALE	2		
+441	441	gravel	gravier	gravel	48.0.3.0.1.0	2624.0	21		???		gravel	
+106	106	turban	turban	turban	16.0.17.0.1.0	1191.0	23	331	HEADDRESS	4		specific for males
+442	442	war, combat	guerre, combat	war	94.0.2.0.1.0	4587.0	21	935	WAR	4		
+443	443	mango	mangue	mango	36.0.1.0.5.0	2063.0	21	2398	MANGO	2		
+445	445	shard from broken earthenware waterjar	morceau cassé (tesson) de canari	shard	39.0.6.0.1.0	2423.0	21		???		shard	
+446	446	east	est	east	61.0.1.0.1.0	3142.0	21	1877	EAST	2		
+447	447	totem, totemic animal (associated with a clan)	totem (associé d'une fraction)	totem	89.0.3.0.3.0	4418.0	21		???		totem, shrine	
+448	448	visitor, guest (from out of town)	visiteur, étranger (en visite)	visitor, guest	83.0.2.0.1.0	4120.0	21	791	STRANGER	4		
+449	449	grass, herbs	herbe, plantes herbacées	grass	2.0.4.0.1.0	62.0	21	606	GRASS	4		
+116	116	jaw (lower)	mâchoire (inférieure)	jaw	10.0.6.0.10.0	352.0	23	798	JAW	4		(versus cheek = upper)
+449	449	grass, herbs	herbe, plantes herbacées	grass	2.0.4.0.1.0	62.0	21	2542	HERB	4		
+451	451	rain fall	pleuvoir, pluie tomber	rain fall	60.0.1.0.2.0	3093.0	21		RAIN (PRECIPITATION)			
+454	454	feed, nourish, give meals to	nourrir, donner d'manger à	feed	25.0.4.0.1.0	1564.0	21	739	FEED	4		
+455	455	nine	neuf (numéro)	9.0	109.0.2.0.8.0	5386.0	21	1483	NINE	2		
+123	123	hip	hanche (au flanc)	hip	10.0.5.0.6.0	340.0	23	1745	HIP	2		see above re BACK
+458	458	black spice for cream of millet (Xylopia aethiopica, "Negro pepper" or "grains of Selim")	épice noire pour la crème de mil (Xylopia aethiopica)	spice	33.0.2.0.1.0	1952.0	21		PEPPER			
+459	459	song	chanson	song	92.0.8.0.3.0	4529.0	21	1096	SONG	2		
+463	463	earth (as brick mix or to repair walls)	banco, terre (pour faire des briques ou pour crépir les murs)	soil, earth	48.0.4.0.2.0	2628.0	21	2159	GROUND	4		
+463	463	earth (as brick mix or to repair walls)	banco, terre (pour faire des briques ou pour crépir les murs)	soil, earth	48.0.4.0.2.0	2628.0	21	626	LAND	4		
+463	463	earth (as brick mix or to repair walls)	banco, terre (pour faire des briques ou pour crépir les murs)	soil, earth	48.0.4.0.2.0	2628.0	21	2158	EARTH (WET SUBSTANCE)	4		
+464	464	carve (wood)	tailler (bois)	carve	137.0.2.0.2.0	6755.0	21	228	CARVE	4		
+466	466	last year	l'année passée	last year	72.0.8.0.1.0	3694.0	21	514	LAST YEAR	2		
+135	135	skin and butcher (carcass of slaughtered animal)	dépouiller (carcasse d'animal égorgé)	butcher, skin	2.0.11.0.2.0	92.0	23		PULL OFF (SKIN)			skin v.
+137	137	milk (verb), draw milk from (cow, goat)	traire (vache, chèvre)	draw milk	23.0.2.0.1.0	1503.0	23	93	DRAW MILK	3		milk v.
+138	138	flower (of tree or herb)	fleur (d'arbre ou de plante herbacée)	flower	15.0.14.0.1.0	969.0	23	239	FLOWER	4		also BUD
+467	467	(not) yet	(pas) encore	yet	71.0.11.0.2.0	3661.0	21	2577	YET	2		
+470	470	tree or large woody shrub	arbre ou gros arbuste ligneux	tree, shrub	49.0.2.0.1.0	2660.0	21	906	TREE	4		
+473	473	beat (with stick)	battre (avec un bois)	hit, beat	136.0.1.0.2.0	6706.0	20	2133	STRIKE OR BEAT	4		
+475	475	market	marché	market	113.0.1.0.1.0	5561.0	20	633	MARKET	2		
+476	476	mud	boue	mud	48.0.5.0.1.0	2635.0	20	640	MUD	2		
+477	477	spices (collective)	épices (collectif)	spice	33.0.1.0.1.0	1951.0	20		???		spice	
+478	478	well (for drawing water)	puits	well	53.0.1.0.1.0	2737.0	20	2144	SPRING OR WELL	4		
+479	479	roof	toit	roof	54.0.18.0.1.0	2862.0	20	769	ROOF	2		
+481	481	(woman's) co-wife	co-épouse (d'une femme)	co-wife	78.0.17.0.1.0	3921.0	20		???		co-wife	
+482	482	scoop up (water) in the cupped palm of one's hand	puiser (eau) dans la paume de la main en coupe	scoop	47.0.11.0.2.0	2606.0	20		LADLE		scoop	
+483	483	left (hand, etc.)	(main etc.) gauche	left	61.0.4.0.2.0	3156.0	20	244	LEFT	4		
+484	484	fat (corpulent)	gros (corpulent)	fat	69.0.11.0.1.0	3544.0	20	1279	FAT (OBESE)	4		
+159	159	strike (match, flint lighter)	allumer (allumette, briquet d'silex)	strike (match)	35.0.6.0.1.0	2036.0	23	353	STRIKE	4		see LIGHT (IGNITE)
+487	487	look for, seek	chercher	seek, look for, search	121.0.2.0.1.0	6052.0	20	1468	LOOK FOR	4		
+488	488	raw, uncooked (meat)	(viande) cru, non cuit	raw, uncooked	31.0.5.0.5.0	1905.0	20	1959	RAW	4		
+492	492	joint	articulation	joint	10.0.10.0.12.0	398.0	20	999	JOINT	2		
+493	493	jump (verb only)	sauter (verbe seulement)	jump	146.0.34.0.2.0	7234.0	20	1829	JUMP	3		
+494	494	hand	main	hand	10.0.11.0.1.0	399.0	20	1277	HAND	2		
+495	495	medical treatment, medical care	soin médical	treatment, care	98.0.28.0.4.0	4981.0	20		???		heal	
+496	496	find (a situation)	trouver (une situation)	find, encounter	121.0.4.0.6.0	6065.0	20	719	FIND	4		
+497	497	blow one's nose	se moucher	blow nose	11.0.2.0.4.0	567.0	20		???		blow nose	
+498	498	roast (meat) directly on fire	griller (viande) directement sur le feu	roast	32.0.4.0.1.0	1924.0	20		ROAST OR FRY			
+500	500	what?	quoi?	what?	104.0.2.0.1.0	5288.0	20	1236	WHAT	2		
+502	502	cut (small wound)	plaie	cut	98.0.4.0.1.0	4835.0	20	1432		4	CUT noun	
+507	507	wash (clothing)	laver (vêtement)	wash	158.0.2.0.1.0	7541.0	20	1453		4	WASH clothing	
+510	510	now	maintenant	now	72.0.1.0.1.0	3675.0	20	1376	NOW	2		
+513	513	(sb) become lost, go astray, lose one's way	(qn) s'égarer, perdre son chemin	lose	121.0.1.0.1.0	6048.0	20		GET LOST			
+514	514	pocket	poche	pocket	16.0.12.0.1.0	1119.0	20	1851	POCKET	2		
+515	515	weariness, fatigue, physical discomfort	fatigue, souffrance physique	fatigue, tired, suffering	98.0.2.0.1.0	4826.0	20	1140	FATIGUE	4		
+188	188	work in the fields, do farm work (with hoe or plow)	cultiver, travailler aux champs (avec daba ou avec charrue)	farming	37.0.2.0.1.0	2158.0	22	1921	PLOUGH	4		verb
+516	516	sugar	sucre	sugar	33.0.10.0.1.0	1984.0	20	862	SUGAR	2		
+517	517	undo (braids)	défaire (tresses)	undo	19.0.2.0.1.0	1324.0	20		???		unravel	
+520	520	truth	vérité	truth	103.0.1.0.1.0	5255.0	20	1638	TRUTH	2		
+521	521	finish (sth)	terminer (qch)	finish	77.0.4.0.1.0	3815.0	20	2115	CEASE OR FINISH	4		
+522	522	yellow	jaune	yellow	160.0.6.0.5.0	7606.0	20	1424	YELLOW	2		
+525	525	be thirsty	avoir soif	be thirsty	21.0.4.0.2.0	1443.0	20	847	THIRSTY	4		
+528	528	food, sustenance	nourriture	food	26.0.1.0.3.0	1608.0	20	256	FOOD	4		
+531	531	(sb) dress, put clothes on (sb)	(qn) habiller (qn)	dress	16.0.21.0.2.0	1219.0	20	474	DRESS	4		
+532	532	Dogon (person)	dogon (personne)	dogon	81.0.6.0.1.0	4062.0	20		???		Dogon person	
+533	533	remember	se rappeler, se souvenir	remember	116.0.5.0.1.0	5703.0	20	707	REMEMBER	2		
+534	534	hold, hold on to	tenir	hold	127.0.1.0.1.0	6398.0	20	1448	HOLD	4		
+534	534	hold, hold on to	tenir	hold	127.0.1.0.1.0	6398.0	20	2104	HOLD OR TAKE	4		
+536	536	call (sb, to come), summon, convoke (sb)	appeler (qn, d'venir), convoquer (qn)	call, summon, convoke	102.0.13.0.1.0	5175.0	20	1446	CALL	3		
+537	537	hide, conceal (sth)	cacher (qch)	hide	120.0.1.0.2.0	6033.0	20	602	HIDE (CONCEAL)	4		
+539	539	taste (a food, etc.)	goûter, goûter d'(un aliment, etc.)	taste	124.0.1.0.1.0	6259.0	20	21	TASTE (SOMETHING)	4		
+540	540	wood	bois	wood, firewood	49.0.1.0.1.0	2656.0	20	1803	WOOD	2		
+541	541	iron, steel, metal	fer, acier, métal	iron	50.0.1.0.1.0	2691.0	20	2244	METAL	4		
+541	541	iron, steel, metal	fer, acier, métal	iron	50.0.1.0.1.0	2691.0	20	2343	STEEL	4		
+543	543	attach (belt)	attacher (ceinture)	attach, gird	16.0.10.0.1.0	1097.0	20		???		attach	
+546	546	steam (couscous), cook with steam	cuire d'la vapeur (couscous)	steam	32.0.2.0.9.0	1919.0	20	2067	STEAM (VERB)	4		
+547	547	leave, abandon (sb, sth)	abandonner, laisser (qn, qch)	leave, abandon	146.0.4.0.1.0	7043.0	20	1097	ABANDON	4		
+552	552	vein, blood vessel	veine, vaisseau sanguin	vein	10.0.8.0.3.0	375.0	20	1924	VEIN	4		
+553	553	remain, stay	rester	remain, stay	64.0.9.0.1.0	3307.0	20	987	REMAIN	2		
+555	555	lash, whip (sb, with a branch or a strap)	fouetter, chicoter (qn, avec une branche ou une sangle)	lash, whip	136.0.10.0.1.0	6745.0	20	2973	STRAP	3		
+556	556	like, similar to	comme, pareil à	like, similar	176.0.1.0.1.0	8189.0	20	1558	SIMILAR	4		
+559	559	second (ordinal)	deuxième	2nd	110.0.2.0.1.0	5416.0	20	1384	SECOND	4		
+562	562	heavy wooden ladder for roof (carved from one trunk)	lourde échelle pour le toit (taillé d'un seul tronc d'arbre)	ladder	54.0.14.0.1.0	2841.0	20		LADDER			
+563	563	jostle, bump into the side of (sb)	bousculer, cogner le flanc de (qn) (qn)	bump, jostle	136.0.2.0.3.0	6719.0	20		???		bump	
+564	564	bit (mouthpiece for horse etc.)	mors (de cheval etc.)	bit	4.0.6.0.1.0	117.0	20	2741	BIT (CLASSIFIER)	4		
+565	565	brush one's teeth (with chewstick or toothbrush)	brosser les dents (avec cure-dents en bois ou avec la brosse d'dents)	pick teeth	19.0.5.0.3.0	1329.0	20	2579	TOOTHBRUSH	4		
+566	566	jail, prison	prison, cachot	jail, prison	97.0.11.0.1.0	4812.0	20	1281	PRISON	4		
+568	568	next year	l'année prochaine	next year	72.0.8.0.2.0	3695.0	20	515	NEXT YEAR	2		
+572	572	ring (on finger)	bague, anneau (de doigt)	ring	20.0.15.0.1.0	1418.0	20	1374	RING	4	noun	
+263	263	hunt (noun)	chasse (fait de faire la)	hunt	27.0.1.0.3.0	1719.0	22	1435		4		noun
+573	573	carry (child) on one's back	porter (enfant) au dos	carry on back	148.0.3.0.1.0	7270.0	20		CARRY PERSON ON BACK			
+575	575	cassava	manioc	cassava	36.0.6.0.1.0	2135.0	20	925	CASSAVA	2		
+269	269	cheek	joue	cheek	10.0.20.0.9.0	496.0	22	1730	CHEEK	2		see above re jaw
+578	578	go out, exit	sortir	exit, go out	146.0.9.0.1.0	7067.0	20	1107	GO OUT	4		
+582	582	insult (verb only)	insulter (verbe seulement)	insult	102.0.15.0.3.0	5195.0	20		???		insult	
+585	585	between ... and ...	entre ... et ...	between	63.0.2.0.1.0	3217.0	20		BETWEEN			
+586	586	yesterday	hier	yesterday	72.0.3.0.1.0	3680.0	20	1174	YESTERDAY	2		
+589	589	dew	rosée	dew	60.0.11.0.1.0	3139.0	20	1977	DEW	2		
+590	590	saliva	salive	saliva	10.0.24.0.7.0	540.0	20	1503	SALIVA	2		
+591	591	(sth) be bent, be tilted (not straight)	(qch) se pencher, s'incliner, ê. tordu (pas droit)	tilt	12.0.7.0.4.0	727.0	20		CROOKED			
+595	595	death	(la) mort	death	9.0.1.0.2.0	239.0	20	910	DEATH	2		
+598	598	sweep (ground, courtyard)	balayer (sol, cour)	sweep	134.0.1.0.1.0	6650.0	20	230	SWEEP	4		
+292	292	trap	piège	trap	27.0.6.0.1.0	1734.0	21	1075	TRAP (PITFALL)	2		noun
+600	600	tie, tie up (sth or sb, with a rope)	attacher (qch ou qn, avec corde)	tie, attach	125.0.6.0.1.0	6345.0	20	2891	TIE UP (TETHER)	4		
+601	601	I don't have, I lack	je n'ai pas	lack, not have	101.0.8.0.1.0	5087.0	20		LACK (NOT HAVE)			
+602	602	world (of the living)	monde (des vivants)	world	87.0.14.0.4.0	4350.0	20	965	WORLD	4		
+603	603	hang (sth) up on a hook or nail	suspendre (qch) en l'accrochant sur un hameçon ou une pointe	hang up, hook	125.0.5.0.1.0	6339.0	20	72	HANG UP	4		
+305	305	light a fire, set a fire	allumer un feu	ignite, light (fire)	35.0.7.0.1.0	2037.0	21		LIGHT (IGNITE)			see above re strike
+604	604	defecate (verb only)	déféquer (verbe seulement)	defecate, shit	11.0.20.0.4.0	668.0	20	676	SHIT (DEFECATE)	3		
+307	307	genie, spirit (when seen, an apparition of one's approaching death)	djinn, diable (si on le voit, signe de la mort qui s'approache)	genie, spirit	87.0.13.0.1.0	4338.0	21	53	SPIRIT	4		separate concepts
+609	609	why?	pourquoi?	why?	104.0.3.0.1.0	5289.0	20	1270	WHY	2		
+612	612	lock (e.g. a door)	boucler, fermer d'clé (une porte, etc.)	lock	68.0.4.0.1.0	3446.0	20	1596	LOCK	4		
+613	613	be tired, weary, suffering (physically)	ê. fatigué, souffrir (physiquement)	tired, weary, suffer	98.0.2.0.2.0	4827.0	20	1783	PAIN	4		
+613	613	be tired, weary, suffering (physically)	ê. fatigué, souffrir (physiquement)	tired, weary, suffer	98.0.2.0.2.0	4827.0	20	1757	TIRED	4		
+615	615	under (sth)	sous, au-dessous de (qch)	under	66.0.6.0.3.0	3377.0	20	415	CARRY UNDER ARM	4		
+616	616	soap	savon	soap	159.0.6.0.1.0	7568.0	20	788	SOAP	2		
+618	618	fresh (produce)	(fruits, légumes) frais	fresh, green	31.0.2.0.1.0	1890.0	20	243	FRESH	4		
+620	620	chest (body)	poitrine	chest	10.0.4.0.5.0	322.0	20	1592	CHEST	4		
+621	621	gear, equipment	matériel, équipement	gear, equipment	101.0.1.0.1.0	5068.0	20		TOOLs			
+626	626	quick, rapid, fast (adjective)	rapide	fast, rapid, quick	172.0.1.0.1.0	8073.0	20	1631	FAST	3		
+627	627	tin can	boîte de conserve	can	45.0.2.0.1.0	2519.0	20		TIN (CAN)			
+628	628	(doctor, healer) treat (sick person)	(docteur, guérisseur) soigner (un malade)	treat	98.0.28.0.2.0	4979.0	20	499	CURE	4		
+631	631	shave (sb, sth)	raser (qn, qch)	shave	137.0.8.0.1.0	6785.0	20	231	SHAVE	4		
+327	327	village, town, settlement	village, ville	village	52.0.1.0.1.0	2725.0	21	930	VILLAGE	4		separate concepts
+633	633	in front of (sth)	devant (qch)	front	66.0.3.0.2.0	3358.0	20	1883	IN FRONT OF	4		
+634	634	squash	courge	squash	36.0.8.0.6.0	2155.0	20	864	PUMPKIN	4		
+635	635	pay, repay (sb)	payer, rembourser (qn)	pay	114.0.6.0.4.0	5650.0	20	1122	WAGES	4		
+636	636	listen to (sth, sb)	écouter (qn, qch)	listen	122.0.1.0.3.0	6076.0	20		LISTEN			
+637	637	small piece (of meat)	petit morceau (de viande)	piece (meat)	14.0.3.0.1.0	838.0	20		PIECE			
+639	639	(sb) sweat, perspire	(qn) suer	sweat	11.0.22.0.2.0	677.0	20	2458	PERSPIRE OR SWEAT	4		
+641	641	who?	qui?	who?	104.0.1.0.1.0	5287.0	20	1235	WHO	2		
+642	642	work (noun), productive activity	travail, activité productive	work	152.0.2.0.3.0	7440.0	20	984	WORK (LABOUR)	3		
+646	646	push	pousser	push	131.0.1.0.1.0	6542.0	20	1452	PUSH	2		
+647	647	puncture (sth), put a hole in	trouer (qch)	puncture, hole	70.0.3.0.2.0	3600.0	20		PIERCE			
+648	648	twin (person)	jumeau (personne)	twin	78.0.13.0.1.0	3905.0	20		TWINS			
+650	650	spacious, roomy (in two dimensions)	large, spacieux (en deux dimensions)	spacious, roomy	67.0.3.0.1.0	3401.0	20		WIDE			
+652	652	courtyard (enclosed by walls)	cour (entourée de murs)	courtyard	54.0.15.0.1.0	2843.0	20	4	COURTYARD	4		
+653	653	get, obtain	obtenir	get, obtain	100.0.2.0.1.0	5026.0	20	694	GET	2		
+654	654	hundred	cent	hundred	109.0.5.0.1.0	5404.0	20	1634	HUNDRED	2		
+655	655	warm oneself up at a fire	se réchauffer au feu	warm	35.0.13.0.1.0	2053.0	20		WARM UP			
+657	657	touch (with hand)	toucher (avec la main)	touch	132.0.1.0.1.0	6580.0	20	1892	TOUCH	4		
+659	659	receive, accept, take (sth given)	recevoir, accepter, prendre (chose donnée)	receive, take, accept	100.0.5.0.1.0	5061.0	20	1749		4	receive	
+367	367	divide, share (sth)	diviser, partager (qch)	divide, share	99.0.2.0.1.0	5019.0	21	1119	DIVIDE	4		same concept
+660	660	tight, taut (rope)	(corde) serré	tight (rope)	67.0.1.0.1.0	3380.0	20		???		tight	
+662	662	point at, indicate (by pointing)	indiquer, indexer (avec la main)	point at	119.0.6.0.2.0	5992.0	20		???		point (verb)	
+665	665	statuette	statuette	statuette	89.0.2.0.2.0	4412.0	20		STATUE			
+666	666	take (sth) down (e.g. kettle or pot, from fire)	faire descendre (par ex. théière ou marmite, d'un feu)	take down	61.0.7.0.3.0	3178.0	20	1462		4	take down	
+668	668	spear with a short wooden shaft and a broad flat metal blade	lance avec un manche court en bois et une lame plate et large en fer	spear	95.0.1.0.1.0	4635.0	20		SPEAR			
+669	669	hit, strike (general word)	frapper (terme général)	hit	136.0.1.0.3.0	6707.0	20	1433	HIT	4		
+670	670	orphan	orphelin	orphan	9.0.17.0.1.0	297.0	20	1149	ORPHAN	2		
+671	671	bitter (in taste)	(goût) amer	bitter	124.0.3.0.1.0	6276.0	20	887	BITTER	4		
+672	672	doorway (passage)	porte (passage)	door	54.0.13.0.1.0	2836.0	20	1567		4	entrance	
+674	674	dates (from date palm)	dattes	dates	36.0.1.0.3.0	2061.0	20		???		date palm	
+677	677	medication, remedy	médicament, remède	medicine, remedy	98.0.26.0.1.0	4968.0	20	499	MEDICINE	4		
+678	678	right hand	main droite	right hand	61.0.5.0.1.0	3158.0	20	2183	RIGHT HAND	2		
+679	679	buy, purchase	acheter	buy, purchase	113.0.5.0.1.0	5575.0	20	1869	BUY	4		
+681	681	wealth	richesse	wealth	114.0.2.0.1.0	5631.0	20	2996	WEALTH	2		
+683	683	lower (price), reduce (amount)	diminuer (prix, etc.)	reduce, lower	113.0.12.0.1.0	5608.0	20		???		lower, bargain	
+684	684	man-made tree apiary (for honey bees) consisting of a section of a hollow tree trunk placed among branches in a living tree	volière dans (pour les abeilles de miel) consistant en un morceau du tronc creux d'un arbre, placé parmi les branches d'un arbre vivant	apiary	24.0.4.0.1.0	1536.0	20		???		apiary	
+397	397	tomtom (general word)	tam-tam (mot général)	tomtom	93.0.1.0.1.0	4533.0	21		DRUM			noun
+686	686	consent, accept, agree to (a proposal)	accepter (une proposition)	consent, accept, agree	102.0.9.0.2.0	5143.0	20		???		agree	
+689	689	filter (water, milk) with a sieve	filtrer (eau, lait) avec un tamis	filter	28.0.4.0.7.0	1785.0	20		???		filter	
+691	691	(1Sg subject pronominal)	(marque de sujet 1Sg)	1Sg subject	179.0.2.0.3.0	9604.0	20		???		I	
+693	693	three times	trois fois	3 times	76.0.1.0.3.0	3801.0	20	417	THREE TIMES	2		
+694	694	owner	propriétaire	owner	101.0.2.0.1.0	5070.0	20	1036	OWNER	2		
+697	697	(female) give suck to, nurse (infant)	(femelle) allaiter, faire téter (enfant)	suckle, nurse	23.0.8.0.2.0	1524.0	20	1104	NURSE	4		
+700	700	fall	tomber	fall	149.0.1.0.1.0	7287.0	20	1280	FALL	2		
+701	701	catch, take hold of (sth)	attraper (qch)	catch	100.0.3.0.4.0	5035.0	20	2021	GRASP	4		
+411	411	strength, power, force	force, pouvoir	power, strength, force	86.0.1.0.1.0	4193.0	21	202	STRENGTH	4		separate concepts
+703	703	wrestling (traditional men's sport)	lutte traditionnelle (d'main plate)	wrestling, wrestle	92.0.6.0.1.0	4515.0	20		???		wrestle	
+704	704	chicken coop	poulailler	coop	5.0.2.0.1.0	132.0	20		???		coop (chicken)	
+705	705	money, currency, cash	argent, devises	money, currency, cash	114.0.1.0.1.0	5629.0	20	1559	MONEY	4		
+706	706	go far away	s'éloigner	go far	65.0.1.0.2.0	3317.0	20		???		travel	
+711	711	go	aller	go	146.0.1.0.1.0	7016.0	20	695	GO	2		
+712	712	answer, reply to (sb)	répondre d'(qn)	reply, answer, respond	102.0.8.0.1.0	5141.0	20	1275	ANSWER	4		
+713	713	spinal cord, spine	colonne vertébrale	spine	10.0.6.0.3.0	345.0	20	805	SPINE	4		
+714	714	staff, stick (general word)	bâton (mot général)	stick, staff	49.0.3.0.1.0	2662.0	20	2085	STICK (CLASSIFIER)	4		
+715	715	shed, thatch-covered shelter or stall open on one or more sides	hangar, abri ouvert au moins d'un côté et couvert de paille	shed, stall, shelter	54.0.3.0.1.0	2773.0	20		???		shed	
+716	716	(rain) fall (verb only)	(pluie) tomber, pleuvoir (verbe seulement)	rain fall	60.0.1.0.3.0	3094.0	20	1280	RAINING OR RAIN	4		
+717	717	mint	menthe	mint	33.0.4.0.1.0	1957.0	20		???		mint	
+432	432	fear, be afraid of	avoir peur de	fear	117.0.10.0.1.0	5814.0	21	1419	FEAR (BE AFRAID)	4		separate concepts
+718	718	rag, tatters (old clothing)	haillon, chiffon (vêtement usé)	rag	16.0.20.0.1.0	1214.0	20	332	RAG	4		
+719	719	rib	côte	rib	10.0.6.0.13.0	355.0	20	801	RIB	2		
+720	720	hail, hailstones	grêle	hail	60.0.4.0.1.0	3115.0	20	609	HAIL	4		
+721	721	hand, arm	main, bras	hand	10.0.11.0.3.0	401.0	20	2121	ARM OR HAND	2		
+722	722	thief	voleur	thief	96.0.4.0.5.0	4765.0	20	1160	THIEF	2		
+725	725	this year	cette année	this year	72.0.8.0.4.0	3697.0	20	513	THIS YEAR	2		
+726	726	(rain) stop	(pluie) s'arrêter	stop raining	60.0.1.0.12.0	3103.0	20	1928	CEASE	4		
+728	728	forget	oublier	forget	116.0.4.0.1.0	5699.0	20	1523	FORGET	2		
+729	729	take, convey (sth, somewhere)	emmener (qch, quelque part)	deliver, convey	147.0.2.0.1.0	7244.0	20	2898	CONVEY (A MESSAGE)	4		
+730	730	henna (dark women's cosmetic, for hands and feet)	henné (maquillage noirâtre des femmes, pour les mains et les pieds)	henna	18.0.3.0.1.0	1302.0	20		???		henna	
+448	448	visitor, guest (from out of town)	visiteur, étranger (en visite)	visitor, guest	83.0.2.0.1.0	4120.0	21	1782	GUEST	4		same concept
+731	731	(fire) be lit	(feu) ê. allumé	ignite, light (fire)	35.0.7.0.5.0	2041.0	20		IGNITE			
+732	732	cross (road, river, border)	traverser, franchir (chemin, fleuve, frontière)	cross	146.0.13.0.8.0	7102.0	20	666	TRAVERSE	4		
+734	734	affix, stick on, paste, glue (e.g. paper, on a surface)	afficher, coller fermement (un papier etc., d'une surface)	affix, paste, glue, stick	125.0.1.0.1.0	6296.0	20	254	STICKING	4		
+735	735	(sb, mammal) bite (sb)	(qn, mammifère) mordre (qch, qn)	bite	143.0.5.0.1.0	6966.0	20	1403	BITE	4		
+736	736	lightweight	léger	lightweight, light (weight)	165.0.2.0.1.0	7783.0	20	1052	LIGHT (WEIGHT)	2		
+737	737	neighborhood, quarter (section of a village or town)	quartier (partie d'un village ou d'une ville)	neighborhood	52.0.2.0.1.0	2732.0	20	1391		4	neighborhood	
+738	738	broom	balai	broom	134.0.2.0.1.0	6654.0	20	245	BROOM	2		
+739	739	swim, go swimming	nager, aller nager	swim	58.0.7.0.1.0	3052.0	20	1439	SWIM	4		
+740	740	lift, pick up (sth) in one's hands	soulever, prendre et lever (qch) dans la main	lift, pick up	61.0.6.0.11.0	3171.0	20	501	LIFT	4		
+746	746	(political) chief, boss	chef (politique), patron	chief	85.0.1.0.1.0	4160.0	20	301	CHIEFTAIN	4		
+749	749	arrive at, reach	arriver à, atteindre	arrive, reach	146.0.5.0.1.0	7048.0	20	1387	ARRIVE	4		
+752	752	difficult (work)	(travail) difficile	difficult	152.0.5.0.5.0	7452.0	19	584	DIFFICULT	4		
+753	753	hell	enfer	hell	87.0.14.0.3.0	4349.0	19	878	HELL	2		
+754	754	south	sud	south	61.0.1.0.4.0	3145.0	19	1595	SOUTH	2		
+755	755	lazy person	personne paresseuse	lazy	117.0.14.0.1.0	5845.0	19				LAZY (noun)	
+471	471	dust	poussière	dust	48.0.8.0.1.0	2648.0	21	2	DUST	2		noun
+756	756	make (sb) lie down (to sleep)	faire coucher (qn)	lie down	12.0.8.0.4.0	737.0	19		???		LIE (cause)	
+759	759	pure, full-strength, undiluted (milk)	(lait) pur, non dilué	full-strength, undiluted, pure	23.0.7.0.1.0	1520.0	19	1147	PURE	4		
+760	760	tobacco (leaves, or for cigarettes)	tabac (en feuilles, ou pour cigarettes)	tobacco	51.0.1.0.1.0	2710.0	19	974	TOBACCO	4		
+763	763	sell	vendre	sell	113.0.4.0.1.0	5573.0	19	1571	SELL	2		
+766	766	empty (container) (adj)	(récipient) vide	empty	168.0.3.0.1.0	7926.0	19	1624	EMPTY	4		
+768	768	spend the night (sw, or doing sth)	passer la nuit (qp, ou d'faire qch)	spend night	73.0.9.0.1.0	3746.0	19		???		spend or pass the night	
+769	769	never	jamais	never	71.0.10.0.1.0	3658.0	19	1656	NEVER	2		
+770	770	be or become wet	se mouiller, ê. mouillé	wet	162.0.1.0.2.0	7672.0	19	1579	GET WET	4		
+772	772	kitchen, cooking area	cuisine, lieu où on prépare les repas	kitchen	54.0.4.0.1.0	2784.0	19	1365	KITCHEN	4		
+773	773	roll (e.g. barrel) on the ground	faire rouler (barrique, etc.) par terre	roll	133.0.2.0.1.0	6624.0	19		ROLL			
+774	774	cut off, sever (head, finger, branch)	couper (tête, doigt, branche)	cut off, sever	137.0.1.0.1.0	6748.0	19	1432		4	slice	
+776	776	show, display (sth, to sb)	montrer (qn, d'qn)	show	119.0.6.0.1.0	5991.0	19	1039	SHOW	4		
+778	778	hot season (April-June)	saison chaude (avril-juin)	hot season	75.0.4.0.1.0	3793.0	19		???		hot season	
+779	779	dried meat	viande séchée	meat	26.0.12.0.3.0	1684.0	19		???		dried meat (or fruits)	
+780	780	increase, raise (e.g. price)	augmenter (prix etc.)	raise, increase	113.0.11.0.1.0	5601.0	19	1041	INCREASE	4		
+783	783	hard, firm, solid, stiff (surface, object)	(surface, objet) dur, raide, rigide, résistant, solide	hard, stiff, solid, firm	161.0.1.0.1.0	7624.0	19	1884	HARD	4		
+783	783	hard, firm, solid, stiff (surface, object)	(surface, objet) dur, raide, rigide, résistant, solide	hard, stiff, solid, firm	161.0.1.0.1.0	7624.0	19	3003	SOLID	4		
+784	784	skeleton	squelette	skeleton	9.0.9.0.1.0	268.0	19	2668	SKELETON	2		
+785	785	crazy person	(un) fou	crazy, insane	116.0.12.0.1.0	5748.0	19		???		crazy (noun)	
+786	786	early afternoon Muslim prayer (2 PM)	prière musulmane au début de l'après-midi (14 h.)	afternoon, prayer	73.0.13.0.2.0	3760.0	19		???		Asr	
+788	788	(sb) bend over, lean forward, bow	(qn) se pencher en avant, s'incliner	bow, bend over	11.0.23.0.1.0	679.0	19	2004	BEND	4		
+789	789	gold	or (métal)	gold	50.0.4.0.1.0	2703.0	19	1369	GOLD	2		
+790	790	noise	bruit	noise	122.0.2.0.1.0	6079.0	19	1182	NOISE	2		
+792	792	Feast of the Ram (aid al adha, major Mulsim holy day)	Tabaski, fête des moutons (aid al adha, la plus grande fête musulmane)	holy day, feast	87.0.11.0.3.0	4317.0	19		???		Ramadan	
+796	796	crush (a bone, e.g. to get marrow)	écraser (os, par ex. afin d'obtenir sa moelle)	crush	30.0.1.0.11.0	1819.0	19	1520	CRUSH	4		
+797	797	meaning (e.g. of a word)	signification, sens (d'un mot, etc.)	meaning	102.0.5.0.1.0	5128.0	19	2950	MEANING	4		
+798	798	resemble	ressembler à	resemble	176.0.1.0.6.0	8194.0	19	1777	RESEMBLE	2		
+799	799	pick (fruit) from tree or plant	cueillir (fruit) d'un arbre ou d'une plante	pick	100.0.4.0.1.0	5048.0	19	1486	PICK	4		
+805	805	(e.g. sugar, money) be used up, be depleted	(sucre, argent, etc.) ê. fini, ê. épuisé	used up, depleted	111.0.19.0.1.0	5528.0	19		???		deplete, use up	
+807	807	cart drawn by donkeys or oxen	charrette tirée par des ânes ou des bœufs	cart	150.0.3.0.1.0	7376.0	19		CART			
+809	809	watermelon, melon (general term)	pastèque, melon (mot général)	watermelon, melon	36.0.4.0.1.0	2119.0	19	2766	WATERMELON	4		
+810	810	rotten (adjective)	pourri (adjectif)	rotten	123.0.5.0.1.0	6241.0	19	1728	ROTTEN	1		
+811	811	replaster (wall) by smearing wet banco on it	crépir (mur) en y applicant du banco mouillé	replaster, smear	54.0.8.0.1.0	2805.0	19		???		plaster (verb)	
+813	813	(child) crawl on all fours	(enfant) ramper, marcher d'quatre pattes	crawl	146.0.33.0.1.0	7230.0	19		CRAWL			
+815	815	silver (metal)	argent-métal	silver	50.0.5.0.1.0	2704.0	19	759	SILVER	4		
+541	541	iron, steel, metal	fer, acier, métal	iron	50.0.1.0.1.0	2691.0	20	621	IRON	4		same concept
+816	816	old man	vieil homme	old man	6.0.7.0.2.0	168.0	19	406	OLD MAN	2		
+817	817	(sb) melt (e.g. ice, butter)	(qn) faire fondre (glace, beurre, etc.)	melt	47.0.7.0.2.0	2591.0	19	2334	MELT	4		
+818	818	formal blessing, benediction	bénédiction	blessing, benediction	102.0.11.0.2.0	5158.0	19		BLESS			
+547	547	leave, abandon (sb, sth)	abandonner, laisser (qn, qch)	leave, abandon	146.0.4.0.1.0	7043.0	20	1752	LEAVE	4		same concept
+819	819	tongs (blacksmith's large pliers-like instrument)	tenaille (gros pince de forgeron)	tongs	154.0.10.0.1.0	7505.0	19	272	TONGS	4		
+820	820	twice	deux fois	2 times	76.0.1.0.2.0	3800.0	19	1546	TWICE	2		
+821	821	roll up (mat)	enrouler (natte)	roll	133.0.4.0.1.0	6634.0	19		???		roll up	
+822	822	dagger (short knife worn on hip, used e.g. for slaughtering animals)	poignard (couteau court porté sur la hanche)	dagger	95.0.5.0.1.0	4662.0	19		KNIFE (CLASSIFIER)			
+823	823	fold (paper, garment)	plier (papier, vêtement)	fold	133.0.5.0.1.0	6637.0	19	1470	FOLD	4		
+824	824	needle (sewing)	aiguille (d'coudre)	needle	144.0.2.0.1.0	6978.0	19	2731	NEEDLE (CLASSIFIER)	4		
+825	825	yam (Dioscorea)	igname (Dioscorea)	yam	36.0.6.0.13.0	2147.0	19	410	YAM	4		
+827	827	bachelor, unmarried young man	homme célibataire	young man	6.0.5.0.3.0	159.0	19		???		bachelor, unmarried (male)	
+828	828	leatherworker (caste, they make leather bags and amulet wallets)	cordonnier (caste, ils fabriquent des sacs et des porte-amulettes en peau)	leatherworker	82.0.8.0.1.0	4115.0	19		???		leatherworker (caste)	
+829	829	Ramadan, Muslim fasting month	Ramadan (Carême musulman), mois de jeûne	ramadan	87.0.11.0.5.0	4319.0	19		???		Ramadan	
+831	831	week	semaine	week	74.0.1.0.1.0	3764.0	19	1469	WEEK	2		
+570	570	transplant (young shoots of millet, rice)	transplanter, répiquer (des pousses de mil, de riz)	transplant	37.0.17.0.2.0	2273.0	20	926		4	transplant	see PLANT
+832	832	mosque	mosquée	mosque	54.0.1.0.5.0	2766.0	19	1603	MOSQUE	4		
+834	834	also, too	aussi	also, too	177.0.2.0.1.0	8212.0	19		???		too, also	
+835	835	night fall(s)	la nuit tombe(r)	night fall	73.0.1.0.2.0	3699.0	19		DUSK			
+576	576	rough, coarse (surface)	(surface) rugueux, coriace	rough, coarse	161.0.4.0.1.0	7653.0	20	1923	ROUGH	4		same concept
+837	837	staff (stick) with a knob at one end (for walking in the bush or at night)	bâton dont un bout est en forme de pommeau (pour marcher en brousse ou pendant la nuit)	stick, staff	49.0.4.0.1.0	2665.0	19	1233	WALKING STICK	4	staff	
+838	838	thigh, upper leg (of person)	cuisse, jambe supérieure (de personne)	thigh	10.0.12.0.10.0	420.0	19	800	THIGH	4		
+839	839	neighbor	voisin	neighbor	79.0.5.0.1.0	3998.0	19	1332	NEIGHBOUR	2		
+840	840	talk (noun), speech, words	langage, parole, mots	speech, talk, words	102.0.1.0.3.0	5105.0	19	2799	LANGUAGE OR WORD	4		
+843	843	alms (given to poor)	aumône (donnée aux pauvres)	alms	87.0.9.0.1.0	4308.0	19		???		alms, donation	
+849	849	slide, slip	glisser	slide, slip	149.0.6.0.1.0	7330.0	19	1324	SLIP	2		
+593	593	times (with quantifier)	fois (avec quantificateur)	times	76.0.1.0.4.0	3802.0	20	892		4	times	see ONE TIME
+856	856	thin plastic bag (used in markets)	sac mince en plastique, caoutchouc (dans les marchés)	plastic bag	43.0.1.0.6.0	2473.0	19		???		sack	
+857	857	weep (verb only)	pleurer (verbe seulement)	weep	122.0.8.0.2.0	6132.0	19	1839	CRY	3		
+859	859	blunt, not sharp (blade)	(lame) émoussé	blunt	164.0.4.0.1.0	7775.0	19	379	BLUNT	4		
+860	860	put a hat on (sb)	mettre un chapeau sur, coiffer (qn)	put on, wear	16.0.16.0.3.0	1158.0	19		???		put hat on	
+861	861	pond, pool (any size)	mare, marigot (de toutes dimensions)	pond, pool	58.0.1.0.1.0	3028.0	19	2035	POND	4		
+865	865	chop down, cut down (tree, with ax)	abattre (arbre, avec hache)	chop down	137.0.3.0.1.0	6761.0	19	355	CUT DOWN	4		
+867	867	old woman	vieille femme	old woman	6.0.8.0.3.0	171.0	19	907	OLD WOMAN	2		
+869	869	(sun) set	(soleil) se coucher	set, sunset	59.0.6.0.1.0	3079.0	19	160	SET (HEAVENLY BODIES)	4		
+875	875	wet (adjective)	mouillé (pas sec)	wet	162.0.1.0.1.0	7671.0	19	1726	WET	1		
+876	876	beside, at the side of (sth)	d'côté de (qch)	beside	66.0.2.0.3.0	3352.0	19	1816	BESIDE	4		
+880	880	right (hand, etc.)	(main etc.) droit	right	61.0.5.0.3.0	3160.0	19	1019	RIGHT	4		
+881	881	sharp (blade)	(lame) tranchant, affilé	sharp	164.0.1.0.1.0	7759.0	19	1396	SHARP	2		
+883	883	corner (external, of house)	angle (de maison)	corner	54.0.9.0.11.0	2820.0	19	192	CORNER	4		
+885	885	harvest with knife (noun)	récolte avec couteau	harvest	37.0.22.0.2.0	2311.0	19		CUT			
+886	886	once, one time	une fois	1 time, once	76.0.1.0.1.0	3799.0	19	374	ONE TIME	4		
+886	886	once, one time	une fois	1 time, once	76.0.1.0.1.0	3799.0	19	2914	ONCE (IN THE PAST)	4		
+887	887	Muslim(s)	musulman(s)	muslim	87.0.12.0.10.0	4336.0	19		???		Muslim (person)	
+888	888	(group, herd) scatter, disperse	(groupe, troupeau) se disperser, s'éparpiller	scatter, disperse	146.0.21.0.1.0	7135.0	19	2064		4	disperse	
+889	889	cut (meat, fabric) with slicing (not chopping) stroke of knife or scissors	couper (viande, tissu) en tirant le couteau ou les ciseaux sur le plan horizontal	cut, slice	137.0.9.0.1.0	6790.0	19	2156	CUT (WITH KNIFE)	4		
+890	890	main ceiling beam	bois principal au plafond d'une maison	beam	54.0.17.0.1.0	2858.0	19		BEAM			
+633	633	in front of (sth)	devant (qch)	front	66.0.3.0.2.0	3358.0	20	1882	BEFORE	4		difference concepts
+891	891	pre-dawn Muslim prayer (5 AM)	prière musulmane avant l'aube (5 h.)	pre-dawn, prayer	73.0.13.0.1.0	3759.0	19		???		Fajr 	
+895	895	have a discussion or debate	avoir une discussion ou débat	discussion, debate	102.0.16.0.7.0	5202.0	19		???		discuss	
+896	896	go into hiding, hide (oneself)	se cacher	hide	120.0.1.0.1.0	6032.0	19	2485	HIDE (ONESELF)	4		
+897	897	key (for traditional lock)	clé (de fermeture traditionnelle)	key	68.0.6.0.1.0	3454.0	19	1472	KEY	4		
+898	898	smoke (tobacco)	fumer (tabac)	smoke	51.0.2.0.1.0	2715.0	19	1689	SMOKE (INHALE)	2		
+899	899	twilight Muslim prayer	prière musulmane du crépuscule	twilight, prayer	73.0.13.0.4.0	3762.0	19		???		Maghrib 	
+900	900	untruth, false statement (lie, exaggeration, or honest mistake)	du faux (mensonge, exagération, ou erreur)	false 	103.0.5.0.3.0	5275.0	19	475	UNTRUTH	4		
+901	901	unfold (paper, garment)	déplier (papier, vêtement)	unfold	133.0.5.0.2.0	6638.0	19	1895		4	unfold	
+643	643	fruit (of plant)	fruit (d'une plante)	fruit	15.0.15.0.1.0	978.0	20	1507	FRUIT	4		same as child
+902	902	steal (sth)	voler (qch)	rob, steal	96.0.4.0.1.0	4761.0	19	713	STEAL	4		
+903	903	lemon	citron	lemon	36.0.1.0.7.0	2065.0	19		CITRUS FRUIT			
+905	905	emasculate (male animal) by crushing its testicles	émasculer (animal mâle) en lui écrasant les testicules	emasculate	2.0.8.0.4.0	84.0	19		NEUTER			
+906	906	pretty, beautiful	joli, beau, belle	pretty, beautiful	169.0.3.0.1.0	7955.0	19	1427	BEAUTIFUL	4		
+907	907	file (tool)	lime (instrument)	file	139.0.6.0.2.0	6895.0	19		???		file (verb)	
+908	908	butt (sb, with head)	donner un coup de tête d'(qn)	butt	136.0.3.0.1.0	6722.0	19	834		4	butt (verb)	
+909	909	tighten (rope, knot)	serrer (corde, nœud)	tighten	67.0.1.0.4.0	3383.0	19	1414		4	tighten	
+910	910	or	ou	or	177.0.5.0.1.0	8215.0	19	1014	OR	2		
+911	911	easy (work)	(travail) facile	easy	152.0.5.0.1.0	7448.0	19	686	EASY	4		
+912	912	grandchild	petit-fils ou petite-fille	grandchild	78.0.7.0.1.0	3875.0	19	1617	GRANDCHILD	2		
+913	913	old person	vieille personne	old, elderly	7.0.1.0.1.0	175.0	19	725	OLD PERSON	2		
+914	914	untie, set loose (e.g. animal)	délier, lâcher (animal etc.)	untie, loose	125.0.7.0.2.0	6357.0	19	352	UNTIE	4		
+915	915	stool (without back)	escabeau, tabouret (sans dos)	stool	54.0.27.0.2.0	2906.0	19	2058	STOOL	4		
+916	916	(egg) hatch	(œuf) éclore (se casser)	hatch	5.0.6.0.2.0	147.0	19		???		hatch (verb)	
+917	917	widow (not yet remarried)	veuve (pas encore remariée)	widow	9.0.15.0.1.0	293.0	19	1756	WIDOW	4		
+918	918	jab (sth) with a pointed instrument	piquer (qch) avec un objet pointu	jab	143.0.1.0.4.0	6956.0	19		???		jab	
+919	919	twenty	vingt	20.0	109.0.3.0.2.0	5388.0	19	1710	TWENTY	2		
+676	676	(man) marry (woman)	(homme) épouser (femme)	marry	91.0.1.0.1.0	4443.0	20	203	MARRY	4		same as tie
+920	920	baobab tree	arbre de baobab	tree	15.0.1.0.1.0	860.0	19	997	BAOBAB TREE	2		
+921	921	male circumcision	circoncision masculine	circumcision	90.0.1.0.1.0	4432.0	19		CIRCUMCISION			
+924	924	send (package, letter, or money, to sb)	envoyer (colis, lettre, ou argent, d'qn)	send	147.0.5.0.2.0	7256.0	19	1127	SEND	4		
+926	926	stretch out, extend (e.g. hand)	tendre (la main, etc.)	stretch, extend	167.0.2.0.1.0	7848.0	19		???		STRETCH (body)	
+685	685	how much?, how many?	combien?	how much?, how many?	104.0.8.0.1.0	5296.0	20	822	HOW MANY	4		same concept
+687	687	(2Sg subject pronominal)	(marque de sujet 2Sg)	2Sg subject	179.0.2.0.5.0	9606.0	20		YOU			sg
+927	927	religion, Islam	religion, islam	religion	87.0.1.0.1.0	4246.0	19	661	RELIGION	4		
+928	928	wall (of house)	mur (d'une maison)	wall	54.0.9.0.4.0	2813.0	19	933	WALL (OF HOUSE)	4		
+929	929	(water jar, roof, sack, pocket) leak	(canari, toit, sac, poche) suinter, ê. troué de sorte que le contenu sort	leak	54.0.19.0.1.0	2871.0	19	769		4	leak	
+931	931	limp, walk with a limp	boiter	limp	146.0.32.0.1.0	7220.0	19	366	LIMP	4		
+932	932	unlock (e.g. door, house)	déboucler, ouvrir (porte ou maison fermée d'clé)	unlock	68.0.4.0.2.0	3447.0	19	1252		4	unlock	
+934	934	cramped, confined (space)	(espace) coincé, resserré, d'l'étroit	cramped, confined	67.0.4.0.1.0	3405.0	19		???		tight, cramped, close	
+935	935	thirty	trente	30.0	109.0.3.0.3.0	5389.0	19	1715	THIRTY	2		
+936	936	help (sb)	aider (qn)	help	80.0.4.0.1.0	4021.0	19	1897	HELP	4		
+938	938	go back, return	retourner	return, go back	146.0.3.0.2.0	7037.0	19	581	COME BACK	4		
+939	939	accompany (sb, to the door or street)	raccompagner, ¬´ pousser ¬ª (qn, d'la porte ou d'la rue)	accompany	80.0.2.0.1.0	4007.0	19	1542	ACCOMPANY	4		
+940	940	north	nord	north	61.0.1.0.3.0	3144.0	19	1598	NORTH	2		
+942	942	pardon, forgive (sb)	pardonner (qn)	pardon	102.0.18.0.5.0	5221.0	19	1528	FORGIVE	4		
+945	945	noble, freeborn person	noble (non esclave)	noble, freeborn	85.0.2.0.1.0	4171.0	19	482	NOBLE	4		
+946	946	have a dream	rêver, avoir un rêve	dream	142.0.3.0.1.0	6933.0	19		DREAMING OR DREAM			
+948	948	dense forest, thicket	forêt dense, fourré	forest	57.0.9.0.1.0	2994.0	19		FOREST			
+949	949	long ago, in the old days	jadis, il y a longtemps, dans le temps	long ago	71.0.4.0.1.0	3627.0	19	373	LONG AGO	4		
+952	952	padlock	cadenas	lock, padlock	68.0.5.0.6.0	3453.0	19	336	PADLOCK	4		
+953	953	sixty	soixante	60.0	109.0.3.0.6.0	5392.0	19	1718	SIXTY	2		
+954	954	forty	quarante	40.0	109.0.3.0.4.0	5390.0	19	1716	FORTY	2		
+956	956	gnaw, chew on (bone)	ronger (os)	gnaw, chew	25.0.1.0.7.0	1545.0	19	2706	GNAW	4		
+957	957	squeeze (e.g. arm) with one's hand	serrer (bras etc.) avec le bras	squeeze	130.0.3.0.1.0	6526.0	19		SQUEEZE			
+958	958	do work	faire du travail	work	152.0.2.0.1.0	7438.0	19		WORK (ACTIVITY)			
+959	959	(meal) be cooked, be done	(repas) devenir cuit	cooked, done	31.0.1.0.22.0	1887.0	19	269	COOKED	4		
+960	960	host, lodger	logeur	host, lodger	83.0.4.0.1.0	4127.0	19	1545	HOST	4		
+962	962	put (sth) up on (sth)	poser (qch) sur (qch)	put up	61.0.6.0.8.0	3168.0	19		???		stack	
+964	964	chase away, drive out	chasser, faire fuir	chase	146.0.24.0.1.0	7144.0	19	30		4	chase away	
+965	965	speak, talk, do some talking (verb plus noun)	parler (verbe plus substantif)	speak, tell, say	102.0.1.0.1.0	5103.0	19	2708	TALK	4		
+967	967	build (house)	construire (maison)	build	54.0.25.0.1.0	2896.0	19	1840	BUILD	2		
+969	969	toss (water) from wet hand with active gesture	jeter (eau) d'une main mouillé d'un geste actif	sprinkle	47.0.2.0.3.0	2560.0	19		???		sprinkle	
+970	970	heaven	paradis	heaven	87.0.14.0.2.0	4348.0	19	1565	HEAVEN	2		
+971	971	trigger (of gun)	détente, gâchette (de fusil)	trigger	95.0.19.0.1.0	4730.0	19		???		trigger (noun)	
+972	972	be fasting (e.g. in Ramadan), fast (verb)	jeûner, faire le jeûne (de Carême)	fasting	25.0.13.0.2.0	1599.0	19	303	ABSTAIN FROM FOOD	3		
+975	975	wood-chopping ax (handle with large bulge at end with a hole into which the pin on the back of blade is inserted, for both hands)	hache d'couper le bois (manche d'bout gonflé avec un trou ou s'insère la pointe de l'arrière de la lame, pour les deux mains)	ax (pinned)	145.0.7.0.2.0	7005.0	19		AXE (CLASSIFIER)			
+976	976	evening Muslim prayer (8 PM)	prière musulmane du soir (20 h.)	evening, prayer	73.0.13.0.5.0	3763.0	19		???		Isha 	
+979	979	eat (soft fruit, e.g. ripe mango)	manger (fruit mou, par ex. mangue mûre)	eat	25.0.1.0.4.0	1542.0	19	2787	CONSUME (DRINK OR EAT)	4		
+980	980	(1Sg independent pronoun)	(pronom indépendant 1Sg)	1Sg	179.0.1.0.1.0	9590.0	19		???		I	
+982	982	third (ordinal)	troisième	3rd	110.0.2.0.2.0	5417.0	19	1859	THIRD	2		
+983	983	traditional healer (using herbs and spells)	guérisseur traditionnel (qui utilise des plantes et des versets)	healer	98.0.33.0.2.0	5010.0	19		SHAMAN, FOLK HEALER			
+984	984	cave (hole or horizontal fracture in cliff)	grotte (trou ou fracture horizontale dans une falaise)	cave	70.0.1.0.1.0	3581.0	19	1155	CAVE	4		
+985	985	(sb) drown	(qn) se noyer	drown	58.0.8.0.1.0	3055.0	19	1904	DROWN	4		
+986	986	stream, small river	fleuve, rivière	river, stream	58.0.2.0.1.0	3033.0	19	947	STREAM	4		
+987	987	amulet, talisman (wallet worn on body containing protective blessings or spells written by a holy man)	amulette, talisman (porte-feuille porté sur le corps, contenant des versets écrits par un marabout)	amulet, talisman	135.0.10.0.1.0	6693.0	19	2804	AMULET	4		
+988	988	(e.g. bird) fly	(oiseau etc.) voler	fly (verb)	146.0.35.0.1.0	7239.0	19	1441	FLY (MOVE THROUGH AIR)	4		
+989	989	late afternoon Muslim prayer (4 PM)	prière musulmane de l'après-midi (16 h.)	afternoon, prayer	73.0.13.0.3.0	3761.0	19		???		Asr	
+990	990	surname, family (=clan) name	nom de famille	name	102.0.4.0.2.0	5122.0	19		???		surname	
+991	991	always	toujours	always	71.0.8.0.1.0	3650.0	19	1676	ALWAYS	2		
+782	782	(scorpion) sting (sb)	(scorpion) piquer (qn)	sting	143.0.5.0.5.0	6970.0	19	571	STING	4		same as BITE
+994	994	calf	veau	calf	1.0.4.0.2.0	7.0	19	1989	CALF	2		
+996	996	run	courir	run	146.0.27.0.1.0	7166.0	19	1519	RUN	2		
+998	998	load (verb)	charger	load	148.0.6.0.1.0	7278.0	19	1679	LOAD	4		
+788	788	(sb) bend over, lean forward, bow	(qn) se pencher en avant, s'incliner	bow, bend over	11.0.23.0.1.0	679.0	19	994	BOW	4		separate concepts
+1002	1002	pester, annoy, bother (sb)	emmerder, déranger (qn)	pester, annoy, bother	102.0.21.0.4.0	5238.0	19	2869	BOTHER (HARASS)	4		
+1005	1005	peck at (sth)	becqueter, picorer (qch)	peck	25.0.15.0.1.0	1603.0	19		???		peck	
+1006	1006	saddle (for horse, camel, bicycle)	selle (de cheval, de chameau, de vélo)	saddle	4.0.1.0.1.0	107.0	19	1871		4	saddle	
+1008	1008	Guinea worm (parasitic disease, now largely eradicated)	ver de Guinée (maladie parasitaire, récemment éradiquée)	Guinea worm	98.0.12.0.1.0	4873.0	19		???		Guinea worm	
+1009	1009	slender, slim, thin (person)	mince (personne)	slender, slim, thin	69.0.12.0.8.0	3572.0	19	2249	THIN (OF SHAPE OF OBJECT)	4		
+1010	1010	waterbag in well (hide or rubber, lowered on a rope into well to draw water)	puisette (sac en peau ou en caoutchouc attaché d'une corde, pour puiser l'eau de puits)	well bag	53.0.2.0.6.0	2744.0	19		???		dipper	
+1012	1012	baggage, portable possessions	bagages, biens portables	baggage	101.0.1.0.2.0	5069.0	19		???		luggage, baggage, bags	
+800	800	plead, do some pleading or begging	quémander	plead, beg	102.0.7.0.2.0	5133.0	19				beg	see ASK (REQUEST)
+1013	1013	cold season, winter (January-March)	saison froide, hiver (janvier-mars)	cold season	75.0.3.0.1.0	3791.0	19	1471	WINTER	4		
+1017	1017	grandfather	grand-père	grandfather	78.0.6.0.1.0	3860.0	19	1383	GRANDFATHER	2		
+1019	1019	burn (e.g. paper, grass, fabric)	brûler (papier, herbe, tissu, etc.)	burn	173.0.3.0.1.0	8117.0	19	141	BURN (SOMETHING)	4		
+812	812	tracks, trail (of paw prints, e.g. of animal)	traces (des pattes d'un animal)	tracks, trail	27.0.5.0.1.0	1729.0	19	667		4	tracks	 see FOOTPRINT
+1020	1020	Adam's apple (man's)	pomme d'Adan (d'un homme)	adam's apple	10.0.23.0.4.0	530.0	19	802	ADAM'S APPLE	4		
+1021	1021	go get firewood in the bush (by any method, i.e. collecting or chopping)	aller ramasser le bois de chauffage en brousse (par tout moyen, par ex. en ramassant ou en coupant)	get firewood	35.0.2.0.2.0	2020.0	19		???		collect firewood, scavenge	
+1023	1023	other, (something) else	autre	other	111.0.6.0.1.0	5451.0	19	197	OTHER	4		
+1025	1025	tied bundle of wood	fagot attaché de bois	bundle (wood)	49.0.1.0.2.0	2657.0	19		???		bundle	
+1026	1026	since ...	depuis que ...	since	71.0.5.0.2.0	3633.0	19		???		since	
+1028	1028	wound, injure (sb)	blesser (qn)	wound	98.0.4.0.6.0	4840.0	19	44	INJURE	4		
+1029	1029	mane (bony ridge)	crinière (arête osseuse)	mane	13.0.8.0.2.0	782.0	19	1918	MANE	4		
+1030	1030	blind person	aveugle (un)	blind	119.0.10.0.1.0	6021.0	19	457	BLIND PERSON	2		
+1031	1031	condolences (to the bereaved family, after a death)	condoléances (d'la famille du décédé)	condolence	9.0.10.0.1.0	269.0	19		???		offer condolences	
+1032	1032	able-bodied man (e.g. from around 17 to 40)	homme d'corps solide (de 17 d'40 ans, environ)	young man	6.0.5.0.1.0	157.0	19		YOUNG MAN			
+1033	1033	entrust (sth, to sb)	confier (qch, d'qn)	entrust	80.0.5.0.7.0	4032.0	19		???		trust, entrust	
+1034	1034	sandal (rubber, plastic)	sandale (caoutchouc, plastique), tapète	shoe, sandal	16.0.15.0.19.0	1146.0	19	654	PLASTIC	4		
+1039	1039	whip (branch)	fouet (branche)	whip	95.0.8.0.2.0	4676.0	19	2630	WHIP	4		
+1040	1040	dream (verb only)	réver (verbe seulement)	dream	142.0.3.0.2.0	6934.0	19	1920	DREAM (SOMETHING)	3		
+836	836	beat, play (tomtom)	battre, taper (tam-tam)	beat (tomtom), play	93.0.8.0.1.0	4569.0	19	1433	DRUMMING	4		same as speak
+1041	1041	shell, remove shells from (e.g. peanuts or karité pits) by hand	écosser, enlever les gousses de (arachides, noyaux de karité, etc.) d'la main	shell (verb)	138.0.9.0.1.0	6872.0	19	598		4	remove	
+1043	1043	torch (still used e.g. for smoking bees out of hive)	flambeau (utilisé jusqu'd'nos jours pour chasser les abeilles de la ruche)	torch	35.0.1.0.6.0	2017.0	19	1919	TORCH	4		
+1044	1044	dream (noun)	rêve	dream	142.0.3.0.3.0	6935.0	19	2374	DREAM	3		
+1045	1045	paper	papier	paper	135.0.5.0.1.0	6675.0	19	648	PAPER	2		
+846	846	month	mois	month	71.0.2.0.1.0	3619.0	19	1370	MONTH	2		same as MOON
+1049	1049	singer	chanteur	singer	92.0.8.0.4.0	4530.0	19		???		singer	
+854	854	put down, set (container that sits on a compact bottom: pail, calabash, water jar, eating bowl, tankard, etc.)	poser (récipient qui s'assoit sur une base compacte: seau, canari, calebasse, tasse, pot, etc.)	put down, set	151.0.1.0.6.0	7389.0	19	998		4	put down	see PUT
+1053	1053	set, lay (e.g. saddle on padding)	poser (par ex., selle sur l'ouate)	set, lay	151.0.1.0.7.0	7390.0	18	998	PUT	4	pose	
+1054	1054	swear (the truth of an assertion, invoking God)	jurer (la vérité d'une affirmation, en invocant Dieu)	swear, vow, oath	102.0.10.0.2.0	5150.0	18	1939	SWEAR	4		
+1055	1055	tenth (ordinal)	dixième	10th	110.0.3.0.1.0	5421.0	18		???		tenth	
+1057	1057	entire plant or tree (compound final)	plante ou arbre entier (dans les composés)	plant (entire)	15.0.1.0.3.0	862.0	18	2721	TREE (CLASSIFIER)	4		
+1059	1059	oath, act of swearing (the truth of an assertion, invoking God)	jurement, fait de jurer (la vérité d'une affirmation, en invocant Dieu)	swear, oath	102.0.10.0.4.0	5152.0	18	1712	OATH	4		
+1060	1060	narrow (passageway, road)	(passage, chemin) étroit	narrow	166.0.5.0.1.0	7832.0	18	1267	NARROW	4		
+871	871	with, by means of (instrument)	avec (instrument)	with, by means of	80.0.1.0.1.0	4003.0	19	1340	WITH	4		see TOOL
+1064	1064	(women) emit cries of joy, ululate	(femmes) pousser des you-you (cris de joie)	ululate	122.0.5.0.1.0	6118.0	18		???		ululate	
+1065	1065	string (e.g. beads) (verb)	enfiler (perles, etc.)	string	143.0.6.0.1.0	6975.0	18	362	STRING	4		
+1068	1068	(woman) marry (man)	(femme) épouser (homme)	marry	91.0.1.0.5.0	4447.0	18	2163	MARRY (AS WOMAN)	4	be or become married	
+1069	1069	small square palm-leaf hand fan	petit éventail carré en feuille de doum	fan	173.0.4.0.1.0	8132.0	18		FAN (OBJECT)			
+1071	1071	leprosy (chronic disease affecting skin, peripheral nerves, eyes, and mucosities of the upper respiratory tract)	lèpre (maladie chronique qui attaque la peau, les nerfs périphériques, les yeux, et les muqueuses)	leprosy	98.0.13.0.3.0	4876.0	18	1248		4	leprosy	
+1072	1072	it isn't straight	il n'est pas droit	straight	167.0.1.0.2.0	7836.0	18		???		crooked, bent	
+1075	1075	snail	escargot	snail	13.0.10.0.5.0	790.0	18	1543	SNAIL	2		
+1076	1076	make (rope, by braiding together three smaller cords)	fabriquer (corde, en tressant trois cordes plus petites)	make (rope)	125.0.8.0.4.0	6363.0	18	734	MAKE	4		
+1081	1081	head hair	cheveux (de tête)	hair	10.0.14.0.2.0	435.0	18	2648	HAIR (HEAD)	2		
+1082	1082	stroll (noun), (a) walk	promenade	stroll, walk	146.0.29.0.3.0	7190.0	18	2890	WALK (TAKE A WALK)	4	stroll	
+1084	1084	mustache	moustache	mustache, moustache	10.0.14.0.4.0	437.0	18	678		4	mustache	
+892	892	odor, smell (noun)	odeur	odor, smell	123.0.1.0.1.0	6202.0	19	1221		4	smell (noun)	see SMELL (STINK) but not necessarily unpleasant
+1086	1086	namesake, person with the same personal name	homonyme, personne qui a le même nom personnel	namesake	78.0.20.0.1.0	3939.0	18		???		namesake	
+1087	1087	(imam) preach, give a sermon	(imam) prêcher, donner une prédication	sermon, preach	87.0.7.0.5.0	4293.0	18	304	PREACH	4		
+1088	1088	clear (one's throat), hawk before spitting (verb only)	se racler (la gorge) avant de cracher (verbe seulement)	clear throat, hawk	11.0.11.0.12.0	623.0	18	989	CLEAR	4		
+1090	1090	choose, select (sth)	choisir, sélectionner (qch)	choose	118.0.1.0.1.0	5927.0	18	1750	CHOOSE	4		
+1091	1091	Bozo, Sorko (ethnicity)	bozo (ethnie)	bozo	81.0.5.0.1.0	4061.0	18		???		Bozo person	
+1093	1093	remainder, rest	reste	rest, remainder	111.0.18.0.1.0	5519.0	18	168		4	remainder	
+1094	1094	taboo, avoidance of ritual impurity	tabou, fait d'éviter l'impureté rituelle	taboo	89.0.3.0.1.0	4416.0	18		???		taboo	
+1096	1096	fifth (ordinal)	cinquième	5th	110.0.2.0.4.0	5419.0	18		???		fifth	
+1099	1099	fishhook	hameçon (pour poisson)	fishhook	27.0.6.0.18.0	1751.0	18	1074	FISHHOOK	2		
+1104	1104	anvil	enclume	anvil	154.0.6.0.1.0	7495.0	18	1648	ANVIL	2		
+1107	1107	until now, so far	jusqu'd'présent	until	71.0.6.0.1.0	3640.0	18		???		until	
+1111	1111	unhook, take off (sth hanging)	décrocher (objet accroché)	unhook, take down	126.0.2.0.1.0	6375.0	18	1755		4	take down	
+1112	1112	no good, ruined (e.g. vehicle)	(appareil etc.) gâté	worn out, old	7.0.6.0.1.0	199.0	18		???		ruined	
+1116	1116	thus	ainsi	thus	176.0.2.0.1.0	8200.0	18		???		thus, therefore	
+1117	1117	hide, skin (of animal)	peau (d'animal)	hide, skin	13.0.9.0.1.0	784.0	18	2614	SKIN (ANIMAL)	4	hide	
+1118	1118	drizzle, very light rain	bruine, pluie très légère	drizzle	60.0.1.0.5.0	3096.0	18	1016	DRIZZLE	4		
+1119	1119	arrow	flèche	arrow	95.0.6.0.3.0	4667.0	18	977	ARROW	2		
+1120	1120	merchant	commerçant	merchant	113.0.2.0.3.0	5568.0	18	1082	MERCHANT	2		
+1121	1121	newborn baby	bébé nouveau-né	newborn, baby	8.0.7.0.1.0	230.0	18		???		infant	
+1122	1122	So-and-so, such-and-such (substitute for name)	un tel, tel ou tel (remplace un nom)	so-and-so	102.0.4.0.4.0	5124.0	18		???		whatchamacallit, so-and-so	
+1123	1123	be dizzy	avoir le vertige	dizzy	11.0.8.0.5.0	603.0	18		???		dizzy	
+1126	1126	certain, some (people)	certains, quelques (personnes)	some	111.0.6.0.3.0	5453.0	18	1241	SOME	4		
+1126	1126	certain, some (people)	certains, quelques (personnes)	some	111.0.6.0.3.0	5453.0	18	509	CERTAIN	4		
+1129	1129	snatch (sth, from sb)	happer (qch, de qn)	snatch, grab	100.0.3.0.10.0	5041.0	18		???		snatch	
+1132	1132	father- or mother-in-law (of man or woman)	beau-père ou belle-mère (d'homme ou de femme)	parent-in-law	78.0.19.0.7.0	3934.0	18	1050	MOTHER-IN-LAW	4		
+1133	1133	write (sth)	écrire (qch)	write	135.0.1.0.2.0	6665.0	18	1672	WRITE	4		
+1138	1138	father's younger brother	frère cadet du père	uncle	78.0.3.0.2.0	3846.0	18		PATERNAL UNCLE (FATHERS YOUNGER BROTHER)			
+1141	1141	idol, fetish (in animism)	idole, fétiche (animiste)	idol, fetish	89.0.2.0.1.0	4411.0	18	1945	IDOL	4		
+1142	1142	delicious (taste)	(goût) délicieux	delicious	124.0.2.0.2.0	6265.0	18	1813	TASTY	4		
+1144	1144	wipe (surface, e.g. with a cloth)	essuyer (surface, par ex. avec un tissu)	wipe	132.0.6.0.1.0	6609.0	18	1454	WIPE	4		
+1145	1145	fever (and various complications)	fièvre (et ses complications)	fever	98.0.14.0.1.0	4896.0	18	1534	FEVER	4		
+1147	1147	break one's fast	rompre son jeûne	break fast	25.0.14.0.1.0	1600.0	18		???		break fast 	
+1148	1148	spring (water source)	source (eau)	spring (water)	58.0.4.0.1.0	3040.0	18	849	SPRING (OF WATER)	4		
+1152	1152	trust, confidence (in sb)	confiance (en qn)	trust	80.0.5.0.1.0	4026.0	18		???		trust, confide	
+1153	1153	remove, pick out (earwax)	enlever, extraire (cire d'oreille)	remove (earwax), pick out	10.0.24.0.5.0	538.0	18		???		pick, remove	
+1154	1154	pauper, poor person	(un) pauvre, qn qui vit dans la misère	poor, pauper	114.0.3.0.3.0	5638.0	18		???		poor (person)	
+1155	1155	be or become accustomed to (sth)	ê. habitué, s'habituer d'(qch)	accustomed	116.0.13.0.1.0	5756.0	18	1579		4	accustomed, used to	
+1156	1156	be enough, suffice	suffire	enough	111.0.20.0.1.0	5530.0	18	1881	ENOUGH	4		
+1161	1161	last, final (in a series)	dernier (dans une suite)	last	110.0.4.0.1.0	5422.0	18	1529	LAST (FINAL)	4		
+1165	1165	machete blade (with or without small handle)	coupe-coupe (lame, avec ou sans une petite manche)	machete blade	145.0.4.0.1.0	6997.0	18		BLADE			
+1169	1169	(sb) change (sth)	(qn) changer (qch)	change	64.0.2.0.4.0	3266.0	18	2856	CHANGE (SOMETHING)	4		
+1170	1170	middle, midpoint	milieu	middle	63.0.1.0.5.0	3213.0	18	1093	MIDDLE	4		
+1171	1171	orange (fruit)	orange (fruit)	orange	36.0.1.0.8.0	2066.0	18	2627	ORANGE (FRUIT)	4		
+1172	1172	have (sb) carry (sth) on the head	faire porter (qch, d'qn) d'la tête	carry	148.0.1.0.4.0	7261.0	18		CARRY ON HEAD			
+1173	1173	go backward, back up, retreat	reculer, regresser	retreat, go backward	61.0.3.0.1.0	3152.0	18	421	RETREAT	4		
+1175	1175	authorize (sb, to do sth)	autoriser (qn, d'faire qch)	authorize	102.0.12.0.2.0	5173.0	18		???		allow, authorize	
+1176	1176	rip, tear (sth)	déchirer (qch)	rip, tear	138.0.5.0.1.0	6844.0	18	1735	TEAR (SHRED)	4		
+1180	1180	drag (sth) on the ground (leaving a trail or wake)	trainer (qch) d'terre (en laissant des traces)	drag	131.0.2.0.12.0	6557.0	18	1602	DRAG	4		
+1181	1181	plump (animal)	(animal) gras	plump	69.0.11.0.10.0	3553.0	18		???		plump	
+1182	1182	cause (e.g. calabash) to tilt	faire pencher (calebasse etc.)	tilt	12.0.7.0.6.0	729.0	18		???		tilt	
+1184	1184	turn, veer, change direction	virer	turn, veer	167.0.6.0.1.0	7900.0	18	1588	TURN	4		
+1185	1185	Mossi	mossi	mossi	81.0.12.0.1.0	4086.0	18		???		Mossi person	
+1188	1188	possession of (sb)	propriété de (qn)	possession	101.0.5.0.1.0	5083.0	18		???		possession, belonging	
+1191	1191	griot	griot	griot	82.0.5.0.1.0	4105.0	18		???		Griot caste	
+1193	1193	take (sth) away from (sth), dispossess (sb, of sth)	déposséder, retirer (qch, d'qn)	take away, dispossess	99.0.3.0.1.0	5021.0	18		???		take away	
+1196	1196	(sth) rot, be or become rotten, spoil	(qch) pourrir, ê. pourri	rot	123.0.5.0.2.0	6242.0	18	2907	ROT	4		
+1198	1198	newlywed bride (after she moves to husband's house)	nouvelle mariée (après qu'elle a déménagé d'la maison du mari)	bride	91.0.6.0.1.0	4466.0	18		???		newlywed	
+1199	1199	if... (indicate if not clause-final)	si... (indiquez si non en fin d'énoncé)	if	177.0.9.0.1.0	8230.0	18		???		if	
+1200	1200	spark	étincelle	spark	35.0.8.0.1.0	2045.0	18	518	SPARK	2		
+1201	1201	(e.g. rope) be or become tangled	(corde, etc.) ê. ou devenir enchevêtré	tangle	129.0.9.0.3.0	6512.0	18	1579		4	tangle	
+1203	1203	rich person, wealthy person	richard, personne riche	rich	114.0.4.0.1.0	5642.0	18		???		rich (person)	
+1205	1205	thunder (noun)	tonnerre	thunder	60.0.3.0.1.0	3110.0	18	1150	THUNDER	3		
+1206	1206	customary rite (animist)	rite coutumier (animiste)	custom	89.0.1.0.1.0	4408.0	18		CUSTOM			
+1211	1211	(sun) rise	(soleil) se lever	rise, sunrise	59.0.5.0.1.0	3068.0	18	568	RISE (MOVE UPWARDS)	4		
+1215	1215	back, rear (of sth)	arrière, derrière (de qch)	back, rear	66.0.4.0.6.0	3364.0	18	2323	BACK (PART)	4		
+1216	1216	(sb's) portion, share	part (de qn)	share, portion	111.0.17.0.2.0	5517.0	18	2725	PORTION (CLASSIFIER)	4		
+1217	1217	fifty	cinquante	50.0	109.0.3.0.5.0	5391.0	18	1717	FIFTY	2		
+1219	1219	mist, fog	brume, brouillard	mist, fog	60.0.10.0.1.0	3136.0	18	249	FOG	4		
+1221	1221	defeat, overpower, vanquish	vaincre, battre	defeat	86.0.3.0.1.0	4215.0	18	782	DEFEAT	4		
+1222	1222	toilet (with hole in ground)	toilette (avec trou)	toilet	54.0.26.0.3.0	2902.0	18	219	TOILET	4		
+1224	1224	rice (cooked meal)	riz (repas cuit)	rice	26.0.5.0.1.0	1638.0	18	1191	COOKED RICE	4		
+1225	1225	leg	jambe	leg	10.0.12.0.2.0	412.0	18	1297	LEG	2		
+1226	1226	home-builder, mason	maçon, celui qui construit les maisons	builder, mason	152.0.6.0.1.0	7456.0	18	877	MASON	4		
+1227	1227	frighten, scare	faire pèur à, épouvanter	frighten, scare	117.0.10.0.4.0	5817.0	18	252	FRIGHTEN	4		
+1228	1228	termite mound, termitary	termitière	termite mound, termitary	57.0.15.0.1.0	3025.0	18		???		termite mound, termitary	
+1229	1229	cement	ciment	cement	48.0.2.0.1.0	2623.0	18		???		cement	
+1230	1230	brew (millet beer)	faire (bière de mil)	brew beer	22.0.6.0.3.0	1482.0	18		???		brew (verb)	
+1231	1231	become black or dark	devenir noir ou foncé	black, dark	160.0.3.0.2.0	7591.0	18	706	DARK	4		
+1232	1232	tobacco pipe	pipe d'tabac	pipe	51.0.5.0.1.0	2724.0	18		PIPE			
+1234	1234	wide (passageway)	(passage) large, non serré	wide	166.0.4.0.1.0	7828.0	18	2652	BROAD OR WIDE	4		
+1235	1235	umbilical cord (at birth)	cordon ombilical (d'la naissance)	umbilical cord	10.0.24.0.1.0	534.0	18	2663	UMBILICAL CORD	4		
+1236	1236	splash or toss (water) by hand (as in bathing)	jeter (eau) légèrement de la main (par ex. en se lavant)	splash	47.0.2.0.6.0	2563.0	18	365	SPLASH	4		
+1237	1237	fan (sb, hot meal)	éventer, ventiler (qn, repas chaud) avec éventail	fan, ventilate	173.0.5.0.2.0	8134.0	18	360	FAN ACTION	4		
+1238	1238	stomach ache, upset stomach	mal de ventre	stomach ache	98.0.11.0.2.0	4867.0	18		HURT (SENSE PAIN)			
+1239	1239	scissors	ciseaux	scissors	145.0.6.0.1.0	7003.0	18	356	SHEARS	2		
+1242	1242	(sick or wounded person) recover, recuperate, get well	(malade ou blessé) guérir, se remettre	recover, heal, cure	98.0.25.0.2.0	4966.0	18	1978	RECOVER	4		
+1243	1243	(sth) explode	(qch) exploser	burst, explode	138.0.7.0.1.0	6848.0	18		???		explode	
+1245	1245	eleven	onze	11.0	109.0.4.0.1.0	5399.0	18	1706	ELEVEN	2		
+1248	1248	circle	cercle	circle	163.0.3.0.1.0	7718.0	18	1467	CIRCLE	2		
+1249	1249	earthenware cooking pot	marmite en terre cuite	pot	41.0.2.0.2.0	2435.0	18		???		ceramic pot	
+1073	1073	leg, foot (of bird)	patte (d'oiseau)	foot (bird)	13.0.2.0.1.0	748.0	18	1301	FOOT	4		see CLAW OR NAIL
+1250	1250	(sth) evolve, change (from what it was before)	(qch) évoluer, se changer (par rapport d'ce qu'il était auparavant)	evolve, change	64.0.2.0.5.0	3267.0	18	2857	CHANGE (BECOME DIFFERENT)	4		
+1252	1252	day before yesterday	avant-hier	day	72.0.4.0.1.0	3681.0	18	1180	DAY BEFORE YESTERDAY	2		
+1254	1254	inside ...	d'l'intérieur de ...	inside	63.0.1.0.1.0	3209.0	18		INSIDE			
+1256	1256	left-handed person, lefty	gaucher	left	61.0.4.0.3.0	3157.0	18		???		left-handed person, lefty	
+1261	1261	de-feather, pluck out feathers of (e.g. chicken)	éplumer (poulet, etc.)	pluck	139.0.2.0.2.0	6887.0	18		???		pluck	
+1266	1266	sip, take a sip of (tea)	siroter, boire (thé) d'petites gorgées	sip	21.0.2.0.1.0	1440.0	18		???		sip	
+1267	1267	full (container)	(récipient) plein	full	168.0.1.0.1.0	7910.0	18	1429	FULL	2		
+1268	1268	scar (noun)	cicatrice	scar	98.0.20.0.1.0	4924.0	18	497	SCAR	3		
+1269	1269	again, once more	encore une fois, de nouveau	again	71.0.7.0.1.0	3644.0	18	204	AGAIN	4		
+1270	1270	rooster	coq	rooster	5.0.1.0.3.0	131.0	18	1511	ROOSTER	2		
+1271	1271	hard red candies for cough relief (wrapped)	bonbon pectoral, bonbons durs rouges (emballés)	candy	26.0.16.0.4.0	1709.0	18		???		coughdrop	
+1276	1276	shard (of earthenware water jug or of calabash)	morceau cassé, tesson (de canari ou de calebasse)	shard	14.0.3.0.2.0	839.0	18		???		shard	
+1278	1278	stroll, take (a walk) (verb only)	se promener, faire (une promenade) (verbe seulement)	stroll, walk	146.0.29.0.2.0	7189.0	18	1749		4	stroll	
+1279	1279	(man) copulate with, fuck (woman)	(homme) avoir un rapport sexuel avec (femme)	copulate, fuck	11.0.21.0.1.0	672.0	18		HAVE SEX			
+1283	1283	doctor	docteur, médecin	doctor	98.0.33.0.1.0	5009.0	18	597	PHYSICIAN	2		
+1286	1286	comb (verb)	peigner	comb	19.0.3.0.1.0	1325.0	18	2070	COMB (VERB)	3		
+1124	1124	rainbow	arc-en-ciel	rainbow	60.0.5.0.1.0	3116.0	18	1733	RAINBOW	2		Usually a compound
+1288	1288	knead (dough for millet cakes, with a flat kneading stick)	malaxer (pâte de tô, avec un bâtonnet plat d'malaxer)	knead	129.0.4.0.1.0	6474.0	18	274	KNEAD	4		
+1290	1290	mix, combine (sth and sth)	mélanger, combiner (qch et qch)	mix, combine	129.0.1.0.1.0	6457.0	18	2017	MIX	4		
+1128	1128	fine, assess a fine against (sb)	amender (qn)	fine	96.0.2.0.1.0	4755.0	18	218		4	fine	see FINE (PENALTY) (verb)
+1131	1131	fine (powder, etc.)	(poudre, etc.) fin	fine	26.0.10.0.6.0	1667.0	18	2157	FINE OR THIN	4		*not THIN
+1291	1291	scatter (things)	éparpiller, disperser (des objets)	scatter, disperse	146.0.21.0.2.0	7136.0	18	2064	SCATTER (SEEDS)	4		
+1292	1292	understand	comprendre	understand	116.0.8.0.1.0	5717.0	18	1536	UNDERSTAND	2		
+1136	1136	mother's younger sister	sœur cadette de la mère	aunt	78.0.4.0.2.0	3851.0	18		MATERNAL AUNT			also MOTHER
+1294	1294	earwax	cérumen	earwax	10.0.24.0.4.0	537.0	18	32	EARWAX	2		
+1295	1295	say sth false (lie, exaggeration, or honest mistake)	dire du faux (mensonge, exagération, ou erreur	false 	103.0.5.0.1.0	5273.0	18		LIE (MISLEAD)			
+1296	1296	drop seeds in a slash in the ground and cover them up by tamping with one's foot	semer la semence dans un poquet et la couvrir en la damant avec le pied	sow, plant	37.0.13.0.8.0	2241.0	18		SOW SEEDS			
+1299	1299	scab (congealed blood from cut)	croûte (sang séché d'une plaie)	scab	98.0.19.0.2.0	4922.0	18	2664	SCAB	4		
+1300	1300	bread	pain	bread	26.0.6.0.1.0	1641.0	18	1368	BREAD	2		
+1304	1304	the day after tomorrow	après-demain	day after tomorrow	72.0.6.0.1.0	3686.0	18	1179	DAY AFTER TOMORROW	1		
+1308	1308	locally produced soft candy	bonbon mou de fabrication locale	candy	26.0.16.0.3.0	1708.0	18		CANDY			
+1311	1311	sour, acidic, acrid (taste, e.g. of tamarind)	(goût) aigre (de tamarin, etc.)	sour, acidic	124.0.6.0.2.0	6287.0	18	1906	SOUR	4		
+1313	1313	sixth (ordinal)	sixième	6th	110.0.2.0.5.0	5420.0	18		???		sixth	
+1315	1315	collective hunt	chasse collective	collective hunt	27.0.3.0.1.0	1723.0	18		???		collective hunt	
+1318	1318	I cannot (with verb phrase)	je ne peux pas (avec phrase verbale)	cannot	153.0.1.0.2.0	7466.0	18		???		unable	
+1322	1322	Arab (person)	arabe (personne)	arabe	81.0.2.0.1.0	4053.0	18		???		Arab person	
+1326	1326	track (of snake or crocodile, or wounded animal)	traces (de serpent ou de crocodile, ou d'animal blessé)	tracks	27.0.5.0.5.0	1733.0	18	1857		4	track (verb)	
+1327	1327	clap hands, applaud	battre les mains, applaudir	clap, applaud	122.0.6.0.1.0	6121.0	18		???		clap, applaud	
+1331	1331	guava	goyave	guava	36.0.1.0.4.0	2062.0	18		???		guava	
+1334	1334	credit (loan)	crédit (prêt)	credit	114.0.7.0.1.0	5663.0	18		???		loan	
+1336	1336	scratch (sth, e.g. one's arm)	gratter (qch, par ex., son bras)	scratch	139.0.1.0.1.0	6881.0	18	1436	SCRATCH	4		
+1338	1338	it is straight	il est droit	straight	167.0.1.0.1.0	7835.0	18		STRAIGHT			
+1339	1339	nose ring (for woman, camel, ox)	anneau de nez (de femme, de chameau, de bœuf)	nose ring	20.0.15.0.2.0	1419.0	18	1871		4	nose ring	
+1341	1341	approach, come close	s'approcher	approach, near	65.0.2.0.2.0	3323.0	18	1778	APPROACH	4		
+1342	1342	(a) greeting	salutation	greeting	105.0.1.0.3.0	5303.0	18		???		salutation, greeting	
+1344	1344	(wound) be swollen, infected	(plaie) s'enfler, devenir infecté	wound, infection, swelling	98.0.22.0.1.0	4946.0	18	548	INFECTED	4		
+1346	1346	entire, whole, intact (e.g. melon, kola nut)	entier, intègre (melon, noix de cola, etc.)	entire, whole	111.0.14.0.1.0	5508.0	18	2277	WHOLE	4		
+1346	1346	entire, whole, intact (e.g. melon, kola nut)	entier, intègre (melon, noix de cola, etc.)	entire, whole	111.0.14.0.1.0	5508.0	18	220	INTACT	4		
+1349	1349	darkness	obscurité, ténèbres	darkness	174.0.5.0.1.0	8161.0	18	11	DARKNESS	2		
+1350	1350	tallness, height	taille, hauteur (mesure)	tallness, height	69.0.7.0.4.0	3510.0	18	1265	HIGH	4		
+1350	1350	tallness, height	taille, hauteur (mesure)	tallness, height	69.0.7.0.4.0	3510.0	18	2985	TALL	4		
+1353	1353	(trap) spring, be sprung	(piège) sauter, se déclencher	trap spring	27.0.8.0.1.0	1757.0	18	1829		4	spring (verb)	
+1357	1357	kick (sth, sb)	donner un coup de pied d'(qch, qn)	kick	136.0.8.0.1.0	6739.0	18	1135	KICK	4		
+1358	1358	(doctor) give an injection to, vaccinate	(docteur) donner une piqûre à, vacciner	vaccinate	98.0.31.0.1.0	4990.0	18		???		vaccinate	
+1361	1361	(thread, string, rope) snap	(fil, corde) se casser, rompre	snap	138.0.11.0.2.0	6880.0	18	1218		4	snap	
+1363	1363	right now	tout de suite	now	72.0.1.0.4.0	3678.0	18		NOW OR TODAY			
+1366	1366	pour out, spill (grain, sand)	verser d'terre (graines, sable)	pour, spill	149.0.8.0.8.0	7366.0	18	1487		4	spill	
+1367	1367	carrion (meat or corpse of animal not properly slaughtered)	charogne (corps ou viande d'un animal non égorgé)	carrion	26.0.12.0.5.0	1686.0	18		???		carrion	
+1370	1370	menstrual period	règles (de femme), état de menstruation	menstruation	11.0.13.0.1.0	635.0	18		MENSTRUATION			
+1371	1371	tale (narrative)	conte (histoire)	tale, story	106.0.3.0.1.0	5321.0	18		STORY			
+1372	1372	throw (e.g. stone)	jeter (pierre etc.)	throw	131.0.4.0.4.0	6569.0	18	1456	THROW	4		
+1374	1374	it's false (untrue)	c'est faux	false 	103.0.5.0.4.0	5276.0	18		0			
+1377	1377	witness (person)	témoin	witness	97.0.9.0.1.0	4805.0	18	1144	WITNESS	4		
+1378	1378	laziness	paresse	laziness	117.0.14.0.3.0	5847.0	18		LAZY			
+1379	1379	snap, break (thread, string, rope by pulling or biting)	casser, rompre (fil, corde, en tirant ou en mordant)	snap	138.0.11.0.1.0	6879.0	18	460	BREAK (OF ROPE)	4		
+1382	1382	price	prix	price	113.0.8.0.1.0	5582.0	18	657	PRICE	2		
+1383	1383	make large pile of, pile up (harvested crop)	entasser, faire un gros tas de (céréales etc. récoltées)	pile (large)	37.0.26.0.3.0	2340.0	18	1576	PILE UP	4		
+1385	1385	learn, be trained	apprendre, avoir sa formation	learn	116.0.2.0.4.0	5695.0	18	504	LEARN	4		
+1386	1386	stirrup	étrier	stirrup	4.0.8.0.1.0	122.0	18		???		stirrup	
+1387	1387	aim at (target)	viser (cible)	aim	95.0.21.0.4.0	4737.0	18		???		aim	
+1391	1391	anus	anus	anus	10.0.5.0.2.0	336.0	17	1935	ANUS	2		
+1398	1398	fifteen	quinze	15.0	109.0.4.0.4.0	5402.0	17	1709	FIFTEEN	2		
+1399	1399	granulate (sth), break up, cause to crumble	défaire (qch) en miettes ou en grains, émietter	break up, crumble	138.0.3.0.1.0	6827.0	17		???		crumble	
+1402	1402	plead (verb only)	quémander (verbe seulement)	plead, beg	102.0.7.0.4.0	5135.0	17		???		plead, beg	
+1403	1403	rinse (pots, bowls)	rincer (marmites, vaisselle)	rinse	158.0.5.0.3.0	7556.0	17	2904	RINSE	4		
+1405	1405	scrub (wet clothing, in washing) such that two surfaces of the garment rub together back and forth	frotter (vêtement mouillé, en faisant le linge) de sorte que deux surfaces du vêtement se frottent dans les deux sens	scrub	158.0.3.0.3.0	7548.0	17	1449		4	scrub	
+1274	1274	different, separate, apart	différent, séparé, d'part	different, apart, separate	80.0.9.0.1.0	4042.0	18	2504	DIFFERENT	4		separate concepts
+1406	1406	lean back (e.g. on chair back)	se pencher en arrière (sur le dos d'une chaise, etc.)	lean back	12.0.6.0.4.0	722.0	17		???		lean	
+1407	1407	honor, esteem, treat with great respect (sb)	honorer, considérer hautement (qn)	esteem, regard, honor	84.0.1.0.2.0	4132.0	17		RESPECT (NOUN)			
+1408	1408	sister's child	enfant de la sœur	nephew, niece	78.0.9.0.7.0	3891.0	17		NIECE/NEPHEW			
+1409	1409	snot (liquid, as from a cold)	morve (liquide, comme d'un rhume)	snot	10.0.24.0.8.0	541.0	17	208	NASAL MUCUS (SNOT)	4		
+1410	1410	I am better than he	je vaux mieux que lui	better	169.0.2.0.1.0	7944.0	17		???		better	
+1412	1412	think (of or about sth)	penser à, réfléchir (autour de qn)	think	116.0.6.0.3.0	5707.0	17	1513	THINK (BELIEVE)	4		
+1414	1414	trick, ruse, stratagem	ruse, stratagème	trick, ruse, stratagem	96.0.7.0.1.0	4778.0	17	1902		4	trick (noun), ruse	
+1417	1417	turn (e.g. jar, calabash, basket) upside down	renverser (qch), mettre le dessus dessous	flip, turn over, upside-down	146.0.16.0.3.0	7115.0	17	1445	TURN (SOMETHING)	4		
+1419	1419	perform the pilgrimage to Mecca	faire le pèlerinage d'la Mecque	pilgrimage	87.0.10.0.1.0	4312.0	17		???		pilgrimage	
+1420	1420	footprint	trace (de pied)	footprint	27.0.5.0.2.0	1730.0	17	318	FOOTPRINT	2		
+1421	1421	pail	seau	pail	45.0.5.0.1.0	2524.0	17		BUCKET			
+1422	1422	cast a spell on, bewitch, use black magic on (sb)	jeter un sort à, ensorceler (qn)	cast spell, bewitch	88.0.2.0.6.0	4370.0	17	118	BEWITCH	4		
+1423	1423	chop (meat), cut (meat) with chopping (not slicing) motion	couper (viande) d'un coup vertical	chop	137.0.3.0.7.0	6767.0	17	2149	CHOP (INTO PIECES)	4		
+1425	1425	airplane	avion	airplane	150.0.5.0.1.0	7381.0	17	1597	AIRPLANE	2		
+1428	1428	lean on (cane), push down on (stick)	s'appuyer sur (canne), appuyer sur (bâton)	lean	130.0.1.0.2.0	6515.0	17		???		lean (verb)	
+1429	1429	depth (of hole or well)	profondeur (de trou, de puits)	depth	69.0.9.0.5.0	3541.0	17	2534	DEPTH	4		
+1319	1319	saw (tool, e.g. for sawing calabashes)	scie (qui sert d'scier les calebasses etc.)	saw	137.0.6.0.2.0	6784.0	18	1948	SAW	4		(verb)
+1323	1323	sniff, smell (an odor)	flairer, sentir (une odeur)	sniff	123.0.2.0.2.0	6224.0	18	1586	SMELL (PERCEIVE)	4		same as HEAR
+1431	1431	wheat	blé	wheat	36.0.2.0.9.0	2076.0	17	1077	WHEAT	2		
+1432	1432	womb	matrice	womb	10.0.7.0.14.0	372.0	17	804	WOMB	2		
+1434	1434	slow (adjective)	lent	slow	172.0.3.0.1.0	8094.0	17	701	SLOW	1		
+1436	1436	tie a knot	faire un nœud	tie knot	125.0.4.0.1.0	6327.0	17		???		tie a knot	
+1438	1438	sunset	coucher du soleil	sunset	59.0.6.0.2.0	3080.0	17	2295	SUNSET	2		
+1439	1439	(sorceror) cast (a spell)	(sorcier) jeter (un sort)	cast spell	88.0.2.0.2.0	4366.0	17	211	CURSE	4	cast (verb)	
+1345	1345	I want (sth)	je veux (qch)	want, like, love	118.0.3.0.3.0	5937.0	18		WANT			same as LIKE
+1440	1440	fine (penalty)	amende	fine	96.0.2.0.2.0	4756.0	17	218	FINE (PENALTY)	4		
+1441	1441	motor vehicle (truck, bus, car)	véhicule, voiture (camion, car, voiture)	vehicle	150.0.1.0.1.0	7372.0	17	2735	CAR (CLASSIFIER)	4		
+1442	1442	saltlick, salty earth (licked by livestock)	terre salée (léchée par le bétail)	saltlick	33.0.9.0.8.0	1983.0	17		???		saltlick	
+1443	1443	make (simple cord, by rolling one's hand over the fibers to twist them together)	fabriquer (corde simple, en roulant la main sur les fibres afin de les tordre ensemble)	twist	125.0.8.0.2.0	6361.0	17	734		4	make a rope by weaving	
+1444	1444	banana	banane	banana	36.0.1.0.1.0	2059.0	17	868	BANANA	2		
+1447	1447	vestibule, room or covered area just inside the outer door of a walled courtyard	vestibule, chambre ou espace couvert juste d'l'intérieur de la porte d'une cour	covered entryway, vestibule	54.0.11.0.1.0	2829.0	17	1450	ROOM	4		
+1354	1354	play (e.g. guitar)	jouer de (guitare etc.)	play instrument	93.0.8.0.2.0	4570.0	18	1413		4		see above SPEAK
+1454	1454	(garment) be in tatters, worn-out	(vêtement) ê. en haillons, usé	worn out, rag	16.0.20.0.2.0	1215.0	17		???		worn out, rag	
+1458	1458	Sunday	dimanche	sunday	74.0.8.0.1.0	3772.0	17	1699	SUNDAY	2		
+1459	1459	(mouse) nibble off a little bit of (a fruit)	(souris) enlever un peu de (fruit) en mordant légèrement	nibble	25.0.2.0.8.0	1558.0	17		???		nibble	
+1460	1460	incise, make a long straight surface cut in the skin or surface of (sth, sb)	inciser, faire une longue coupure droite dans la peau ou la surface de	incise	137.0.5.0.1.0	6779.0	17		???		incise, slice	
+1463	1463	slightly dilute (milk, cream of millet) with a little water	diluer (lait, crème de mil) légèrement avec de l'eau	dilute	23.0.6.0.3.0	1518.0	17		DILUTE			
+1464	1464	description, definition (of sb or sth)	description, définition (de qn ou de qch)	description	102.0.17.0.3.0	5210.0	17		???		description	
+1470	1470	simple outhouse for bathing and urinating (liquids drain into the street through a hole at base of wall)	douche simple pour se laver ou uriner (les liquides passent dans la rue d'travers un trou au bas du mur)	outhouse	54.0.26.0.1.0	2900.0	17		???		outhouse	
+1472	1472	file (sth, with a metal file)	limer (qch)	file	139.0.6.0.1.0	6894.0	17		???		file (verb)	
+1473	1473	potato	pomme de terre	potato	36.0.6.0.12.0	2146.0	17	593	POTATO	2		
+1477	1477	boat (skiff)	pirogue	boat	150.0.4.0.1.0	7378.0	17	1844	CANOE	4		
+1478	1478	holy day, religious holiday	fête (religieuse)	holy day	87.0.11.0.2.0	4316.0	17		???		holiday	
+1481	1481	make noise, be noisy	faire du bruit	noise	122.0.2.0.2.0	6080.0	17	2895	MAKE NOISE	4		
+1484	1484	small, flat, smooth grindstone on which cotton is ginned or kohl is ground (with an iron rolling pin)	petite pierre plate et lisse, sur laquelle on égrène le coton ou on écrase le khol (avec une barre roulante en fer)	grindstone	17.0.3.0.4.0	1260.0	17	1246		4	grindstone	
+1485	1485	bring or take out (of a container, pocket, etc.)	sortir (qch, d'un récipient ou d'une poche)	take out	147.0.4.0.1.0	7250.0	17	692		4	take out	
+1390	1390	slingshot	lance-pierres	slingshot	95.0.7.0.1.0	4672.0	17		SLING			*slingshot
+1486	1486	motorcyle	motociclette	motorcycle	150.0.1.0.3.0	7374.0	17		MOTORCYCLE			
+1487	1487	draw (a line)	tracer (ligne)	draw, trace	135.0.8.0.2.0	6684.0	17	1455		4	draw a line	
+1488	1488	(lightning) flash	(éclair) briller	lightning, flash	60.0.2.0.2.0	3106.0	17	2377	FLASH (VERB)	4		
+1489	1489	a lot, a large quantity	beaucoup, une grande quantité	much, a lot	111.0.1.0.3.0	5431.0	17		A LOT			
+1490	1490	confine, lock up (sb, in prison)	enfermer (qn, en prison)	confine, lock up	97.0.10.0.2.0	4810.0	17	1281		4	imprison	
+1492	1492	spread out, separate (legs, arms)	étendre (jambes, bras)	spread	65.0.3.0.8.0	3340.0	17	38	SPREAD OUT	4		
+1497	1497	peel (fruit, gingerroot) with knife	éplucher, peler (fruit, gingembre) avec un couteau	peel	137.0.12.0.1.0	6808.0	17	275	PEEL	4		
+1412	1412	think (of or about sth)	penser à, réfléchir (autour de qn)	think	116.0.6.0.3.0	5707.0	17	1415	THINK (REFLECT)	4		different concepts
+1499	1499	papaya	papaye	papaya	36.0.1.0.6.0	2064.0	17	2445	PAPAYA	2		
+1500	1500	end, limit	fin, bout, limite	end	77.0.4.0.8.0	3822.0	17	742	END (OF SPACE)	4		
+1501	1501	(a) step, stride	(un) pas	step	146.0.29.0.7.0	7194.0	17	2065		4	stride, step (noun)	
+1502	1502	make a trip, travel (to another village or town)	voyager (d'un autre village ou ville)	trip, voyage	146.0.1.0.7.0	7022.0	17	1391		4	travel	
+1503	1503	headache	mal de tête	headache	98.0.14.0.4.0	4899.0	17		???		headache	
+1505	1505	pinch (e.g. a child) painfully on the skin with one's fingernails	pincer la peau de (un enfant, etc.) avec les ongles pour lui faire mal	pinch	140.0.1.0.5.0	6900.0	17		PINCH			
+1507	1507	mirror	miroir	mirror	119.0.14.0.1.0	6031.0	17	1171	MIRROR	2		
+1510	1510	join, link (linear objects, at the ends)	lier (objets linéaires, aux bouts)	join, link, connect	125.0.3.0.1.0	6312.0	17	1743	JOIN	4		
+1511	1511	Wednesday	mercredi	wednesday	74.0.4.0.1.0	3768.0	17	1694	WEDNESDAY	2		
+1512	1512	escape, get free	s'évader, s'échapper	escape	170.0.4.0.1.0	8024.0	17	1615	ESCAPE	4		
+1513	1513	poverty	pauvreté	poverty	114.0.3.0.1.0	5636.0	17		POOR			
+1518	1518	Bambara	bambara	bambara	81.0.4.0.1.0	4060.0	17		???		Bamana person	
+1437	1437	be ashamed (e.g. of an action)	avoir honte (par ex., d'un acte)	shame	117.0.24.0.1.0	5895.0	17	487	SHY	4		same concept
+1520	1520	(amount) be left over, remain	(quantité) rester, ê. ce qui reste	remain	111.0.18.0.2.0	5520.0	17	987		4	leftovers	
+1521	1521	blister (on skin)	ampoule (sur la peau)	blister	98.0.16.0.1.0	4915.0	17	1584	BLISTER	4		
+1525	1525	European (white person)	européen (blanc)	european, white	81.0.10.0.1.0	4080.0	17		???		foreigner, European	
+1527	1527	yes!	oui!	yes	175.0.1.0.1.0	8172.0	17	1268	YES	4		
+1528	1528	keep (sth) for oneself	garder (qch) pour soi-même	keep	127.0.6.0.1.0	6427.0	17		KEEP			
+1529	1529	son	fils (parenté)	son	78.0.9.0.5.0	3889.0	17	1620	SON	2		
+1533	1533	loosen, slacken (rope)	détendre, relâcher (corde)	loosen, slacken	67.0.2.0.3.0	3392.0	17	1933	LOOSEN	4		
+1535	1535	engage in studies, be a student, go to school	ê. étudiant, faire des études	study	116.0.2.0.1.0	5692.0	17		STUDY			
+1536	1536	miss (target, e.g. with a shot)	rater (cible, par ex. avec un tir)	miss	27.0.11.0.1.0	1764.0	17	161	MISS (A TARGET)	4		
+1539	1539	grow up	grandir	grow up	69.0.1.0.5.0	3460.0	17	552	GROW UP	4		
+1543	1543	goiter (swollen thyroid due to iodine deficiency)	goitre (thyroïde gonflée due d'l'insuffisance d'iode)	goiter	98.0.13.0.8.0	4881.0	17	1957	GOITER	4		
+1546	1546	scour, scrape (e.g. pot)	récurer, racler (marmite etc.)	scrape, scour	139.0.4.0.1.0	6889.0	17	1767	SCRAPE	4		
+1550	1550	rob (sb)	voler, dérober (qn)	rob, steal	96.0.4.0.2.0	4762.0	17	2073	ROB (VERB)	4		
+1555	1555	ugly	vilain, laid	ugly	169.0.13.0.1.0	8002.0	17	1548	UGLY	2		
+1556	1556	trash, garbage	ordures	trash	134.0.3.0.1.0	6655.0	17	909	GARBAGE	4		
+1557	1557	rag rolled up as a cushion for a load carried on head	chiffon enroulé posé sur la tête sous une charge	cushion	148.0.5.0.1.0	7277.0	17		???		cushion	
+1559	1559	gums (flesh on outside of base of teeth)	gencive (chair d'l'extérieur des dents)	gums	10.0.21.0.21.0	519.0	17	139	GUMS	4		
+1560	1560	dye-er (as a trade, mainly with indigo)	teinturier (de métier, surtout avec l'indigo)	dye-er	152.0.6.0.2.0	7457.0	17		???		dyer caste	
+1561	1561	read (sth)	lire (qch)	read	135.0.3.0.1.0	6670.0	17	724	READ	4		
+1562	1562	until (time)	jusqu'd'(temps)	until	71.0.6.0.2.0	3641.0	17	2753	UNTIL	4		
+1565	1565	lightning flash (seen in sky)	éclair (vu au ciel)	lightning, flash	60.0.2.0.1.0	3105.0	17		???		lightening	
+1566	1566	tangle (e.g. rope) up	enchevêtrer, mélanger (corde etc.) dans le désordre	tangle	129.0.9.0.1.0	6510.0	17		???		tangle	
+1568	1568	flint for lighter	silex de briquet	flint	35.0.4.0.2.0	2030.0	17		???		flint	
+1572	1572	twelve	douze	12.0	109.0.4.0.2.0	5400.0	17	1707	TWELVE	2		
+1575	1575	back of skull (above nape)	derrière du crâne (au-dessus de la nuque)	nape	10.0.22.0.3.0	523.0	17		NAPE (OF NECK)S			
+1576	1576	slurp, noisily sip by sucking in (foam on top of tea)	siroter bruyamment, sucer (mousse de thé) d'grand bruit	slurp, sip, suck	21.0.3.0.1.0	1441.0	17		???		slurp	
+1581	1581	braid (hair)	tresser (cheveux)	braid	19.0.1.0.6.0	1322.0	17	333	PLAIT	4		
+1582	1582	clean thing	chose propre	clean	157.0.1.0.4.0	7517.0	17		CLEAN			
+1585	1585	expensive	cher (couteux)	expensive	113.0.9.0.1.0	5589.0	17	1426	EXPENSIVE	2		
+1586	1586	bullet	balle (de fusil)	bullet	95.0.12.0.1.0	4695.0	17	1114	BULLET	2		
+1587	1587	get oneself ready to go	s'apprêter d'partir	ready, prepare	146.0.25.0.1.0	7159.0	17		???		prepare	
+1588	1588	authorities, government	(le) Pouvoir, (les) autorités, gouvernement	authority, government	86.0.7.0.2.0	4235.0	17	815	GOVERNMENT	4		
+1589	1589	tea-making gear (burner, kettle, etc.)	matériel d'thé (fourneau, théière, etc.)	tea gear	101.0.11.0.1.0	5102.0	17	854	KETTLE	4		
+1593	1593	(e.g. belly) swell	(ventre) ê. gonflé	swell	69.0.5.0.1.0	3491.0	17	1573	SWELL	4		
+1596	1596	zakat, Islamic tithe (alms tax, paid at the beginning of a new Islamic year)	zakat, dîme musulmane (aumône obligatoire payée au début d'une nouvelle année islamique)	tithe, zakat	87.0.9.0.2.0	4309.0	17		TAX			
+1597	1597	bassam (expensive fabric for boubous)	basin (tissu cher pour les boubous)	fabric, bassam	16.0.5.0.4.0	1060.0	17		???		wax	
+1598	1598	graft, plant by grafting (cassava, fig)	greffer, planter en greffant (manioc, figuier)	graft	37.0.17.0.1.0	2272.0	17	322		4	graft	
+1601	1601	sniff, smell an odor	flairer, sentir une odeur	sniff	123.0.2.0.1.0	6223.0	17	375	SNIFF	4		
+1602	1602	bottom, bottom part (of sth)	fond, partie inférieure (de qch)	bottom	14.0.1.0.2.0	824.0	17	690	BOTTOM	4		
+1603	1603	dawn, sunrise	aube, lever du soleil	dawn, sunrise	59.0.5.0.2.0	3069.0	17	2296	SUNRISE	4		
+1604	1604	(e.g. shoulder) get out of joint, be dislocated	(épaule etc.) ê. luxé, sortir (de son articulation)	dislocate	98.0.5.0.2.0	4850.0	17		DISLOCATE			
+1605	1605	(bird) alight, perch (on a branch or on the ground)	(oiseau) se poser (sur une branche ou d'terre)	perch, alight	12.0.1.0.9.0	698.0	17	2966	PERCH (FISH)	4		
+1554	1554	wash (pots, knives, etc.)	laver (marmites, couteaux, etc.)	wash	158.0.2.0.3.0	7543.0	17	1453	WASH	4		only for dishes
+1607	1607	master (of slave)	maître (d'un esclave)	master	85.0.3.0.1.0	4177.0	17	383	MASTER	4		
+1609	1609	Thursday	jeudi	thursday	74.0.5.0.1.0	3769.0	17	1693	THURSDAY	2		
+1611	1611	gum arabic (resin from certain trees)	gomme arabique (résine de certains arbres)	gum arabic	15.0.5.0.1.0	892.0	17		RESIN		also sap	
+1612	1612	small earthenware jar for carrying water (on the shoulder)	petit canari en terre cuite qui sert d'porter l'eau (sur l'épaule)	jar, waterjar	39.0.2.0.8.0	2400.0	17		JAR			
+1615	1615	sulfur (used with gunpowder)	soufre (pour la poudre d'fusil)	sulfur, sulphur	95.0.13.0.4.0	4700.0	17		???		sulfur	
+1616	1616	togu-na, central men's palaver (pow-wow) shed in village or neighbhorhood	togu-na, hangar de palavre central d'un village ou d'un quartier, pour les hommes	shed	54.0.3.0.2.0	2774.0	17		???		shed, shelter	
+1619	1619	Friday	vendredi	friday	74.0.6.0.1.0	3770.0	17	1692	FRIDAY	2		
+1620	1620	traditional soluble ink (used by holy men and by koranic school pupils)	encre soluble traditionelle (utilisée par les marabouts, et par les élèves d'école coranique)	ink	135.0.7.0.1.0	6681.0	17		???		ink	
+1621	1621	Tuesday	mardi	tuesday	74.0.3.0.1.0	3767.0	17	1695	TUESDAY	2		
+1622	1622	tickle (sb) 	chatouiller (qn)	tickle	92.0.5.0.1.0	4513.0	17		???		tickle	
+1623	1623	profit, gain (noun)	bénéfice	profit, gain	113.0.14.0.2.0	5616.0	17	733		4	profit	
+1624	1624	bunch, small pile (minimal unit of sale, e.g. of peanuts)	petit tas (unité de vente, d'arachides etc.)	bunch, pile	112.0.1.0.3.0	5536.0	17	1966	BUNCH	4		
+1625	1625	knot	nœud	knot	125.0.4.0.2.0	6328.0	17	760	KNOT	2		
+1627	1627	news (of sb)	nouvelles (de qn)	news	102.0.16.0.3.0	5198.0	17	2964	NEWS	4		
+1629	1629	scrubber (for bathing)	frottoir (pour le bain)	scrubber	158.0.4.0.1.0	7553.0	17		???		sponge	
+1630	1630	bicycle	vélo	bicycle	150.0.2.0.1.0	7375.0	17	747	BICYCLE	4		
+1634	1634	faint, swoon, lose consciousness	s'évanouir	faint	11.0.8.0.1.0	599.0	17		???		faint	
+1638	1638	grassland, meadow, savanna (potentially cultivated but presently uncultivated land)	pré, terrain, savanne (terrain non cultivé actuellement mais qu'on pourrait défricher afin d'y cultiver)	meadow, savanna	57.0.10.0.3.0	3000.0	17	2819	GRASSLAND	4		
+1640	1640	follow (sb, sth)	suivre (qch, qn)	follow	146.0.23.0.1.0	7140.0	17	1085	FOLLOW	4		
+1642	1642	congratulate (sb)	féliciter (qn)	congratulate	102.0.11.0.8.0	5164.0	17		???		congratulate	
+1650	1650	(water) gush out (at a spring)	(eau) jaillir (d'une source)	gush	47.0.9.0.1.0	2596.0	17		???		gush	
+1654	1654	make a promise, promise (sth, to sb)	faire une promesse, promettre (qch, d'qn)	promise	102.0.10.0.5.0	5153.0	17	1675	PROMISE	4		
+1657	1657	(house) collapse, fall	(maison) s'effondrer, s'écrouler	collapse	149.0.3.0.3.0	7317.0	17	1280		4	collapse	
+1658	1658	poke with one's finger or fingers moving laterally (person to wake him up, ear to dislodge wax)	donner des coups avec le bout d'un doigt ou de plusieurs doigts en mouvement latéral (qn pour le réveiller, l'oreille pour en enlever la cire)	poke	136.0.6.0.2.0	6731.0	17		???		poke	
+1661	1661	I am happy	je suis content, heureux	happy	117.0.12.0.1.0	5832.0	17		HAPPY			
+1662	1662	thirteen	treize	13.0	109.0.4.0.3.0	5401.0	17	1708	THIRTEEN	2		
+1663	1663	dip deeply, soak (handful of food, in sauce)	tremper profondément, mouiller (tartine, dans la sauce)	dip	25.0.6.0.2.0	1573.0	17	2069	SOAK (VERB)	4		
+1664	1664	hut (Fulbe style, with stalks)	case (style peul, d'tiges)	hut	54.0.2.0.1.0	2767.0	17	1678	HUT	4		
+1667	1667	count (noun), counting	compte, fait de compter	count	109.0.8.0.3.0	5411.0	17	2945	COUNT (QUANTITY)	3		
+1671	1671	daughter	fille (parenté)	daughter	78.0.9.0.6.0	3890.0	17	1357	DAUGHTER	2		
+1672	1672	meeting, gathering	réunion, rassemblement	meeting, gathering	80.0.3.0.4.0	4013.0	17		???		meeting	
+1638	1638	grassland, meadow, savanna (potentially cultivated but presently uncultivated land)	pré, terrain, savanne (terrain non cultivé actuellement mais qu'on pourrait défricher afin d'y cultiver)	meadow, savanna	57.0.10.0.3.0	3000.0	17	260	SAVANNA	4		same concept
+1676	1676	grandfather (possessed)	grand-père (possessif)	grandfather	78.0.6.0.2.0	3861.0	17	2644	GRANDFATHER OR OLDER BROTHER	4		
+1677	1677	(3Sg all-purpose subject pronominal)	(marque de sujet 3Sg)	3Sg subject	179.0.2.0.7.0	9608.0	17		HIM OR HER OR IT			
+1681	1681	foot-pedal for weaver's loom	pédale de métier d'tisser	pedal	17.0.10.0.1.0	1282.0	17		???		pedal	
+1682	1682	(well) cave in	(puits) s'effondrer	cave in	149.0.3.0.1.0	7315.0	17		???		cave  in	
+1683	1683	render a legal judgement, decide a case	rendre un jugement, juger un cas	decide, judge	97.0.3.0.3.0	4786.0	17		???		judge (verb)	
+1684	1684	no!	non!	no	175.0.2.0.1.0	8178.0	17	1269	NO	4		
+1688	1688	later, afterward	plus tard, après	later, afterward	71.0.5.0.5.0	3636.0	17	477		4	later	
+1690	1690	hammer (with straight wooden handle)	marteau (d'manche droit en bois)	hammer	154.0.7.0.1.0	7497.0	17	1481		4	hammer (verb)	
+1691	1691	pity (noun)	pitié	pity	117.0.17.0.3.0	5856.0	17	1141	PITY	3		
+1693	1693	dead person, corpse	(un) mort, (le) décédé, cadavre	corpse	9.0.3.0.1.0	255.0	17	767	CORPSE	4		
+1700	1700	patience	patience	patience	117.0.5.0.4.0	5786.0	17		???		patience	
+1704	1704	Monday	lundi	monday	74.0.2.0.1.0	3766.0	17	1697	MONDAY	2		
+1705	1705	inheritance, legacy	héritage, legs	inheritance, legacy	121.0.5.0.3.0	6072.0	17		???		inheritance	
+1707	1707	do forging, do a blacksmith's work	forger, faire le travail de forgeron	forge	154.0.1.0.1.0	7476.0	17		FORGE			
+1710	1710	trust, have trust in (sb)	avoir confiance en (qn)	trust	80.0.5.0.2.0	4027.0	17		???		trust (verb)	
+1711	1711	strong, powerful	fort, puissant	strong, powerful	86.0.1.0.5.0	4197.0	17	785	STRONG	4		
+1711	1711	strong, powerful	fort, puissant	strong, powerful	86.0.1.0.5.0	4197.0	17	3001	POWERFUL	4		
+1712	1712	blue	bleu	blue	160.0.5.0.3.0	7601.0	17	837	BLUE	2		
+1713	1713	(people) go on collective hunt	(gens) aller d'la chasse collective	collective hunt	27.0.3.0.2.0	1724.0	17		???		collective hunt	
+1714	1714	air (e.g. in tire)	air (dans un pneu, etc.)	air, atmosphere	60.0.6.0.11.0	3128.0	17	27	AIR	4		
+1715	1715	go outside	sortir au dehors	go outside	63.0.4.0.1.0	3236.0	17		???		exit	
+1716	1716	stop up, stuff, plug (e.g. a hole or crack in a wall)	boucher (par ex. un trou ou une fissure dans un mur)	stop up	126.0.6.0.1.0	6390.0	17		???		plug	
+1719	1719	superimpose (verb only)	superposer (verbe seulement)	put on, superimpose	151.0.3.0.1.0	7401.0	17		???		stack	
+1720	1720	cause to go out	faire sortir	exit, go out	146.0.9.0.2.0	7068.0	17		EXIT			
+1723	1723	damage, harm, malfunction (noun)	fait d'ê. gâté, dommage	damage, malfunction	171.0.1.0.1.0	8057.0	17	1116	DAMAGE	4		
+1724	1724	lid (e.g. for water jar)	couvercle (de canari, etc.)	lid	128.0.3.0.1.0	6443.0	17	2319	LID (COVER, CAP)	4		

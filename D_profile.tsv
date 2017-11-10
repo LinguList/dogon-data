@@ -1,406 +1,411 @@
-Grapheme	IPA	notes
-àà	àː
-áá	áː
-àá	ǎː
-áà	âː
-ààⁿ	ã̀ː
-ááⁿ	ã́ː
-àáⁿ	ã̌ː
-áàⁿ	ã̂ː
-ɔ̀ɔ̀	ɔ̀ː
-ɔ́ɔ́	ɔ́ː
-ɔ̀ɔ́	ɔ̌ː
-ɔ́ɔ̀	ɔ̂ː
-ɔ̀ɔ̀ⁿ	ɔ̃̀ː
-ɔ́ɔ́ⁿ	ɔ̃́ː
-ɔ̀ɔ́ⁿ	ɔ̃̌ː
-ɔ́ɔ̀ⁿ	ɔ̃̂ː
-ɛ̀ɛ̀	ɛ̀ː
-ɛ́ɛ́	ɛ́ː
-ɛ̀ɛ́	ɛ̌ː
-ɛ́ɛ̀	ɛ̂ː
-ɛ̀ɛ̀ⁿ	ɛ̃̀ː
-ɛ́ɛ́ⁿ	ɛ̃́ː
-ɛ̀ɛ́ⁿ	ɛ̃̌ː
-ɛ́ɛ̀ⁿ	ɛ̃̂ː
-èè	èː
-éé	éː
-èé	ěː
-éè	êː
-èèⁿ	ẽ̀ː
-ééⁿ	ẽ́ː
-èéⁿ	ẽ̌ː
-éèⁿ	ẽ̂ː
-ɪ̀ɪ̀	ɪ̀ː
-ɪ́ɪ́	ɪ́ː
-ɪ̀ɪ́	ɪ̌ː
-ɪ́ɪ̀	ɪ̂ː
-ɪ̀ɪ̀ⁿ	ɪ̃̀ː
-ɪ́ɪ́ⁿ	ɪ̃́ː
-ɪ̀ɪ́ⁿ	ɪ̃̌ː
-ɪ́ɪ̀ⁿ	ɪ̃̂ː
-ĩ́ĩ́	ĩ́ː	Used by Hantgan
-ĩ́ĩ̀	ĩ̂ː	Used by Hantgan
-ìì	ìː
-íí	íː
-ìí	ǐː
-íì	îː
-ììⁿ	ĩ̀ː
-ííⁿ	ĩ́ː
-ìíⁿ	ĩ̌ː
-íìⁿ	ĩ̂ː
-ĩ̀ĩ́	ĩ̌ː	Nasalized vowels used by Hantgan
-òò	òː
-óó	óː
-òó	ǒː
-óò	ôː
-òòⁿ	õ̀ː
-óóⁿ	ṍː
-òóⁿ	õ̌ː
-óòⁿ	õ̂ː
-ùù	ùː
-úú	úː
-ùú	ǔː
-úù	ûː
-ùùⁿ	ũ̀ː
-úúⁿ	ṹː
-ùúⁿ	ũ̌ː
-úùⁿ	ũ̂ː
-à	à
-á	á
-ǎ	ǎ
-a:	aː
-à:	àː
-á:	áː
-ǎ:	ǎː
-aⁿ	ã
-àⁿ	ã̀
-áⁿ	ã́
-ǎⁿ	ã̌
-á:ⁿ	ã́ː
-à:ⁿ	ã̀ː
-âⁿ	ã̂
-ǎ:ⁿ	ã̌ː
-â:ⁿ	ã̂ː
-âⁿ:	ã̌ː	typo? (occurs only once)
-â	â
-â:	âː
-a᷈	a᷈
-a᷈:	a᷈ː
-a᷈:ⁿ	ã᷈ː
-á"	á	typo?
-à"	à	typo?
-a	a
-æ̀	æ̀
-ǽ	ǽ
-æ̂	æ̂
-ǽⁿ	æ̃́
-ǽ:ⁿ	æ̃́ː
-æ̀:ⁿ	æ̃̀ː
-æ̂:ⁿ	æ̃̂ː
-b	b
-bʷ	bʷ	In Bangime
-ɓ	ɓ
-c	tʃ
-ć	tʃ	occurs only once
-d	d
-dʷ	dʷ
-ɗ	ɗ
-e	e
-é	é
-è	è
-ê	ê
-ě	ě
-e:	eː
-é:	éː
-è:	èː
-ě:	ěː
-ê:	êː
-eⁿ	ẽ
-èⁿ	ẽ̀
-éⁿ	ẽ́
-ěⁿ	ẽ̌
-è:ⁿ	ẽ̀ː
-é:ⁿ	ẽ́ː
-ě:ⁿ	ẽ̌ː
-e᷈	e᷈
-e᷈:	e᷈ː
-ɛ	ɛ
-ɛ:	ɛː
-ɛ̀	ɛ̀
-ɛ́	ɛ́
-ɛ̌	ɛ̌
-ɛ̌:	ɛ̌ː
-ɛ́:	ɛ́ː
-ɛ̀:	ɛ̀ː
-ɛ̃	ɛ̃
-ɛ᷈	ɛ᷈
-ɛ᷈:	ɛ᷈ː
-ɛ̂	ɛ̂
-ɛ̂:	ɛ̂ː
-ɛⁿ	ɛ̃
-ɛ̀ⁿ	ɛ̃̀
-ɛ́ⁿ	ɛ̃́
-ɛ̌ⁿ	ɛ̃̌
-ɛ̂ⁿ	ɛ̃̂
-ɛ́:ⁿ	ɛ̃́ː
-ɛ̀:ⁿ	ɛ̃̀ː
-ɛ̂:ⁿ	ɛ̃̂ː
-ɛ̌:ⁿ	ɛ̃̌ː
-ɛ̃́	ɛ̃́
-ɛ̃̀	ɛ̃̀
-ɛ᷈:ⁿ	ɛ̃᷈ː
-ɛ̄	ɛ	typo?
-È	ɛ̀	typo?
-ə́	ə́
-ə̀	ə̀
-f	f
-g	ɡ
-ɡ	ɡ	Correct IPA used by Abbie Hantgan
-ǵ	ɡ
-ɡʷ	ɡʷ	In Bangime
-ɣ	ɣ
-ʔ	ʔ
-ʔⁿ	ʔ	treating as glottal for time being
-h	h
-hʷ	hʷ
-i	i
-i:	iː
-í	í
-ì	ì
-ǐ	ǐ
-î	î
-í:	íː
-i:́	íː	typo?
-ì:	ìː
-i:̀	ìː	typo?
-î:	îː
-ǐ:	ǐː
-iⁿ	ĩ
-iⁿ̀	ĩ̀	typo?
-ìⁿ	ĩ̀
-íⁿ	ĩ́
-íⁿ̀	ĩ́	typo?
-î:ⁿ	ĩ̂ː
-í:ⁿ	ĩ́ː
-ì:ⁿ	ĩ̀ː
-ǐⁿ	ĩ̌
-îⁿ	ĩ̂
-í̀:ⁿ	ĩ́ː	typo?
-ǐ:ⁿ	ĩ̌ː
-î"	î	typo?
-i᷈:ⁿ	ĩ᷈ː
-i᷈:	i᷈
-í̀	í	typo?
-ɪ̀	ɪ̀	In Sangha So
-ɪ́	ɪ́	In Sangha So
-j	dʒ
-ʄ	ʄ	voiced palatal implosive
-k	k
-ḱ	k	typo
-kʷ	kʷ
-l	l
-l̀	l	typo?
-l:	lː
-m	m
-m̀:	m̀ː
-m̀ᵇ	m̀	what's this?
-:m	m	typo?
-m̀	m̀
-ḿ	ḿ
-n	n
-nⁿ	n
-ǹ	ǹ
-Ǹ	ǹ	Collapse archiphoneme simply to n
-Ǹ-	ǹ +	Collapse archiphoneme simply to n
-N-	n +	Collapse archiphoneme simply to n
-ń	ń
-ǹ:	ǹ	typo?
-ñ	n
-ŋ	ŋ
-ŋʷ	ŋʷ	In Bangime
-ŋ́	ŋ́
-ŋ̀	ŋ̀
-ɲ	ɲ
-ɲ̀	ɲ̀
-ɲ́	ɲ́
-ɳ	ɳ
-o	o
-ò	ò
-ò̀	ò	double accent; typo?
-ó	ó
-o́	ó	double accent; typo?
-ô	ô
-ǒ	ǒ
-o:	oː
-ó:	óː
-ò:	òː
-ǒ:	ǒː
-ô:	ôː
-ôⁿ	õ̂ 
-ô:ⁿ	õ̂ː
-ǒ:ⁿ	õ̌ː
-ò:ⁿ	õ̀ː
-ó:ⁿ	ṍː
-óⁿ	ṍ
-òⁿ	õ̀
-o᷈	o᷈
-o᷈:	o᷈ː
-o᷈:	oː	typo?
-ṍ	ṍ	Used by Hantgan
-õ̀	õ̀
-o᷈::	o᷈ː	typo?
-o̯	o	typo?
-ɔ	ɔ
-ɔⁿ	ɔ̃
-ɔ́	ɔ́
-ɔ̀	ɔ̀
-ɔ:	ɔː
-ɔ̀:	ɔ̀ː
-ɔ̀:̀	ɔ̀ː	typo?
-ɔ̂	ɔ̂
-ɔ̂:	ɔ̂ː
-ɔ̌:	ɔː
-ɔ́:	ɔ́ː
-ɔ̃	ɔ̃
-ɔ̌	ɔ̌
-ɔ̌:	ɔ̌ː
-ɔ̂ⁿ	ɔ̃̂
-ɔ̀:ⁿ	ɔ̃̀ː
-ɔ́:ⁿ	ɔ̃́ː
-ɔ:ⁿ	ɔ̃ː
-ɔ̌ⁿ	ɔ̃̌
-ɔ̀ⁿ	ɔ̃̀
-ɔ́ⁿ	ɔ̃́
-ɔ́ⁿ	ɔ̃́	typo?
-ɔ᷈:ⁿ	ɔ̃᷈ː
-ɔ̌:ⁿ	ɔ̃̌ː
-ɔ̂:ⁿ	ɔ̃̂ː
-ɔ̀:ⁿ̀	ɔ̃̀ː
-ɔ᷈:	ɔ᷈ː
-ɔ᷈	ɔ᷈
-ɔ̯	ɔ	typo?
-ɔ̀ᵃ	ɔ̀	typo
-ɔ̃́	ɔ̃́
-ɔ̀ⁿ̀	ɔ̃̀
-ɔ᷈ⁿ	ɔ̃᷈
-ɔ̃̀	ɔ̃̀	Used by Hantgan
-ɞ́	ɞ́	typo?  occurs only once
-p	p
-pʷ	pʷ	In Bangime
-q	q
-r	r
-rᵃ	r
-r̃	r̃	Used by Abbie Hantgan
-rⁿ	r̃
-rⁿ̀	r̃
-rᵘ̀	r	typo?
-r̀	r
-s	s
-sⁿ	s
-š	ʃ
-ʃ	ʃ
-t	t
-tʷ	tʷ	In Bangime
-ú	ú
-ù	ù
-û	û
-ǔ	ǔ
-ũ	ũ
-_	_
-ù:	ùː
-ú:	úː
-û:	ûː
-ǔ:	ǔː
-uⁿ	ũː	# why is this here?
-ù:ⁿ	ũ̀ː
-úⁿ	ṹ
-ùⁿ	ũ̀
-ûⁿ	ũ̂
-ǔⁿ	ũ̌
-ú:ⁿ	ṹː
-û:ⁿ	ũ̂ː
-ǔ:ⁿ	ũ̌ː
-u᷈:	u᷈ː
-u	u
-ʋ	ʋ	In Bangime
-ɕ	ɕ	In Bangime
-v	v
-v́	v́	this marks a tonal vowel
-v̀	v̀	this marks a tonal vowel
-w	w
-wⁿ	w̃
-wᵃ	w	typo
-ẃ	ẃ
-ẁ	ẁ
-ẁⁿ	w̃̀
-ẃⁿ	w̃́
-wⁿ́	w̃́
-x	x
-y	j
-y:	jː
-ý	j́
-ỳ	j̀
-yⁿ	j̃
-yⁿ	j̃	typo?
-yⁿ̀	j̃
-ỳⁿ	j̃̀
-ýⁿ	j̃́
-ŷⁿ	j̃̂
-yᵇ	j	typo?
-z	z
-ž	z	typo?
-ʒ	ʒ
-ʤ	dʒ	Used by Hantgan
-=∴	NULL
-=:	NULL	Length after morpheme / clitic
--:	NULL	Kirill: (length, falling tone)
-∴	NULL
-?	NULL	missing data
-V	NULL	denotes verb
-B	NULL
-D	NULL
-H	NULL
-L	NULL
-C	NULL
-O	NULL
-Y	NULL
-Ú	NULL
-→	NULL	Prolongation tone
-(	NULL
-]	NULL
-[	NULL
-)	NULL
-≡	NULL	Clitic boundary (Heath)
-=	NULL
-⇒	NULL
-∅	NULL
-/	NULL
->	NULL
-2	NULL
-ꜜ	NULL	Downstep tone
-;	NULL
-!	NULL
-.	NULL
-#	NULL
-X	NULL
--	+
-\\	NULL	Used by Kirill to denote multiple forms -- removed in dogon_wordlists data file
-̀	NULL	Cases where low tone indicates some grammatical function	 
-ɥ	ɥ	Bangime sound
-ð	ð	Used by Steven Moran
-w̃	w̃	Used by Abbie Hantgan
-…	NULL	Used by Laura McPherson
-:	ː	Imperative positive PL suffix marker in Ampari
-ⁿ	ⁿ	Tomo Kan (adjectival class suffixes if different from nouns)
-?#	NULL
-X NULL
-g#	NULL
+Grapheme	IPA	Key	Source	Comment
+-	+	affix boundary	DOG	
+-	+	morpheme (all) boundary	BANG	
+^-	NULL	
 -$	NULL
 $	NULL
 ^	NULL
-^-	NULL
-l#	NULL
-ĺ	l
--ʸŋ	+ y ŋ	Heath introduces this in Donno So
-ɔ̀=ɔ̀	ɔ̀ː
+_	_	word boundary marker
+_...	NULL	
+ADJ-	NULL
+(	NULL	additional grammatical information	DOG	
+)	NULL	additional grammatical information	DOG	
+…	NULL	elipis to indicate particle in phrase	DOG	
+/	NULL	inanimate/animate	DOG	
+:	ː	length	DOG	
+;	NULL	variants	DOG	
+[	NULL	indicates form is used in a phrase	DOG	
+]	NULL	indicates form is used in a phrase	DOG	
+\\	NULL	singular\\plural	DOG	
+=	+	clitic boundary	DOG	
+>	NULL	becomes (phonological variants)	DOG	
+∅	NULL	null affix	DOG	
+∴	NULL	intonation	DOG	
+→	→/⁵⁵	"prolongation tone"	DOG	
+a	a	short low back lax	DOG	
+—	NULL	form does not exist	BANG	
+()	NULL	homophonous forms	BANG	
+,	NULL	variants	BANG	
+á	a ⁵	short low back lax H	BANG	
+á	a ⁵	short low back lax H	DOG	
+à	a ¹	short low back lax L	DOG	
+à	a ¹	short low back lax L	BANG	
+â	a ⁵¹	short low back lax HL	DOG	
+ǎ	a ¹⁵	short low back lax LH	DOG	
+a᷈	a ¹⁵¹	short low back lax LHL	DOG	
+ā	a ³	short low back lax M	BANG	
+a:	aː	long low back lax	DOG	
+á:	aː ⁵	long low back lax H	DOG	
+à:	aː ¹	long low back lax L	DOG	
+â:	aː ⁵¹	long low back lax HL	DOG	
+ǎ:	aː ¹⁵	long low back lax LH	DOG	
+a᷈:	aː ¹⁵¹	long low back lax LHL	DOG	
+á:ⁿ	ãː ∼ ⁵	long low back lax H nasalized	DOG	
+à:ⁿ	ãː ∼ ¹	long low back lax L nasalized	DOG	
+â:ⁿ	ãː ∼ ⁵¹	long low back lax HL nasalized	DOG	
+ǎ:ⁿ	ãː ∼ ¹⁵	long low back lax LH nasalized	DOG	
+a᷈:ⁿ	aː ∼ ¹⁵¹	long low back lax LHL nasalized	DOG	
+áá	aː ⁵	long low back lax H	DOG	
+áá	aː ⁵	long low back lax H	BANG	
+áà	âː ⁵¹	long low back lax HL	DOG	
+áà	âː ⁵¹	long low back lax HL	BANG	
+àá	aː ¹⁵	long low back lax LH	DOG	
+àà	aː ¹	long low back lax L	DOG	
+àà	aː ¹	long low back lax L	BANG	
+āà	aː ³¹	long low back lax ML	BANG	
+āā	aː ³	long low back lax M	BANG	
+ááⁿ	ãː ∼ ⁵	long low back lax H nasalized	DOG	
+ááⁿ	ãː ∼ ⁵	long low back lax H nasalized	BANG	
+áàⁿ	ãː ∼ ⁵¹	long low back lax HL nasalized	DOG	
+áàⁿ	ãː ∼ ⁵¹	long low back lax HL nasalized	BANG	2 forms
+àáⁿ	ãː ∼ ¹⁵	long low back lax LH nasalized	DOG	
+ààⁿ	ã̀ː ∼ ¹	long low back lax L nasalized	DOG	
+ààⁿ	ã̀ː ∼ ¹	long low back lax L nasalized	BANG	
+āàⁿ	ã̀ː ∼ ³¹	long low back lax ML nasalized	BANG	
+āāⁿ	ã̀ː ∼ ³	long low back lax M nasalized	BANG	
+ǽ	æ ⁵	short near-open front unrounded H	DOG	lax mid front?
+æ̀	æ ¹	short near-open front unrounded L	DOG	
+æ̂	æ ⁵¹	short near-open front unrounded HL	DOG	
+ǽ:ⁿ	æ̃ː ∼ ⁵	short near-open front unrounded H nasalized	DOG	
+æ̀:ⁿ	æ̃̀ː ∼ ¹	short near-open front unrounded L nasalized	DOG	
+æ̂:ⁿ	æ̃ː ∼ ⁵¹	short near-open front unrounded HL nasalized	DOG	
+ǽⁿ	æ̃ ∼ ⁵	short near-open front unrounded H nasalized	DOG	
+aⁿ	ã ∼	short low back lax nasalized	DOG	
+áⁿ	ã ∼ ⁵	short low back lax H nasalized	DOG	
+áⁿ	ã ∼ ⁵	short low back lax H nasalized	BANG	
+àⁿ	ã ∼ ¹	short low back lax L nasalized	DOG	
+àⁿ	ã ∼ ¹	short low back lax L nasalized	BANG	
+âⁿ	ã ∼ ⁵¹	short low back lax HL nasalized	DOG	
+ǎⁿ	ã ∼ ¹⁵	short low back lax LH nasalized	DOG	
+b	b	voiced bilabial plosive	DOG	
+b	b	voiced bilabial plosive	BANG	
+B	NULL	proper names	DOG	¹ possible typo
+ɓ	ɓ	voiced bilabial implosive	DOG	¹¹ forms
+c	tʃ	voiceless postalveolar affricate	DOG	
+C	NULL	proper names, CV	DOG	
+ɔ	ɔ	short mid back lax	DOG	
+ɕ	ɕ	voiceless alveolo-palatal fricative	BANG	
+ɔ́	ɔ ⁵	short mid back lax H	DOG	
+ɔ́	ɔ ⁵	short mid back lax H	BANG	
+ɔ̀	ɔ ¹	short mid back lax L	DOG	
+ɔ̀	ɔ ¹	short mid back lax L	BANG	
+ɔ̂	ɔ ⁵¹	short mid back lax HL	DOG	
+ɔ̌	ɔ ¹⁵	short mid back lax LH	DOG	
+ɔ̃	ɔ̃ ∼	short mid back lax nasalized	DOG	
+ɔ̃́	ɔ̃ ∼ ⁵	short mid back lax H nasalized	DOG	
+ɔ᷈	ɔ᷈	short mid back lax LHL	DOG	
+ɔ̯	ɔ	creaky voice?	DOG	8 forms
+ɔ:	ɔː	long mid back lax	DOG	
+ɔ́:	ɔ́ː	long mid back lax H	DOG	
+ɔ̀:	ɔː ¹	long mid back lax L	DOG	
+ɔ̂:	ɔː ⁵¹	long mid back lax HL	DOG	
+ɔ̌:	ɔ̌ː ¹⁵	long mid back lax LH	DOG	
+ɔ᷈:	ɔ᷈ː	long mid back lax LHL	DOG	
+ɔ:ⁿ	ɔ̃ː ∼	long mid back lax nasalized	DOG	
+ɔ́:ⁿ	ɔ̃ː ∼	long mid back lax H nasalized	DOG	
+ɔ̀:ⁿ	ɔ̃ː ∼	long mid back lax L nasalized	DOG	
+ɔ̂:ⁿ	ɔ̃ː ∼	long mid back lax HL nasalized	DOG	
+ɔ̌:ⁿ	ɔ̃ː ∼	long mid back lax LH nasalized	DOG	
+ɔ᷈:ⁿ	ɔ̃ː ∼	long mid back lax LHL nasalized	DOG	
+ɔ́ɔ́	ɔː ⁵	long mid back lax H	DOG	
+ɔ́ɔ́	ɔː ⁵	long mid back lax H	BANG	
+ɔ̀ɔ̀	ɔː ¹	long mid back lax L	DOG	
+ɔ̀ɔ̀	ɔː ¹	long mid back lax L	BANG	
+ɔ́ɔ̀	ɔː ⁵¹	long mid back lax HL	DOG	
+ɔ̀ɔ́	ɔː ¹⁵	long mid back lax LH	DOG	
+ɔ̄ɔ̀	ɔː ³¹	long mid back lax ML	BANG	
+ɔ̄ɔ̀	ɔː ³¹  ∼	long mid back lax ML nasalized	BANG	
+ɔ́ɔ́ⁿ	ɔ̃ː ∼ ⁵	long mid back lax H nasalized	DOG	
+ɔ̄ɔ̄	ɔː ³	long mid back lax M	BANG	
+ɔ̀ɔ̀ⁿ	ɔ̃̀ː ∼ ¹	long mid back lax L nasalized	DOG	
+ɔ̄ɔ̄	ɔː ³  ∼	long mid back lax M nasalized	BANG	
+ɔ́ɔ́ⁿ	ɔ̃ː ∼ ⁵	long mid back lax H nasalized	BANG	
+ɔ̀ɔ̀ⁿ	ɔ̃̀ː ∼ ¹	long mid back lax L nasalized	BANG	
+ɔ́ɔ̀ⁿ	ɔ̃ː ∼ ⁵¹	long mid back lax HL nasalized	DOG	
+ɔ̀ɔ́ⁿ	ɔ̃ː ∼ ¹⁵	long mid back lax LH nasalized	DOG	
+ɔⁿ	ɔ̃ ∼	short mid back lax nasalized	DOG	
+ɔ́ⁿ	ɔ̃ ∼ ⁵	short mid back lax H nasalized	DOG	
+ɔ́ⁿ	ɔ̃ ∼ ⁵	short mid back lax H nasalized	BANG	
+ɔ̀ⁿ	ɔ̃̀ ∼	short mid back lax L nasalized	DOG	
+ɔ̀ⁿ	ɔ̃̀ ∼	short mid back lax L nasalized	BANG	
+ɔ̂ⁿ	ɔ̃ ∼ ⁵¹	short mid back lax HL nasalized	DOG	
+ɔ̌ⁿ	ɔ̃ ∼ ¹⁵	short mid back lax LH nasalized	DOG	
+ɔ᷈ⁿ	ɔ̃ ∼ ¹⁵¹	short mid back lax LHL nasalized	DOG	
+d	d	voiced alveolar plosive	BANG	
+d	d	voiced alveolar plosive	DOG	
+D	NULL	proper names, ADJ	DOG	
+ɗ	ɗ	voiced alveolar implosive	DOG	
+ʤ	dʒ	voiced post-alveolar affricate	BANG	
+dʷ	dʷ	labialized voiced alveolar plosive	DOG	¹ form
+e	e	short mid front tense	DOG	
+é	e ⁵	short mid front tense H	DOG	
+é	e ⁵	short mid front tense H	BANG	
+è	e ¹	short mid front tense L	DOG	
+è	e ¹	short mid front tense L	BANG	
+ê	e ⁵¹	short mid front tense HL	DOG	
+ě	e ¹⁵	short mid front tense LH	DOG	
+ē	e ³	short mid front tense M	BANG	
+e᷈	e ¹⁵¹	short mid front tense LHL	DOG	
+ə́	ə ⁵	schwa H	DOG	
+ə̀	ə ¹	schwa L	DOG	
+e:	eː	long mid front tense	DOG	
+é:	eː ⁵	long mid front tense H	DOG	
+è:	eː ¹	long mid front tense L	DOG	
+ê:	eː ⁵¹	long mid front tense HL	DOG	
+ě:	eː ¹⁵	long mid front tense LH	DOG	
+e᷈:	eː ¹⁵¹	long mid front tense LHL	DOG	
+é:ⁿ	ẽː ∼ ⁵	long mid front tense H nasalized	DOG	
+è:ⁿ	ẽː ∼ ¹	long mid front tense L nasalized	DOG	
+ě:ⁿ	ẽː ∼ ¹⁵	long mid front tense LH nasalized	DOG	
+éé	eː ⁵	long mid front tense H	DOG	
+éé	eː ⁵	long mid front tense H	BANG	
+èè	eː ¹	long mid front tense L	DOG	
+èè	eː ¹	long mid front tense L	BANG	
+éè	eː ⁵¹	long mid front tense HL	DOG	
+èé	eː ¹⁵	long mid front tense LH	DOG	
+ēè	eː ³¹	long mid front tense ML	BANG	
+ēē	eː ³	long mid front tense M	BANG	
+ééⁿ	ẽː ∼ ⁵	long mid front tense H nasalized	DOG	
+èèⁿ	ẽː ∼ ¹	long mid front tense L nasalized	DOG	
+ēèⁿ	eː ∼ ³¹	long mid front tense ML nasalized	BANG	
+ēēⁿ	eː ∼ ³	long mid front tense M nasalized	BANG	
+éèⁿ	ẽː ∼ ⁵¹	long mid front tense HL nasalized	DOG	
+èéⁿ	ẽː ∼ ¹⁵	long mid front tense LH nasalized	DOG	
+eⁿ	ẽ ∼	short mid front tense nasalized	DOG	
+éⁿ	ẽ ∼ ⁵	short mid front tense H nasalized	DOG	
+èⁿ	ẽ ∼ ¹	short mid front tense L nasalized	DOG	
+ěⁿ	ẽ ∼ ¹⁵	short mid front tense LH nasalized	DOG	
+ɛ	ɛ	short mid front lax	DOG	
+ɛ́	ɛ ⁵	short mid front lax H	DOG	
+ɛ́	ɛ ⁵	short mid front lax H	BANG	
+ɛ̀	ɛ ¹	short mid front lax L	DOG	
+ɛ̀	ɛ ¹	short mid front lax L	BANG	
+ɛ̄	ɛ ³	short mid front lax M	BANG	
+ɛ̂	ɛ ¹⁵	short mid front lax HL	DOG	
+ɛ̌	ɛ ¹⁵	short mid front lax LH	DOG	
+ɛ̃	ɛ ∼	short mid front lax nasalized	DOG	
+ɛ̃́	ɛ̃ ∼ ⁵	short mid front lax H nasalized	DOG	
+ɛ̃̀	ɛ̃ ∼ ¹	short mid front lax L nasalized	DOG	
+ɛ᷈	ɛ ∼ ¹⁵¹	short mid front lax LHL nasalized	DOG	
+ɛ:	ɛː	long mid front lax	DOG	
+ɛ́:	ɛː ⁵	long mid front lax H	DOG	
+ɛ̀:	ɛː ¹	short mid front lax L	DOG	
+ɛ̂:	ɛː ⁵¹	long mid front lax HL	DOG	
+ɛ̌:	ɛː ¹⁵	long mid front lax LH	DOG	
+ɛ᷈:	ɛː ¹⁵¹	short mid front lax LHL	DOG	
+ɛ́:ⁿ	ɛ̃ː ∼ ⁵	long mid front lax H nasalized	DOG	
+ɛ̀:ⁿ	ɛ̃ː ∼ ¹	long mid front lax L nasalized	DOG	
+ɛ̂:ⁿ	ɛ̃ː ∼ ⁵¹	long mid front lax HL nasalized	DOG	
+ɛ̌:ⁿ	ɛ̃ː ∼ ¹⁵	long mid front lax LH nasalized	DOG	
+ɛ᷈:ⁿ	ɛ̃ː	short mid front lax LHL nasalized	DOG	
+ɛ́ɛ́	ɛː ⁵	long mid front lax H	DOG	
+ɛ́ɛ̀	ɛː ⁵¹	long mid front lax HL	DOG	
+ɛ̀ɛ́	ɛː ¹⁵	long mid front lax LH	DOG	
+ɛ̀ɛ̀	ɛː ¹	long mid front lax L	DOG	
+ɛ́ɛ́ⁿ	ɛ̃ː ∼ ⁵	long mid front lax H nasalized	DOG	
+ɛ́ɛ̀ⁿ	ɛ̃ː ∼ ⁵¹	long mid front lax HL nasalized	DOG	
+ɛ̀ɛ́ⁿ	ɛ̃ː ∼ ¹⁵	long mid front lax	DOG	
+ɛ̀ɛ̀ⁿ	ɛ̃ː ∼ ¹	long mid front lax L nasalized	DOG	
+ɛⁿ	ɛ̃ ∼	short mid front lax HL nasalized	DOG	
+ɛ́ⁿ	ɛ ∼ ⁵	short mid front lax H nasalized	DOG	
+ɛ́ⁿ	ɛ ∼ ⁵	short mid front lax H nasalized	DOG	
+ɛ̀ⁿ	ɛ̃ ∼ ¹	short mid front lax L nasalized	DOG	
+ɛ̀ⁿ	ɛ̃ ∼ ¹	short mid front lax L nasalized	DOG	
+ɛ̂ⁿ	ɛ̃ ∼ ⁵¹	short mid front lax HL nasalized	DOG	
+ɛ̌ⁿ	ɛ̃ ∼ ¹⁵	short mid front lax LH nasalized	DOG	
+f	f	voiceless labiodental fricative	DOG	
+f	f	voiceless labiodental fricative	BANG	
+g	ɡ	voiced velar plosive	DOG	
+g	ɡ	voiced velar plosive	BANG	
+ɣ	ɣ	voiced velar fricative	DOG	
+h	h	voiceless glottal fricative	BANG	
+h	h	voiceless glottal fricative	DOG	
+H	⁵	H(igh) tone	DOG	
+ɥ	ɥ	labio-palatal approximant	BANG	
+ʷ	ʷ	labialization	DOG	
+i	i	short high front tense	DOG	
+í	i ⁵	short high front tense H	DOG	
+í	i ⁵	short high front tense H	BANG	
+ì	i ¹	short high front tense L	DOG	
+ì	i ¹	short high front tense L	BANG	
+ī	i ³	short high front tense M	BANG	
+î	i ⁵¹	short high front tense HL	DOG	
+ǐ	i ¹⁵	short high front tense LH	DOG	
+i:	iː	long high front tense	DOG	
+í:	iː ⁵	long high front tense H	DOG	
+ì:	iː ¹	long high front tense L	DOG	
+î:	iː ⁵¹	long high front tense HL	DOG	
+ǐ:	iː ¹⁵	long high front tense LH	DOG	
+i᷈:	i ¹⁵¹	long high front tense LHL	DOG	
+í:ⁿ	ĩː ∼ ⁵	long high front tense nasalized H	DOG	
+ì:ⁿ	ĩː ∼ ¹	long high front tense nasalized L	DOG	
+î:ⁿ	ĩː ∼ ⁵¹	long high front tense nasalized HL	DOG	
+ǐ:ⁿ	ĩː ∼ ¹⁵	long high front tense nasalized LH	DOG	
+i᷈:ⁿ	iː ¹⁵¹	long high front tense nasalized LHL	DOG	
+íí	iː ⁵	long high front tense H	BANG	
+íì	iː ⁵¹	long high front tense HL	BANG	2 forms
+ìì	iː ¹	long high front tense L	BANG	
+īì	iː ³¹	long high front tense ML	BANG	
+īī	iː ³³	long high front tense MM	BANG	
+īī	ĩː ∼ ³³	long high front tense MM nasalized	BANG	
+ííⁿ	ĩː ∼ ⁵	long high front tense H nasalized	BANG	
+ɪ́ɪ́ⁿ	ɪ̃ː ∼ ⁵	long high front tense H nasalized	DOG	
+íìⁿ	ĩː ∼ ⁵¹	long high front tense HL nasalized	BANG	
+ììⁿ	ĩː ∼ ¹	long high front tense L nasalized	BANG	
+īìⁿ	ĩː ∼ ³¹	long high front tense ML nasalized	BANG	
+iⁿ	ĩ	short high front tense nasalized	DOG	
+íⁿ	ĩ́ ∼ ⁵	short high front tense nasalized H	DOG	
+ìⁿ	ĩ ∼ ¹	short high front tense nasalized L	DOG	
+îⁿ	ĩ ∼ ⁵¹	short long high front tense nasalized HL	DOG	
+ǐⁿ	ĩ ∼ ¹⁵	short long high front tense nasalized LH	DOG	
+j	dʒ	voiced postalveolar affricate	DOG	
+ʄ	ʄ	voiced palatal implosive	DOG	¹³ forms
+k	k	voiceless velar plosive	DOG	
+k	k	voiceless velar plosive	BANG	
+l	l	voiced alveolar lateral-approximant	DOG	
+l	l	voiced alveolar lateral-approximant	BANG	
+L	¹	L(ow) tone	DOG	
+ĺ	l ⁵	voiced alveolar lateral-approximant H	DOG	¹ form
+l̀	l ¹	voiced alveolar lateral-approximant L	DOG	2 forms
+l:	lː	voiced alveolar lateral-approximant geminate	DOG	
+m	m	bilabial nasal	DOG	
+m	m	bilabial nasal	BANG	
+ḿ	m ⁵	bilabial nasal H	DOG	
+m̀	m ¹	bilabial nasal L	DOG	
+m̀:	mː ¹	bilabial nasal geminate L	DOG	
+ḿ	m ⁵	bilabial nasal  H	BANG	
+m̀	m ¹	bilabial nasal L	BANG	
+m̄	m ³	bilabial nasal M	BANG	
+n	n	alveolar nasal	BANG	
+n	n	alveolar nasal	DOG	
+ⁿ	∼	nasalization	DOG	¹ form "(adjectival class suffixes if different from nouns)" Tommo Kan
+ɲ́	ɲ ⁵	palatal nasal H	DOG	4 forms
+ń	n ⁵	alveolar nasal H	DOG	
+ǹ	n ¹	alveolar nasal L	DOG	
+ɲ	ɲ	palatal nasal	DOG	
+ń	n ⁵	alveolar nasal H	BANG	
+ǹ	n ¹	alveolar nasal L	BANG	
+n̄	n ³	alveolar nasal M	BANG	
+ɲ	ɲ	palatal nasal	BANG	
+ɲ̀	ɲ ¹	palatal nasal L	DOG	
+ŋ	ŋ	velar nasal	DOG	
+ɲ́	ɲ ⁵	palatal nasal H	BANG	
+ɲ̀	ɲ ¹	palatal nasal L	BANG	
+ɲ̄	ɲ ³	palatal nasal M	BANG	
+ŋ	ŋ	velar nasal	BANG	
+ŋ́	ŋ ⁵	palatal nasal L	DOG	
+ŋ̀	ŋ ¹	palatal nasal M	DOG	
+o	o	short mid back tense	DOG	
+ŋ́	ŋ ⁵	velar nasal H	BANG	
+ŋ̀	ŋ ¹	velar nasal L	BANG	
+ŋ̄	ŋ ³	velar nasal M	BANG	
+o	o	short mid back tense	BANG	
+O	NULL	proper names, O(bject)	DOG	
+ó	o ⁵	short mid back tense H	DOG	
+ó	o ⁵	short mid back tense H	BANG	
+ò	o ¹	short mid back tense L	DOG	
+ò	o ¹	short mid back tense L	BANG	
+ō	o ³	short mid back tense M	BANG	
+ô	o ⁵¹	short mid back tense HL	DOG	
+ǒ	o ¹⁵	short mid back tense LH	DOG	
+o᷈	o ¹⁵¹	short mid back tense LHL	DOG	
+o̯	o	creaky voice?	DOG	
+o:	oː	long mid back tense	DOG	
+ó:	oː ⁵	long mid back tense H	DOG	
+ò:	oː ¹	long mid back tense L	DOG	
+ô:	oː ⁵¹	long mid back tense HL	DOG	
+ǒ:	oː ¹⁵	long mid back tense LH	DOG	
+o᷈:	o ∼ ¹⁵¹	short mid back tense LHL nasalized	DOG	
+ó:ⁿ	õː ∼ ⁵	long mid back tense H nasalized	DOG	
+ò:ⁿ	õː ∼ ¹	long mid back tense L nasalized	DOG	
+ô:ⁿ	õː ∼	long mid back tense HL nasalized	DOG	
+ǒ:ⁿ	õː ∼ ¹⁵	long mid back tense LH nasalized	DOG	
+óⁿ	õ ∼ ⁵	short mid back tense H nasalized	DOG	
+òⁿ	õ ∼ ¹	short mid back tense L nasalized	DOG	
+ôⁿ	õ ∼ ⁵¹	short mid back tense HL nasalized	DOG	
+óⁿ	o ∼ ⁵	short mid back tense H nasalized	BANG	
+òⁿ	o ∼ ¹	short mid back tense L nasalized	BANG	
+ōⁿ	o ∼ ³	short mid back tense M nasalized	BANG	
+óó	oː ⁵	long mid back tense H	BANG	
+òò	oː ¹	long mid back tense L	BANG	
+ōò	oː ³¹	long mid back tense ML	BANG	
+ōō	oː ³	long mid back tense M	BANG	
+p	p	voiceless bilabial plosive	DOG	
+p	p	voiceless bilabial plosive	BANG	
+r	r	voiced alveolar approximant	DOG	
+r	r	voiced alveolar approximant	BANG	
+r̀	r	voiced alveolar approximant L	DOG	³ forms
+rⁿ	r̃ ∼	voiced alveolar approximant nasalized	DOG	
+rⁿ	r̃ ∼	voiced alveolar approximant nasalized	BANG	
+s	s	voiceless alveolar fricative	DOG	
+s	s	voiceless alveolar fricative	BANG	
+š	ʃ	voiceless post-alveolar fricative	DOG	
+ʃ	ʃ	voiceless post-alveolar fricative	DOG	
+t	t	voiceless alveolar plosive	DOG	
+t	t	voiceless alveolar plosive	BANG	
+u	u	short high back tense	DOG	
+ú	u ⁵	short high back tense H	DOG	
+ú	u ⁵	short high back tense H	BANG	
+ù	u ¹	short high back tense L	DOG	
+ù	u ¹	short high back tense L	BANG	
+ū	ū	short high back tense M	BANG	
+û	u ⁵¹	short high back tense HL	DOG	
+ǔ	u ¹⁵	short high back tense LH	DOG	
+ũ	ũ ∼	short high back tense nasalized	DOG	
+ú:	uː ⁵	long high back tense H	DOG	
+ù:	uː ¹	long high back tense L	DOG	
+û:	uː ⁵¹	long high back tense HL	DOG	
+ǔ:	uː ¹⁵	long high back tense LH	DOG	
+u᷈:	uː ⁵¹⁵	long high back tense HLH	DOG	
+ú:ⁿ	ũː ∼ ⁵	long high back tense H nasalized	DOG	
+ù:ⁿ	ũː ∼ ¹	long high back tense L nasalized	DOG	
+û:ⁿ	ũː ∼ ⁵¹	long high back tense HL nasalized	DOG	
+ǔ:ⁿ	ũː ∼ ¹⁵	long high back tense LH nasalized	DOG	
+uⁿ	ũ ∼	short high back tense nasalized	DOG	
+úⁿ	ũ ∼ ⁵	short high back tense H nasalized	DOG	
+úⁿ	ũ ∼ ⁵	short high back tense H nasalized	BANG	
+ùⁿ	ũ ∼ ¹	short high back tense L nasalized	DOG	
+ùⁿ	ũ ∼ ¹	short high back tense L nasalized	BANG	
+ūⁿ	ũ ∼ ³	short high back tense M nasalized	BANG	
+ûⁿ	ũ ∼ ⁵¹	short high back tense HL nasalized	DOG	
+ǔⁿ	ũ ¹⁵	short high back tense LH nasalized	DOG	
+úú	uː ⁵	long high back tense H	BANG	
+ùù	uː ¹	long high back tense L	BANG	
+ūū	uː ³	long high back tense M	BANG	
+úúⁿ	ũː ∼ ⁵	long high back tense H nasalized	BANG	
+úùⁿ	ũː ∼ ⁵¹	long high back tense HL nasalized	BANG	
+ùùⁿ	ũː ∼ ¹	long high back tense L nasalized	BANG	
+ūùⁿ	ũː ∼ ¹⁵	long high back tense MH nasalized	BANG	
+ūūⁿ	ũː ∼ ³	long high back tense M nasalized	BANG	
+v	v	voiced labiodental fricative	DOG	
+V	NULL	(V)erb	DOG	
+v́	v ⁵	high tone	DOG	
+v̀	v ¹	low tone	DOG	
+w	w	voiced labialized-velar approximant	DOG	
+w	w	voiced labialized-velar approximant	BANG	
+ẃ	w ⁵	voiced labialized-velar approximant H	DOG	
+ẁ	w ¹	voiced labialized-velar approximant L	DOG	
+wⁿ	w̃ ∼	voiced labialized-velar approximant nasalized	DOG	
+wⁿ	w̃ ∼	voiced labialized-velar approximant nasalized	BANG	
+ẃⁿ	w̃ ∼ ⁵	voiced labialized-velar approximant nasalized H	DOG	
+ẁⁿ	w̃ ∼ ¹	voiced labialized-velar approximant nasalized L	DOG	
+x	NULL	no form exists in language	DOG	
+X	NULL	subject	DOG	
+y	j	voiced palatal approximant	DOG	
+Y	NULL	proper names, object	DOG	
+ý	j ⁵	voiced palatal approximant H	DOG	
+ỳ	j ¹	voiced palatal approximant L	DOG	
+y:	jː	voiced palatal approximant geminate	DOG	
+yⁿ	j ∼	voiced palatal approximant nasalized	DOG	
+ỳⁿ	j̃ ∼ ¹	voiced palatal approximant nasalized L	DOG	
+ýⁿ	j̃ ∼ ⁵	voiced palatal approximant nasalized H	DOG	
+ŷⁿ	j̃ ∼ ⁵¹	voiced palatal approximant nasalized HL	DOG	
+z	z	voiced alveolar fricative	DOG	
+ž	ʒ	voiced postalveolar fricative	DOG	
+ʒ	ʒ	voiced postalveolar fricative	DOG	
+ʒ	ʒ	voiced postalveolar fricative	BANG	
+ʔ	ʔ	voiceless glottal plosive	DOG	
+ʔⁿ	ʔ ∼	voiceless glottal plosive nasalized	DOG	
+ꜜ	ꜜ/⁵¹	downstepped tone	DOG	³ forms
+j	j	voiced palatal approximant	BANG	
+jⁿ	j̃ ∼	voiced palatal approximant nasalized	BANG	
