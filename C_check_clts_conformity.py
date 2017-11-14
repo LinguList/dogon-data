@@ -127,6 +127,4 @@ def tabulate_print_table(table_data):
         'Generated',
     ]
 
-    print(
-        tabulate(table_data, headers=headers, tablefmt='grid')
-    )
+    return str(tabulate(table_data, headers=headers, tablefmt='grid'))
