@@ -28,7 +28,11 @@ def profile_to_segment_list(profile_tsv_path):
     for row in csv2list(profile_tsv_path)[1:]:
         row_number += 1
         segments.append(
-            SegmentsInProfile(row[1].split(), row_number)
+            SegmentsInProfile(
+                row[1].split('/')[1]
+                if '/' in row[1] else
+                row[1].split(' '), row_number
+            )
         )
 
     return segments
