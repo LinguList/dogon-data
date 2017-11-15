@@ -116,7 +116,7 @@ def make_table(aggregated_items, verbose=False):
     for k, v in aggregated_items.items():
         _, bipa_sugg, feature = in_bipa(k)
 
-        if not verbose and bipa_sugg != '?':
+        if not verbose and (bipa_sugg != '?' or k == 'NULL'):
             continue
 
         tmp = [
