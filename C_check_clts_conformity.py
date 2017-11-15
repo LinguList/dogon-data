@@ -85,12 +85,12 @@ def in_bipa(char):
     return char, str(bchar), ''
 
 
-def make_table(aggregated_items: object, verbose: bool = False) -> list:
+def make_table(aggregated_items, verbose=False):
     """
-    :param aggregated_items:
     :param verbose: If True, all segments irrespective of conformity or not,
     are reported. If False, only problematic segments will be reported.
-    :return:
+    :return: A list of input strings, BIPA suggestions, a list of lines and
+    properties of the BIPA suggestion (if any).
     """
 
     table_data = []
@@ -134,6 +134,10 @@ def make_table(aggregated_items: object, verbose: bool = False) -> list:
 
 
 def tabulate_print_table(table_data):
+    # This needs to be as many headers as there are columns going to be
+    # in the final table.
+    # TODO: Add sanity check for headers == columns in final table.
+
     headers = [
         'Sound Source',
         'BIPA Suggestion',
