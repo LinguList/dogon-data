@@ -83,7 +83,14 @@ def in_bipa(char):
     return char, str(bchar), ''
 
 
-def make_table(aggregated_items):
+def make_table(aggregated_items: object, verbose: bool = False) -> list:
+    """
+    :param aggregated_items:
+    :param verbose: If True, all segments irrespective of conformity or not,
+    are reported. If False, only problematic segments will be reported.
+    :return:
+    """
+
     table_data = []
 
     def is_normalized(f):
@@ -106,6 +113,9 @@ def make_table(aggregated_items):
 
     for k, v in aggregated_items.items():
         _, bipa_sugg, feature = in_bipa(k)
+
+        if not verbose and bipa_sugg != '?':
+            continue
 
         tmp = [
             k,
