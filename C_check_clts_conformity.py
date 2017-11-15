@@ -77,6 +77,8 @@ def in_bipa(char):
         return char, '?', 'unknown'
     if bchar.generated:
         return char, str(bchar), 'generated'
+    if bchar.alias:
+        return char, str(bchar), 'alias'
     if str(bchar) != char:
         return char, str(bchar), 'normalized'
 
