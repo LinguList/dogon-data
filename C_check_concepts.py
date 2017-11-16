@@ -1,6 +1,8 @@
+import codecs
 import os.path
 import pickle
 import zipfile
+from itertools import zip_longest
 from typing import List
 from urllib import request
 
@@ -33,16 +35,31 @@ def get_current_concepticon_data():
         return pickle.load(open('concepticon.api', 'rb'))
 
 
-class ProposedConcept:
-    """Description."""
+class ConceptRow:
+    """
+    Description.
+    """
 
-    def __init__(self, concept_id, line):
-        self.concept_id = concept_id
-        self.line = line
+    def __init__(self, concept_line, concept_information, header_list):
+        annotated_concept_information =\
+            self.annotate_row_elements(concept_information, header_list)
 
         self.concept_dict = {
-            line: id
+            concept_line: annotated_concept_information
         }
+
+    @staticmethod
+    def annotate_row_elements(concept_information, header_list):
+        if len(concept_information) > len(header_list):
+            return list(zip_longest(
+                header_list, concept_information, fillvalue='MISSING_HEADER')
+            )
+        elif len(concept_information) < len(header_list):
+            return list(zip_longest(
+                header_list, concept_information, fillvalue='MISSING_VALUE')
+            )
+        else:
+            return list(zip(header_list, concept_information))
 
 
 class UniquenessError(Exception):
@@ -53,7 +70,12 @@ class UniquenessError(Exception):
         return repr(self.value)
 
 
-def concept_to_proposed(concept_tsv_path):
+def get_headers(concept_tsv_path):
+    with codecs.open(concept_tsv_path, 'r', 'utf-8') as f:
+        return f.readline().rstrip('\r\n').split('\t')
+
+
+def concept_to_proposed(concept_tsv_path, headers):
     row_number = 1
     concepts = []
 
@@ -64,13 +86,13 @@ def concept_to_proposed(concept_tsv_path):
         except ValueError:
             return False
 
-    for row in csv2list(concept_tsv_path, comment=None)[1:]:
-        row_number += 1
-
+    for row in csv2list(concept_tsv_path, comment=None):
         if is_id(row[0]):
             concepts.append(
-                ProposedConcept(row[0], row_number)
+                ConceptRow(row_number, row, headers)
             )
+
+        row_number += 1
 
     return concepts
 
@@ -133,15 +155,3 @@ def check_if_gloss_in_concepticon(gloss: str):
 # 1
 # 1
 # ------------------
-
-
-concepticon_api = get_current_concepticon_data()
-
-my_concepts = list(concepticon_api.conceptlists.values())
-print(my_concepts[0])
-
-# concepts_w = concept_to_proposed('D_dogon-concepts.tsv')
-# print(concepts_w[3].concept_id)
-# print(concepts_w[3].line)
-
-# check_uniqueness(concepts_w)
