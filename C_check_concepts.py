@@ -61,6 +61,17 @@ class ConceptRow:
         else:
             return list(zip(header_list, concept_information))
 
+    def check_if_gloss_is_in_concepticon(self, concepticon_concepts):
+        for line, concept_information in self.concept_dict.items():
+            gloss = [value for header, value
+                     in concept_information
+                     if header == 'CONCEPTICON_GLOSS'][0]
+
+            return\
+                (True, line, gloss)\
+                if gloss in concepticon_concepts else\
+                (False, line, gloss)
+
 
 class UniquenessError(Exception):
     def __init__(self, value):
@@ -75,7 +86,7 @@ def get_headers(concept_tsv_path):
         return f.readline().rstrip('\r\n').split('\t')
 
 
-def concept_to_proposed(concept_tsv_path, headers):
+def concept_to_concept_row(concept_tsv_path, headers):
     row_number = 1
     concepts = []
 
@@ -119,8 +130,17 @@ def is_temporary_concept(concept_gloss: str):
         return False
 
 
+def find_temporary_concept(concept_dict):
+    # line_numbers_temporary_concepts = []
+
+    for line, concept_information in concept_dict.items():
+        _ = [y for x, y in concept_information if x == 'CONCEPTICON_GLOSS']
+
+    pass
+
+
 def temporary_gloss_has_null_id(concept_gloss: str, concept_id: int):
-    # if CGL beginswith ! then CID must be 0
+    # if CGL begins with ! then CID must be 0
     # else ...
     if is_temporary_concept(concept_gloss) and concept_id != 0:
         raise ValueError
@@ -145,6 +165,23 @@ def check_if_gloss_in_concepticon(gloss: str):
     _ = gloss
     pass
 
+
+def get_all_concepticon_concepts():
+    if os.path.isfile('all_concepts.p'):
+        return pickle.load(open('all_concepts.p', 'rb'))
+    else:
+        concepticon_api = get_current_concepticon_data()
+        concept_lists = list(concepticon_api.conceptlists.values())
+        all_concepts = set()
+
+        for concept_list in concept_lists:
+            for k, v in concept_list.concepts.items():
+                all_concepts.add(v.concepticon_gloss)
+
+        pickle.dump(all_concepts, open('all_concepts.p', 'wb'))
+        return pickle.load(open('all_concepts.p', 'rb'))
+
+
 # Find glosses with ! as proposed new glosses
 
 # Check ID column for uniqueness
@@ -155,3 +192,22 @@ def check_if_gloss_in_concepticon(gloss: str):
 # 1
 # 1
 # ------------------
+
+# print(my_concepts[0])
+
+def get_concepts_not_in_concepticon(a):
+    return [(x, y, z) for (x, y, z) in a if x is False]
+
+
+headers_from_file = get_headers('D_dogon-concepts.tsv')
+concepts_w = concept_to_concept_row('D_dogon-concepts.tsv', headers_from_file)
+
+all_concepticon_concepts = get_all_concepticon_concepts()
+sanity_check_concepts = []
+
+for c in concepts_w:
+    sanity_check_concepts.append(
+        c.check_if_gloss_is_in_concepticon(all_concepticon_concepts)
+    )
+
+print(get_concepts_not_in_concepticon(sanity_check_concepts))
