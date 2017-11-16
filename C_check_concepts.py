@@ -1,8 +1,37 @@
-from lingpy.read.csv import csv2list
+import os.path
+import pickle
+import zipfile
 from typing import List
+from urllib import request
 
-Glosses=List[str]
-IDs=List[int]
+from lingpy.read.csv import csv2list
+from pyconcepticon.api import Concepticon
+
+Glosses = List[str]
+IDs = List[int]
+
+
+def get_current_concepticon_data():
+    # Just a temporary function for testing purposes.
+
+    if os.path.isfile('concepticon.api'):
+        return pickle.load(open('concepticon.api', 'rb'))
+    else:
+        concepticon_master_data = request.urlopen(
+            'https://github.com/clld/concepticon-data/archive/master.zip'
+        )
+
+        with open('master.zip', 'b+w') as f:
+            f.write(concepticon_master_data.read())
+
+        with zipfile.ZipFile('master.zip', 'r') as f:
+            f.extractall('.')
+
+        api = Concepticon('concepticon-data-master')
+        pickle.dump(api, open('concepticon.api', 'wb'))
+
+        return pickle.load(open('concepticon.api', 'rb'))
+
 
 class ProposedConcept:
     """Description."""
@@ -35,8 +64,6 @@ def concept_to_proposed(concept_tsv_path):
         except ValueError:
             return False
 
-    # Is there a better way to ignore comments completely, i.e. read the file
-    # 'raw'? If not, suggest/issue 'None' as argument.
     for row in csv2list(concept_tsv_path, comment=None)[1:]:
         row_number += 1
 
@@ -93,6 +120,7 @@ def check_id_for_uniqueness(list_of_ids: IDs):
 
 def check_if_gloss_in_concepticon(gloss: str):
     # Check for gloss existence in concepticon API ...
+    _ = gloss
     pass
 
 # Find glosses with ! as proposed new glosses
@@ -107,8 +135,13 @@ def check_if_gloss_in_concepticon(gloss: str):
 # ------------------
 
 
-concepts_w = concept_to_proposed('D_dogon-concepts.tsv')
+concepticon_api = get_current_concepticon_data()
+
+my_concepts = list(concepticon_api.conceptlists.values())
+print(my_concepts[0])
+
+# concepts_w = concept_to_proposed('D_dogon-concepts.tsv')
 # print(concepts_w[3].concept_id)
 # print(concepts_w[3].line)
 
-check_uniqueness(concepts_w)
+# check_uniqueness(concepts_w)
