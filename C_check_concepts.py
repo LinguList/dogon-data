@@ -171,12 +171,13 @@ def get_all_concepticon_concepts():
         return pickle.load(open('all_concepts.p', 'rb'))
     else:
         concepticon_api = get_current_concepticon_data()
-        concept_lists = list(concepticon_api.conceptlists.values())
+        concept_lists = [
+            gloss for gloss in concepticon_api.conceptsets.values()
+        ]
         all_concepts = set()
 
-        for concept_list in concept_lists:
-            for k, v in concept_list.concepts.items():
-                all_concepts.add(v.concepticon_gloss)
+        for gloss in concept_lists:
+            all_concepts.add(gloss.gloss)
 
         pickle.dump(all_concepts, open('all_concepts.p', 'wb'))
         return pickle.load(open('all_concepts.p', 'rb'))
@@ -199,8 +200,8 @@ def get_concepts_not_in_concepticon(a):
     return [(x, y, z) for (x, y, z) in a if x is False]
 
 
-headers_from_file = get_headers('D_dogon-concepts.tsv')
-concepts_w = concept_to_concept_row('D_dogon-concepts.tsv', headers_from_file)
+headers_from_file = get_headers('Bangime_mapped_updated.txt')
+concepts_w = concept_to_concept_row('Bangime_mapped_updated.txt', headers_from_file)
 
 all_concepticon_concepts = get_all_concepticon_concepts()
 sanity_check_concepts = []
