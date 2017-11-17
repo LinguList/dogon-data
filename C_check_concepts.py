@@ -5,6 +5,7 @@ import pickle
 import zipfile
 from itertools import zip_longest
 from urllib import request
+import sys
 
 from lingpy.read.csv import csv2list
 from pyconcepticon.api import Concepticon
@@ -24,7 +25,7 @@ class ConcepticonMapper:
             logging.info('Fetching fresh concepticon data.')
 
             concepticon_master_data = request.urlopen(
-                'https://github.com/clld/concepticon-data/archive/master.zip'
+                'http://github.com/clld/concepticon-data/archive/master.zip'
             )
 
             with open('master.zip', 'b+w') as f:
@@ -63,21 +64,25 @@ class ConceptRow:
 
     def __init__(self, concept_line, concept_information, header_list):
         annotated_concept_information =\
-            self.annotate_row_elements(concept_information, header_list)
+            self.__annotate_row_elements(concept_information, header_list)
 
         self.concept_dict = {
             concept_line: annotated_concept_information
         }
 
     @staticmethod
-    def annotate_row_elements(concept_information, header_list):
+    def __annotate_row_elements(concept_information, header_list):
         if len(concept_information) > len(header_list):
-            return list(zip_longest(
-                header_list, concept_information, fillvalue='MISSING_HEADER')
+            return list(
+                zip_longest(
+                    header_list, concept_information, fillvalue='MISSING_HEADER'
+                )
             )
         elif len(concept_information) < len(header_list):
-            return list(zip_longest(
-                header_list, concept_information, fillvalue='MISSING_VALUE')
+            return list(
+                zip_longest(
+                    header_list, concept_information, fillvalue='MISSING_VALUE'
+                )
             )
         else:
             return list(zip(header_list, concept_information))
@@ -93,11 +98,25 @@ class ConceptRow:
                 if gloss in concepticon_concepts else\
                 (False, line, gloss)
 
-    def check_if_gloss_matches_id(self):
-        # Check if gloss['id'] == gloss
-        pass
+    def check_if_gloss_matches_id(self, concepticon_concepts):
+        for line, concept_information in self.concept_dict.items():
+            gloss = [value for header, value
+                     in concept_information
+                     if header == 'CONCEPTICON_GLOSS'][0]
+
+            concepticon_id = [value for header, value
+                              in concept_information
+                              if header == 'CONCEPTICON_ID'][0]
+
+            if concepticon_id and concepticon_concepts[concepticon_id] == gloss:
+                return True, line, gloss
+            else:
+                return False, line, gloss
 
     def check_if_proposed_gloss(self):
+        """
+        If a gloss is proposed (starts with '!'), returns (True, line, gloss).
+        """
         for line, concept_information in self.concept_dict.items():
             gloss = [value for header, value
                      in concept_information
@@ -106,9 +125,14 @@ class ConceptRow:
             return\
                 (True, line, gloss)\
                 if gloss.startswith('!') else\
-                None
+                (False, line, gloss)
 
     def check_if_proposed_gloss_has_null_id(self):
+        """
+        If a gloss is proposed (starts with '!') returns (True, line, gloss)
+        if the CONCEPTICON_ID is empty. If a gloss is proposed and the ID field
+        is not empty, returns (False, line, gloss).
+        """
         for line, concept_information in self.concept_dict.items():
             gloss = [value for header, value
                      in concept_information
@@ -121,24 +145,85 @@ class ConceptRow:
             if gloss.startswith('!') and (int(concepticon_id or 0) == 0
                                           or concepticon_id == ''):
                 return True, line, gloss
-            elif gloss.startswith('!') and (int(concepticon_id or 0) > 0
-                                           or concepticon_id):
-                return False, line, gloss
+            elif not gloss.startswith('!') and (int(concepticon_id or 0) > 0 or concepticon_id):
+                return True, line, gloss
             else:
-                return None
+                return False, line, gloss
 
+    def check_if_id_unique(self, list_of_concept_rows):
+        clashing_ids = []
 
-class UniquenessError(Exception):
-    def __init__(self, value):
-        self.value = value
+        def __get_local_id():
+            for line, concept_information in self.concept_dict.items():
+                id_col = [value for header, value
+                          in concept_information if header == 'ID'][0]
 
-    def __str__(self):
-        return repr(self.value)
+                return line, id_col
+
+        local = __get_local_id()
+
+        def __rest():
+            for concept_row in list_of_concept_rows:
+                for line, concept_information in concept_row.\
+                        concept_dict.items():
+                    id_col = [value for header, value
+                              in concept_information if header == 'ID'][0]
+
+                    if local != (line, id_col) and local[1] == id_col:
+                        clashing_ids.append((line, id_col))
+
+        __rest()
+
+        if clashing_ids:
+            clashing_ids.insert(0, local)
+
+        return clashing_ids
+
+    def check_if_concepticon_id_unique(self, list_of_concept_rows):
+        clashing_concepticon_ids = []
+
+        def __get_local_id():
+            for line, concept_information in self.concept_dict.items():
+                concepticon_id = [
+                    value for header, value in
+                    concept_information if header == 'CONCEPTICON_ID'
+                ][0]
+
+                return line, concepticon_id
+
+        local = __get_local_id()
+
+        def __rest():
+            for concept_row in list_of_concept_rows:
+                for line, concept_information in concept_row.\
+                        concept_dict.items():
+                    concepticon_id = [
+                        value for header, value
+                        in concept_information
+                        if header == 'CONCEPTICON_ID'
+                    ][0]
+
+                    if local != (line, concepticon_id)\
+                            and local[1] == concepticon_id:
+                        clashing_concepticon_ids.append((line, concepticon_id))
+
+        __rest()
+
+        if clashing_concepticon_ids:
+            clashing_concepticon_ids.insert(0, local)
+
+        return clashing_concepticon_ids
 
 
 def get_headers(concept_tsv_path):
-    with codecs.open(concept_tsv_path, 'r', 'utf-8') as f:
-        return f.readline().replace('\ufeff', '').rstrip('\r\n').split('\t')
+    try:
+        with codecs.open(concept_tsv_path, 'r', 'utf-8') as f:
+            return f.readline().\
+                replace('\ufeff', '').rstrip('\r\n').split('\t')
+    except (UnicodeDecodeError, UnicodeEncodeError, UnicodeError) as e:
+        print(e)
+        print("Unicode problem. Is " + concept_tsv_path + " saved as UTF-8?")
+        sys.exit(0)
 
 
 def concept_to_concept_row(concept_tsv_path, headers):
@@ -161,80 +246,3 @@ def concept_to_concept_row(concept_tsv_path, headers):
         row_number += 1
 
     return concepts
-
-
-# def check_uniqueness(concept_list):
-#     concept_ids = []
-#
-#     for concept in concept_list:
-#         if concept.concept_id not in concept_ids:
-#             concept_ids.append(concept.concept_id)
-#         else:
-#             print(
-#                 f"Concept ID {concept.concept_id} doubled"
-#                 f" at line {concept.line}."
-#             )
-#
-#             # return concept_ids
-
-
-# def check_id_for_uniqueness(list_of_ids: IDs):
-#     gathered_ids = []
-#
-#     for concept_id in list_of_ids:
-#         if concept_id not in gathered_ids:
-#             gathered_ids.append(concept_id)
-#         else:
-#             raise UniquenessError(concept_id)  # We can fail better, later on.
-
-
-def check_if_gloss_in_concepticon(gloss: str):
-    # Check for gloss existence in concepticon API ...
-    _ = gloss
-    pass
-
-
-# Find glosses with ! as proposed new glosses
-
-# Check ID column for uniqueness
-# Check concepticon API for proper gloss
-
-# ------------------
-# ID ENG
-# 1
-# 1
-# ------------------
-
-# print(my_concepts[0])
-
-def get_concepts_not_in_concepticon(a):
-    return [(x, y, z) for (x, y, z) in a if x is False]
-
-
-headers_from_file = get_headers(
-    'Bangime_mapped_updated.txt'
-)
-concepts_w = concept_to_concept_row(
-    'Bangime_mapped_updated.txt', headers_from_file
-)
-
-con = ConcepticonMapper()
-
-all_concepticon_concepts = con.get_all_concepticon_glosses()
-sanity_check_concepts = []
-
-for i in concepts_w:
-    sanity_check_concepts.append(
-        i.check_if_gloss_is_in_concepticon(all_concepticon_concepts)
-    )
-
-print(get_concepts_not_in_concepticon(sanity_check_concepts))
-
-#for i in concepts_w:
-#    print(i.check_if_proposed_gloss())
-
-a = concepts_w[43]
-""":type : ConceptRow"""
-
-b = a.check_if_proposed_gloss_has_null_id()
-print(b)
