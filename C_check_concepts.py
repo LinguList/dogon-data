@@ -1,38 +1,59 @@
 import codecs
+import logging
 import os.path
 import pickle
 import zipfile
 from itertools import zip_longest
-from typing import List
 from urllib import request
 
 from lingpy.read.csv import csv2list
 from pyconcepticon.api import Concepticon
 
-Glosses = List[str]
-IDs = List[int]
 
+class ConcepticonMapper:
+    """
+    Description.
+    """
 
-def get_current_concepticon_data():
-    # Just a temporary function for testing purposes.
+    @staticmethod
+    def get_concepticon_api(refresh=False):
+        if os.path.isfile('concepticon.api') and not refresh:
+            logging.info('Using cached concepticon data.')
+            return pickle.load(open('concepticon.api', 'rb'))
+        else:
+            logging.info('Fetching fresh concepticon data.')
 
-    if os.path.isfile('concepticon.api'):
-        return pickle.load(open('concepticon.api', 'rb'))
-    else:
-        concepticon_master_data = request.urlopen(
-            'https://github.com/clld/concepticon-data/archive/master.zip'
-        )
+            concepticon_master_data = request.urlopen(
+                'https://github.com/clld/concepticon-data/archive/master.zip'
+            )
 
-        with open('master.zip', 'b+w') as f:
-            f.write(concepticon_master_data.read())
+            with open('master.zip', 'b+w') as f:
+                f.write(concepticon_master_data.read())
 
-        with zipfile.ZipFile('master.zip', 'r') as f:
-            f.extractall('.')
+            with zipfile.ZipFile('master.zip', 'r') as f:
+                f.extractall('.')
 
-        api = Concepticon('concepticon-data-master')
-        pickle.dump(api, open('concepticon.api', 'wb'))
+            api = Concepticon('concepticon-data-master')
+            pickle.dump(api, open('concepticon.api', 'wb'))
 
-        return pickle.load(open('concepticon.api', 'rb'))
+            return pickle.load(open('concepticon.api', 'rb'))
+
+    def get_all_concepticon_glosses(self):
+        concept_lists = [
+            gloss for gloss in self.api.conceptsets.values()
+        ]
+        all_concepts = set()
+
+        for gloss in concept_lists:
+            all_concepts.add(gloss.gloss)
+
+        return all_concepts
+
+    def get_gloss_id_pairs(self):
+        return {c.id: c.gloss for c in self.api.conceptsets.values()}
+
+    def __init__(self):
+        self.api = self.get_concepticon_api()
 
 
 class ConceptRow:
@@ -72,6 +93,40 @@ class ConceptRow:
                 if gloss in concepticon_concepts else\
                 (False, line, gloss)
 
+    def check_if_gloss_matches_id(self):
+        # Check if gloss['id'] == gloss
+        pass
+
+    def check_if_proposed_gloss(self):
+        for line, concept_information in self.concept_dict.items():
+            gloss = [value for header, value
+                     in concept_information
+                     if header == 'CONCEPTICON_GLOSS'][0]
+
+            return\
+                (True, line, gloss)\
+                if gloss.startswith('!') else\
+                None
+
+    def check_if_proposed_gloss_has_null_id(self):
+        for line, concept_information in self.concept_dict.items():
+            gloss = [value for header, value
+                     in concept_information
+                     if header == 'CONCEPTICON_GLOSS'][0]
+
+            concepticon_id = [value for header, value
+                              in concept_information
+                              if header == 'CONCEPTICON_ID'][0]
+
+            if gloss.startswith('!') and (int(concepticon_id or 0) == 0
+                                          or concepticon_id == ''):
+                return True, line, gloss
+            elif gloss.startswith('!') and (int(concepticon_id or 0) > 0
+                                           or concepticon_id):
+                return False, line, gloss
+            else:
+                return None
+
 
 class UniquenessError(Exception):
     def __init__(self, value):
@@ -83,7 +138,7 @@ class UniquenessError(Exception):
 
 def get_headers(concept_tsv_path):
     with codecs.open(concept_tsv_path, 'r', 'utf-8') as f:
-        return f.readline().rstrip('\r\n').split('\t')
+        return f.readline().replace('\ufeff', '').rstrip('\r\n').split('\t')
 
 
 def concept_to_concept_row(concept_tsv_path, headers):
@@ -108,79 +163,35 @@ def concept_to_concept_row(concept_tsv_path, headers):
     return concepts
 
 
-def check_uniqueness(concept_list):
-    concept_ids = []
-
-    for concept in concept_list:
-        if concept.concept_id not in concept_ids:
-            concept_ids.append(concept.concept_id)
-        else:
-            print(
-                f"Concept ID {concept.concept_id} doubled"
-                f" at line {concept.line}."
-            )
-
-            # return concept_ids
-
-
-def is_temporary_concept(concept_gloss: str):
-    if concept_gloss.startswith('!'):
-        return True
-    else:
-        return False
+# def check_uniqueness(concept_list):
+#     concept_ids = []
+#
+#     for concept in concept_list:
+#         if concept.concept_id not in concept_ids:
+#             concept_ids.append(concept.concept_id)
+#         else:
+#             print(
+#                 f"Concept ID {concept.concept_id} doubled"
+#                 f" at line {concept.line}."
+#             )
+#
+#             # return concept_ids
 
 
-def find_temporary_concept(concept_dict):
-    # line_numbers_temporary_concepts = []
-
-    for line, concept_information in concept_dict.items():
-        _ = [y for x, y in concept_information if x == 'CONCEPTICON_GLOSS']
-
-    pass
-
-
-def temporary_gloss_has_null_id(concept_gloss: str, concept_id: int):
-    # if CGL begins with ! then CID must be 0
-    # else ...
-    if is_temporary_concept(concept_gloss) and concept_id != 0:
-        raise ValueError
-
-
-def find_proposed_glosses(glosses_list: Glosses):
-    return [gloss for gloss in glosses_list if gloss.startswith('!')]
-
-
-def check_id_for_uniqueness(list_of_ids: IDs):
-    gathered_ids = []
-
-    for concept_id in list_of_ids:
-        if concept_id not in gathered_ids:
-            gathered_ids.append(concept_id)
-        else:
-            raise UniquenessError(concept_id)  # We can fail better, later on.
+# def check_id_for_uniqueness(list_of_ids: IDs):
+#     gathered_ids = []
+#
+#     for concept_id in list_of_ids:
+#         if concept_id not in gathered_ids:
+#             gathered_ids.append(concept_id)
+#         else:
+#             raise UniquenessError(concept_id)  # We can fail better, later on.
 
 
 def check_if_gloss_in_concepticon(gloss: str):
     # Check for gloss existence in concepticon API ...
     _ = gloss
     pass
-
-
-def get_all_concepticon_concepts():
-    if os.path.isfile('all_concepts.p'):
-        return pickle.load(open('all_concepts.p', 'rb'))
-    else:
-        concepticon_api = get_current_concepticon_data()
-        concept_lists = [
-            gloss for gloss in concepticon_api.conceptsets.values()
-        ]
-        all_concepts = set()
-
-        for gloss in concept_lists:
-            all_concepts.add(gloss.gloss)
-
-        pickle.dump(all_concepts, open('all_concepts.p', 'wb'))
-        return pickle.load(open('all_concepts.p', 'rb'))
 
 
 # Find glosses with ! as proposed new glosses
@@ -200,15 +211,30 @@ def get_concepts_not_in_concepticon(a):
     return [(x, y, z) for (x, y, z) in a if x is False]
 
 
-headers_from_file = get_headers('Bangime_mapped_updated.txt')
-concepts_w = concept_to_concept_row('Bangime_mapped_updated.txt', headers_from_file)
+headers_from_file = get_headers(
+    'Bangime_mapped_updated.txt'
+)
+concepts_w = concept_to_concept_row(
+    'Bangime_mapped_updated.txt', headers_from_file
+)
 
-all_concepticon_concepts = get_all_concepticon_concepts()
+con = ConcepticonMapper()
+
+all_concepticon_concepts = con.get_all_concepticon_glosses()
 sanity_check_concepts = []
 
-for c in concepts_w:
+for i in concepts_w:
     sanity_check_concepts.append(
-        c.check_if_gloss_is_in_concepticon(all_concepticon_concepts)
+        i.check_if_gloss_is_in_concepticon(all_concepticon_concepts)
     )
 
 print(get_concepts_not_in_concepticon(sanity_check_concepts))
+
+#for i in concepts_w:
+#    print(i.check_if_proposed_gloss())
+
+a = concepts_w[43]
+""":type : ConceptRow"""
+
+b = a.check_if_proposed_gloss_has_null_id()
+print(b)
