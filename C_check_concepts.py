@@ -245,12 +245,3 @@ def concept_to_concept_row(concept_tsv_path, headers):
         row_number += 1
 
     return concepts
-
-
-input_file_concepts = 'Bangime_mapped_updated.txt'
-
-concepts_from_file = concept_to_concept_row(
-    input_file_concepts, get_headers(input_file_concepts)
-)
-
-x = 1
