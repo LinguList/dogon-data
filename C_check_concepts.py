@@ -217,9 +217,8 @@ class ConceptRow:
 
 def get_headers(concept_tsv_path):
     try:
-        with codecs.open(concept_tsv_path, 'r', 'utf-8') as f:
-            return f.readline().\
-                replace('\ufeff', '').rstrip('\r\n').split('\t')
+        with codecs.open(concept_tsv_path, 'r', 'utf-8-sig') as f:
+            return f.readline().rstrip('\r\n').split('\t')
     except (UnicodeDecodeError, UnicodeEncodeError, UnicodeError) as e:
         print(e)
         print("Unicode problem. Is " + concept_tsv_path + " saved as UTF-8?")
@@ -246,3 +245,12 @@ def concept_to_concept_row(concept_tsv_path, headers):
         row_number += 1
 
     return concepts
+
+
+input_file_concepts = 'Bangime_mapped_updated.txt'
+
+concepts_from_file = concept_to_concept_row(
+    input_file_concepts, get_headers(input_file_concepts)
+)
+
+x = 1
