@@ -1,0 +1,693 @@
+﻿ID	CONCEPT	CONCEPT_FRENCH	DOCULECT	DOCULECT_NAME_IN_SOURCE	IPA	FORM	SEGMENTS	CONCEPT_ABBREVIATED	CONCEPT_FRENCH_ABBREVIATED	SEMANTIC_FIELD	SEMANTIC_FIELD_FRENCH	CONCEPTICON_ID	CONCEPTICON_GLOSS	IPA2	ALIGNMENT
+1	get tired	se fatiguer	Bangime		bààndà							1996	GET TIRED	b aː ¹ n d a ¹	b aː ¹ n d a ¹
+4	carry (baby) on shoulder; carry (sth) slung over shoulder or by a shoulder strap); put one’s arm on sb’s shoulder	porter (enfant) sur l'épaule; porter (objet, peut-être avec une sangle) sur l'épaule; poser son bras sur l'épaule de (qn)	Bangime		bàŋɡà-rà							413	CARRY ON SHOULDER	b a ¹ ŋ ɡ a ¹ + r a ¹	b a ¹ ŋ ɡ a ¹ + r a ¹
+5	stay	rester	Bangime		bārà							987	REMAIN	b a ³ r a ¹	b a ³ r a ¹
+7	injure, wound	blesser	Bangime		bàrmà							44	INJURE	b a ¹ r m a ¹	b a ¹ r m a ¹
+10	winnow by shaking	vanner en secouant	Bangime		bɛ̀ɡɛ̀ɛ̀							2462	WINNOWING	b ɛ ¹ ɡ ɛː ¹	b ɛ ¹ ɡ ɛː ¹
+12	ripen, harden	mûrir, durcir	Bangime		bījò							179	RIPEN	b i ³ dʒ o ¹	b i ³ dʒ o ¹
+13	(water) drip	(eau) goutter	Bangime		bīlà							808	DRIP (FALL IN GLOBULES)	b i ³ l a ¹	b i ³ l a ¹
+14	be sated (full, after eating)	se rassasier	Bangime		bīndà (1)							106	SATIATED	b i ³ n d a ¹ #	b i ³ n d a ¹ #
+15	(day) break	(jour) poindre	Bangime		bīndà (2)							729	DAWN	b i ³ n d a ¹ #	b i ³ n d a ¹ #
+16	lay (sth) down; set out (mat)	poser (qch); étaler (natte)	Bangime		bīn-dò							1411	LIE (REST)	b i ³ n + d o ¹	b i ³ n + d o ¹
+17	go out	sortir	Bangime		bīrè							1107	GO OUT	b i ³ r e ¹	b i ³ r e ¹
+19	finish	finir	Bangime		bìtà							743	END (OF TIME)	b i ¹ t a ¹	b i ¹ t a ¹
+21	stretch out (e.g. after waking)	s'étirer	Bangime		bòrndà							214	STRETCH	b o ¹ r n d a ¹	b o ¹ r n d a ¹
+22	help	aider	Bangime		bɔ̄ɡɔ̀							1897	HELP	b ɔ ³ ɡ ɔ ¹	b ɔ ³ ɡ ɔ ¹
+23	be alive	être en vie, vivre	Bangime		bɔ̄n-dɔ̀							1422	BE ALIVE	b ɔ ³ n + d ɔ ¹	b ɔ ³ n + d ɔ ¹
+24	come out; get away from (sw)	sortir (en venant); quitter (qp)	Bangime		būrà								!COME OUT	b u ³ r a ¹	b u ³ r a ¹
+25	tie	attacher	Bangime		bū-wɔ̀							1917	TIE	b u ³ + w ɔ ¹	b u ³ + w ɔ ¹
+26	end, be used up	s'épuiser, finir	Bangime		būndì								!DEPLETED	b u ³ n d i ¹	b u ³ n d i ¹
+27	remove; take off (garment)	enlever; enlever (vêtement)	Bangime		bùndà							1755	UNDRESS	b u ¹ n d a ¹	b u ¹ n d a ¹
+28	finish up, finish the last small amount (of work, of food in a bowl)	finir, finir le peu qui reste (d'un travail, de la nourriture dans une tasse)	Bangime		bùrⁿà							1766	FINISH	b u ¹ r̃ ∼ a ¹	b u ¹ r̃ ∼ a ¹
+30	hide	cacher	Bangime		dàà-ndà							2486	HIDE	d aː ¹ + n d a ¹	d aː ¹ + n d a ¹
+31	touch	toucher	Bangime		dāɡà							1892	TOUCH	d a ³ ɡ a ¹	d a ³ ɡ a ¹
+33	wait	attendre	Bangime		dèŋɡò							1590	WAIT (FOR)	d e ¹ ŋ ɡ o ¹	d e ¹ ŋ ɡ o ¹
+34	strangle	étrangler	Bangime		dɛ̄dà							129	CHOKE	d ɛ ³ d a ¹	d ɛ ³ d a ¹
+35	cultivate, farm (a field)	cultiver	Bangime		dɛ̀ɛ̀-rɛ̀ (1)							1541	CULTIVATE	d ɛː ¹ + r ɛ ¹ #	d ɛː ¹ + r ɛ ¹ #
+36	lick; taste (by licking)	lécher; goûter en léchant	Bangime		dɛ̀ɛ̀-rɛ̀ (2)							319	LICK	d ɛː ¹ + r ɛ ¹ #	d ɛː ¹ + r ɛ ¹ #
+37	hit; kick	frapper; donner un coup de pied à	Bangime		dɛ̄ɡɛ̀							1433	HIT	d ɛ ³ ɡ ɛ ¹	d ɛ ³ ɡ ɛ ¹
+38	fold (garment)	plier (vêtement)	Bangime		dɛ̀mbì-jɛ̀							1470	FOLD	d ɛ ¹ m b i ¹ + dʒ ɛ ¹	d ɛ ¹ m b i ¹ + dʒ ɛ ¹
+39	cook in pot	cuire dans une marmite	Bangime		dɛ̄ndɛ̀							1100	COOK (SOMETHING)	d ɛ ³ n d ɛ ¹	d ɛ ³ n d ɛ ¹
+40	stop (sth), cause to stop or stand up	arrêter (qch), faire arrêter, mettre debout	Bangime		dɛ̄rɛ̄-ndɛ̀							2880	HALT (STOP)	d ɛ ³ r ɛ ³ + n d ɛ ¹	d ɛ ³ r ɛ ³ + n d ɛ ¹
+42	(sb, body part) hurt (sb)	(qn, partie du corps) faire mal à (qn)	Bangime		dìì-ndà							2561	HURT (SENSE PAIN)	d iː ¹ + n d a ¹	d iː ¹ + n d a ¹
+43	eat	manger	Bangime		dījà							1336	EAT	d i ³ dʒ a ¹	d i ³ dʒ a ¹
+44	(sb) stop, stand	(qn) s'arrêter, se mettre debout	Bangime		dīn-dà							1442	STAND	d i ³ n + d a ¹	d i ³ n + d a ¹
+45	speak; discuss	parler; discuter	Bangime		dìŋì-ndà (1)							1623	SPEAK	d i ¹ ŋ i ¹ + n d a ¹ #	d i ¹ ŋ i ¹ + n d a ¹ #
+46	become dirty	se salir	Bangime		dìŋì-ndà (2)							1015	SOIL	d i ¹ ŋ i ¹ + n d a ¹ #	d i ¹ ŋ i ¹ + n d a ¹ #
+47	bend (e.g. metal)	plier, courber (fer etc.)	Bangime		dòŋɡò							2224	BEND (SOMETHING)	d o ¹ ŋ ɡ o ¹	d o ¹ ŋ ɡ o ¹
+48	convey, transport	transporter	Bangime		dōò							2711	TRANSPORT	d oː ³¹	d oː ³¹
+49	pass	passer	Bangime		dòò-rò							1951	PASS	d oː ¹ + r o ¹	d oː ¹ + r o ¹
+50	shut (door)	fermer (porte)	Bangime		dòòndò (1)							1046	SHUT	d oː ¹ n d o ¹ #	d oː ¹ n d o ¹ #
+51	spend (night)	passer (nuit)	Bangime		dòòndò (2)								!SPEND THE NIGHT	d oː ¹ n d o ¹ #	d oː ¹ n d o ¹ #
+52	chop	couper avec des coups verticaux (comme avec la hache)	Bangime		dɔ̄ɡɔ̀ (1)							155	CHOP	d ɔ ³ ɡ ɔ ¹ #	d ɔ ³ ɡ ɔ ¹ #
+56	tell (a story)	raconter (un conte)	Bangime		dɔ̄ɡɔ̀ (5)							1711	TELL	d ɔ ³ ɡ ɔ ¹ # �	d ɔ ³ ɡ ɔ ¹ # �
+57	betray (sb), renege on, fail to fulfill a promise to (sb)	trahir (qn), ne pas tenir une promesse à (qn)	Bangime		dɔ̀ɡɔ̀rɔ̀							1902	BETRAY	d ɔ ¹ ɡ ɔ ¹ r ɔ ¹	d ɔ ¹ ɡ ɔ ¹ r ɔ ¹
+58	punch (sb), bump (sb) hard	boxer, bousculer (qn)	Bangime		dɔ̀jɔ̀							1665	BEAT	d ɔ ¹ dʒ ɔ ¹	d ɔ ¹ dʒ ɔ ¹
+59	(sb) be ashamed	(qn) avoir honte	Bangime		dɔ̀ŋɔ̀-ndɔ̀ (1)							1894	ASHAMED	d ɔ ¹ ŋ ɔ ¹ + n d ɔ ¹ #	d ɔ ¹ ŋ ɔ ¹ + n d ɔ ¹ #
+60	resemble, look like (sb)	ressembler (qn)	Bangime		dɔ̀ŋɔ̀ndɔ̀ (2)							1777	RESEMBLE	d ɔ ¹ ŋ ɔ ¹ n d ɔ ¹ #	d ɔ ¹ ŋ ɔ ¹ n d ɔ ¹ #
+61	have	avoir	Bangime		dūɡà							773	HAVE	d u ³ ɡ a ¹	d u ³ ɡ a ¹
+62	calculate	calculer	Bangime		ʤàtà							2867	CALCULATE	dʒ a ¹ t a ¹	dʒ a ¹ t a ¹
+63	feed (sb, animal)	nourrir (qn, animal)	Bangime		ʤìì-ndà (1)							739	FEED	dʒ iː ¹ + n d a ¹ #	dʒ iː ¹ + n d a ¹ #
+64	anger (sb)	fâcher (qn)	Bangime		ʤìì-ndà (2)							82	ANGER	dʒ iː ¹ + n d a ¹ #	dʒ iː ¹ + n d a ¹ #
+65	carve (wood, e.g. to make a mortar)	tailler (bois, par ex. en fabriquant un mortier)	Bangime		ʤìjɛ̀-rɛ̀							228	CARVE	dʒ i ¹ dʒ ɛ ¹ + r ɛ ¹	dʒ i ¹ dʒ ɛ ¹ + r ɛ ¹
+67	extinguish	êteindre	Bangime		ʤīm-bò (3)							127	EXTINGUISH	dʒ i ³ m + b o ¹ #	dʒ i ³ m + b o ¹ #
+68	shut (eyes)	fermer (yeux)	Bangime		ʤīm-bò (4)							2211	CLOSE THE EYES	dʒ i ³ m + b o ¹ #	dʒ i ³ m + b o ¹ #
+69	(healer) cure (sb)	(guérisseur) guérir (qn)	Bangime		ʤìmì-nì								!HEAL	dʒ i ¹ m i ¹ + n i ¹	dʒ i ¹ m i ¹ + n i ¹
+71	(mother) wean (child)	(mère) sevrer (enfant)	Bangime		ɛ̄ntà								!WEAN	ɛ ³ n t a ¹	ɛ ³ n t a ¹
+74	(branch) break off	(branche) se détacher en se cassant	Bangime		ɡàj-ndà (1)							2558	BREAK (CLEAVE)	ɡ a ¹ dʒ + n d a ¹ #	ɡ a ¹ dʒ + n d a ¹ #
+76	win	gagner	Bangime		ɡàɲà							866	WIN	ɡ a ¹ ɲ a ¹	ɡ a ¹ ɲ a ¹
+77	scrape one’s skin (on sth)	se gratter la peau (sur qch)	Bangime		ɡārnʤà							1767	SCRAPE	ɡ a ³ r n dʒ a ¹	ɡ a ³ r n dʒ a ¹
+80	(sb) slip	(qn) glisser	Bangime		ɡɛ̄rɛ̀ (1)							1324	SLIP	ɡ ɛ ³ r ɛ ¹ #	ɡ ɛ ³ r ɛ ¹ #
+81	skim off (water, from the top)	enlever (eau, d'en haut)	Bangime		ɡɛ̄rɛ̀ (2)							2657	LADLE	ɡ ɛ ³ r ɛ ¹ #	ɡ ɛ ³ r ɛ ¹ #
+82	rub, brush, wipe	frotter, brosser, essuyer	Bangime		ɡìjàà							1454	WIPE	ɡ i ¹ dʒ aː ¹	ɡ i ¹ dʒ aː ¹
+83	sweep	balayer	Bangime		ɡìjɛ̀ndɛ̀							230	SWEEP	ɡ i ¹ dʒ ɛ ¹ n d ɛ ¹	ɡ i ¹ dʒ ɛ ¹ n d ɛ ¹
+84	leave, abandon	abandonner	Bangime		ɡòmbè							1752	LEAVE	ɡ o ¹ m b e ¹	ɡ o ¹ m b e ¹
+85	(sth) change; (sth) rotate, spin	(qn) se changer; (qch) tourner	Bangime		ɡòmbì-jɛ̀							2857	CHANGE (BECOME DIFFERENT)	ɡ o ¹ m b i ¹ + dʒ ɛ ¹	ɡ o ¹ m b i ¹ + dʒ ɛ ¹
+86	weave	tisser	Bangime		ɡɔ̄ɡɔ̀								!WEAVE (MAT)	ɡ ɔ ³ ɡ ɔ ¹	ɡ ɔ ³ ɡ ɔ ¹
+87	lay (egg)	pondre	Bangime		ɡɔ̄m-bɔ̀							2071	LAY (VERB)	ɡ ɔ ³ m + b ɔ ¹	ɡ ɔ ³ m + b ɔ ¹
+89	separate; share, divide	séparer; partager, diviser	Bangime		ɡùjɛ̀-ndɛ̀							1119	DIVIDE	ɡ u ¹ dʒ ɛ ¹ + n d ɛ ¹	ɡ u ¹ dʒ ɛ ¹ + n d ɛ ¹
+90	cough (v)	tousser	Bangime		ɡùjɛ̀-rɛ̀							879	COUGH	ɡ u ¹ dʒ ɛ ¹ + r ɛ ¹	ɡ u ¹ dʒ ɛ ¹ + r ɛ ¹
+93	murmur	murmurer	Bangime		ɡùù-ndù (1)							55	WHISPER	ɡ uː ¹ + n d u ¹ #	ɡ uː ¹ + n d u ¹ #
+94	stack (bricks, in layers)	superposer (briques, en couches)	Bangime		ɡùù-ndù (2)								!STACK	ɡ uː ¹ + n d u ¹ #	ɡ uː ¹ + n d u ¹ #
+95	weave strands into rope (by rolling them on one's leg)	tisser des fils pour fabriquer une corde (en les roulant sur sa jambe)	Bangime		ɡùɥɛ̀-rɛ̀							133	!WEAVE (ROPE)	ɡ u ¹ ɥ ɛ ¹ + r ɛ ¹	ɡ u ¹ ɥ ɛ ¹ + r ɛ ¹
+96	rinse out (mouth)	se rincer (la bouche)	Bangime		ɡwìì-ndà								!RINSE	ɡ w iː ¹ + n d a ¹	ɡ w iː ¹ + n d a ¹
+97	throw	jeter	Bangime		ɡwìjì							1456	THROW	ɡ w i ¹ dʒ i ¹	ɡ w i ¹ dʒ i ¹
+99	must	devoir	Bangime		háá-ndì							971	MUST	h aː ⁵ + n d i ¹	h aː ⁵ + n d i ¹
+100	comb or brush (hair)	peigner, brosser (cheveux)	Bangime		hāāsà							2070	COMB (VERB)	h aː ³ s a ¹	h aː ³ s a ¹
+103	die	mourir	Bangime		jā-wɔ̀							1494	DIE	dʒ a ³ + w ɔ ¹	dʒ a ³ + w ɔ ¹
+104	see	voir	Bangime		jāà							1409	SEE	dʒ aː ³¹	dʒ aː ³¹
+107	forgive, pardon	pardonner	Bangime		jààpī-nà							1528	FORGIVE	dʒ aː ¹ p i ³ + n a ¹	dʒ aː ¹ p i ³ + n a ¹
+108	cut (sth)	couper (qch)	Bangime		jāɡà (1)							1432	CUT	dʒ a ³ ɡ a ¹ #	dʒ a ³ ɡ a ¹ #
+110	cross, go across (street, river)	traverser (chemin, fleuve)	Bangime		jāɡà (3)							1367	CROSS	dʒ a ³ ɡ a ¹ #	dʒ a ³ ɡ a ¹ #
+111	blink (eyes)	cligner des yeux	Bangime		jāɡà (4)							1655	BLINK	dʒ a ³ ɡ a ¹ #	dʒ a ³ ɡ a ¹ #
+114	ruin, damage (sth)	gâter	Bangime		jàwⁿɔ̀							1116	DAMAGE	dʒ a ¹ w̃ ∼ ɔ ¹	dʒ a ¹ w̃ ∼ ɔ ¹
+116	fart (v)	péter	Bangime		jàwɔ̀							1159	FART	dʒ a ¹ w ɔ ¹	dʒ a ¹ w ɔ ¹
+117	do	faire	Bangime		jē-rò (1)							813	DO	dʒ e ³ + r o ¹ #	dʒ e ³ + r o ¹ #
+118	get up	se lever	Bangime		jē-rò (2)							1512	RISE (ONESELF)	dʒ e ³ + r o ¹ #	dʒ e ³ + r o ¹ #
+119	become, turn into (sth)	devenir (qch)	Bangime		jē-rò (3)							1990	BECOME	dʒ e ³ + r o ¹ #	dʒ e ³ + r o ¹ #
+120	call	appeler	Bangime		jèndò							1084	CALL	dʒ e ¹ n d o ¹	dʒ e ¹ n d o ¹
+121	(griot) call out the ancestor’s names of (a noble, in praise)	(griot) crier les noms des ancêtres de (qn, pour le flatter)	Bangime		jɛ̀mbì-jɛ̀							1687	PRAISE	dʒ ɛ ¹ m b i ¹ + dʒ ɛ ¹	dʒ ɛ ¹ m b i ¹ + dʒ ɛ ¹
+122	swim	nager	Bangime		jìnà							1439	SWIM	dʒ i ¹ n a ¹	dʒ i ¹ n a ¹
+123	fan; swing (burner) vertically to get coals hot	éventer, ventiler; faire tourner (fourneau) sur le plan vertical afin de chauffer les braises	Bangime		jìrì-ŋɡà							360	FAN ACTION	dʒ i ¹ r i ¹ + ŋ ɡ a ¹	dʒ i ¹ r i ¹ + ŋ ɡ a ¹
+124	fine (sb)	amender (qn)	Bangime		jòŋò-ndà (1)							218	FINE (PENALTY)	dʒ o ¹ ŋ o ¹ + n d a ¹ #	dʒ o ¹ ŋ o ¹ + n d a ¹ #
+129	dance	danser	Bangime		jūm-bà							1879	DANCE	dʒ u ³ m + b a ¹	dʒ u ³ m + b a ¹
+130	pull	tirer (sur)	Bangime		jùmbàà							1455	PULL	dʒ u ¹ m b aː ¹	dʒ u ¹ m b aː ¹
+132	hang up, hook	accrocher, suspendre	Bangime		jūn-dà							357	HANG UP	dʒ u ³ n + d a ¹	dʒ u ³ n + d a ¹
+133	kill	tuer	Bangime		jūrà							1417	KILL	dʒ u ³ r a ¹	dʒ u ³ r a ¹
+134	shave (sb’s head)	raser (la tête de qn)	Bangime		kàà-rà							231	SHAVE	k aː ¹ + r a ¹	k aː ¹ + r a ¹
+135	(sb) be sure, certain (of sth)	(qn) être sur (de qch)	Bangime		kàà-ntɛ̀ɛ̀							509	CERTAIN	k aː ¹ + n t ɛː ¹	k aː ¹ - - - + n t ɛː ¹ - -
+136	scratch, abrade	gratter, érafler	Bangime		kàɡà-jà (1)							1436	SCRATCH	k a ¹ ɡ a ¹ + dʒ a ¹ #	k a ¹ ɡ a ¹ + dʒ a ¹ #
+138	follow, go/come after (sb, sth)	suivre, succéder à (qch, qn)	Bangime		kām-bà							1085	FOLLOW	k a ³ m + b a ¹	k a ³ m + b a ¹
+139	hold by squeezing, pinch	tenir en serrant, pincer	Bangime		kàmbà							378	PINCH	k a ¹ m b a ¹	k a ¹ m b a ¹
+142	get, find	obtenir, gagner	Bangime		kārà							719	FIND	k a ³ r a ¹	k a ³ r a ¹
+143	pound (moistened dough); pound (onions, spices, meat)	piler (pâte mouillée); piler légèrement (oignons, épices, viande)	Bangime		kàrà-bà							354	POUND	k a ¹ r a ¹ + b a ¹	k a ¹ r a ¹ + b a ¹
+146	read	lire	Bangime		kàr-ndà (2)							724	READ	k a ¹ r + n d a ¹ #	k a ¹ r + n d a ¹ #
+147	teach (at school)	enseigner (à l'école)	Bangime		kàr-ndà (3)							709	TEACH	k a ¹ r + n d a ¹ #	k a ¹ r + n d a ¹ #
+148	say	dire	Bangime		kéndé							1458	SAY	k e ⁵ n d e ⁵	k e ⁵ n d e ⁵
+149	uncover (sb, sth), open (door, container)	découvrir (qch, qn), ouvrir (porte, récipient)	Bangime		kèwòò							1156	OPEN	k e ¹ w oː ¹	k e ¹ w oː ¹ - - - -
+150	uncover (sb, sth), open (door, container)	découvrir (qch, qn), ouvrir (porte, récipient)	Bangime		kèwò-rò							1108	UNCOVER	k e ¹ w o ¹ + r o ¹	k e ¹ w o ¹ + r o ¹
+155	spin (cotton)	filer (coton)	Bangime		kɛ̀rndɛ̀ (2)							121	SPIN	k ɛ ¹ r n d ɛ ¹ #	k ɛ ¹ r n d ɛ ¹ #
+156	spin (cotton thread)	filer (fil de coton)	Bangime		kɛ̀rⁿɛ̀							1445	TURN (SOMETHING)	k ɛ ¹ r̃ ∼ ɛ ¹	k ɛ ¹ r̃ ∼ ɛ ¹
+157	reply	répondre	Bangime		kììjà								!REPLY	k iː ¹ dʒ a ¹	k iː ¹ dʒ a ¹
+158	dig	creuser	Bangime		kììndù							1418	DIG	k iː ¹ n d u ¹	k iː ¹ n d u ¹
+160	kneel	s'agenouiller	Bangime		kìŋɡò							66	KNEEL	k i ¹ ŋ ɡ o ¹	k i ¹ ŋ ɡ o ¹
+165	scratch (lightly)	gratter (légèrement)	Bangime		kɔ̀ɡɔ̀jɔ̀								!ITCH (V.)	k ɔ ¹ ɡ ɔ ¹ dʒ ɔ ¹	k ɔ ¹ ɡ ɔ ¹ dʒ ɔ ¹
+168	pick up	prendre	Bangime		kɔ̀mbɛ̀							371	PICK UP	k ɔ ¹ m b ɛ ¹	k ɔ ¹ m b ɛ ¹
+169	snap, break off (sth)	casser, enlever en cassant	Bangime		kɔ̄n-dɔ̀								!SNAP (OFF)	k ɔ ³ n + d ɔ ¹	k ɔ ³ n + d ɔ ¹
+172	(baby) crawl	(enfant) ramper, marcher à quatre pattes	Bangime		kɔ̀ŋɔ̀ndɔ̀							96	CRAWL	k ɔ ¹ ŋ ɔ ¹ n d ɔ ¹	k ɔ ¹ ŋ ɔ ¹ n d ɔ ¹
+173	rake (st); clean up (field, before planting)	ratisser; nettoyer (champs, avant de semer)	Bangime		kɔ̀ɔ̀rɔ̀							338	RAKE	k ɔː ¹ r ɔ ¹	k ɔː ¹ r ɔ ¹
+175	circumcise (boy)	circoncire (garçon)	Bangime		kɔ̀rndɔ̀ (2)							393	CIRCUMCISION	k ɔ ¹ r n d ɔ ¹ #	k ɔ ¹ r n d ɔ ¹ #
+177	repeat (sth)	répéter (qch)	Bangime		kɔ̄rɔ̀ (2)							880	REPEAT	k ɔ ³ r ɔ ¹ #	k ɔ ³ r ɔ ¹ #
+179	steal	voler, dérober	Bangime		kùjⁿɛ̀rɛ̀							713	STEAL	k u ¹ j̃ ∼ ɛ ¹ r ɛ ¹	k u ¹ j̃ ∼ ɛ ¹ r ɛ ¹
+180	carry (baby, sack) on back	porter (enfant, sac) au dos	Bangime		kùmbò (1)							465	CARRY ON BACK	k u ¹ m b o ¹ #	k u ¹ m b o ¹ #
+181	look for (sth, sb)	chercher (qn, qch)	Bangime		kùmbò (2)							1468	LOOK FOR	k u ¹ m b o ¹ #	k u ¹ m b o ¹ #
+182	walk around, take a walk	se promener	Bangime		kùmbò (3)							2890	WALK (TAKE A WALK)	k u ¹ m b o ¹ #	k u ¹ m b o ¹ #
+185	give birth; (plant) bear (fruit)	accoucher; (plante) donner (fruit)	Bangime		kūrà (1)							1195	GIVE BIRTH	k u ³ r a ¹ #	k u ³ r a ¹ #
+186	be born	naître	Bangime		kūrà (2)							1090	BE BORN	k u ³ r a ¹ #	k u ³ r a ¹ #
+189	roll up (e.g. mat); fold (paper, mat)	enrouler (natte etc.); plier (papier, natte)	Bangime		kùrù-mà								!ROLL UP	k u ¹ r u ¹ + m a ¹	k u ¹ r u ¹ + m a ¹
+190	(night) fall	(nuit) tomber	Bangime		kùwⁿɔ̀ (1)							2297	DUSK	k u ¹ w̃ ∼ ɔ ¹ #	k u ¹ w̃ ∼ ɔ ¹ #
+191	(rain) thunder	(pluie) tonner	Bangime		kùwⁿɔ̀ (2)							2378	THUNDER (VERB)	k u ¹ w̃ ∼ ɔ ¹ #	k u ¹ w̃ ∼ ɔ ¹ #
+193	be able to, can (do)	pouvoir (faire)	Bangime		kwàà (1)							972	BE ABLE	k w aː ¹ #	k w aː ¹ #
+194	beg	quémander, mendier	Bangime		kwàà (2)							1828	ASK (REQUEST)	k w aː ¹ #	k w aː ¹ #
+195	cover (sb, with blanket)	couvrir (qn, avec une couverture)	Bangime		kwìjì								!ENCLOSE	k w i ¹ dʒ i ¹	k w i ¹ dʒ i ¹
+197	govern, administer, rule over	gouverner, commander	Bangime		lààmà							382	GOVERN	l aː ¹ m a ¹	l aː ¹ m a ¹
+198	laugh	rire	Bangime		màà							1355	LAUGH	m aː ¹	m aː ¹
+199	want	vouloir	Bangime		māà							1784	WANT	m aː ³¹	m aː ³¹
+200	build	construire	Bangime		màà-rà							1840	BUILD	m aː ¹ + r a ¹	m aː ¹ + r a ¹
+201	shake	secouer	Bangime		māɡà							1909	SHAKE	m a ³ ɡ a ¹	m a ³ ɡ a ¹
+203	add	ajouter	Bangime		màŋɡàà (1)							2882	ADD	m a ¹ ŋ ɡ aː ¹ #	m a ¹ ŋ ɡ aː ¹ #
+204	(sb) assemble (people)	(qn) rassembler (les gens)	Bangime		màŋɡàà (2)							1831	MEET	m a ¹ ŋ ɡ aː ¹ #	m a ¹ ŋ ɡ aː ¹ #
+207	select, choose, pick out	choisir	Bangime		mɛ̀ndɛ̀ (1)							1750	CHOOSE	m ɛ ¹ n d ɛ ¹ #	m ɛ ¹ n d ɛ ¹ #
+211	think	penser, réfléchir	Bangime		mììndà							2271	THINK	m iː ¹ n d a ¹	m iː ¹ n d a ¹
+214	swallow	avaler	Bangime		mīn-dà							897	SWALLOW	m i ³ n + d a ¹	m i ³ n + d a ¹
+215	go in	entrer	Bangime		mīndè							749	ENTER	m i ³ n d e ¹	m i ³ n d e ¹
+216	rot, stink	pourrir, puer	Bangime		mɔ̄ɡɔ̀							2907	ROT	m ɔ ³ ɡ ɔ ¹	m ɔ ³ ɡ ɔ ¹
+218	squeeze, wring	serrer, essorer	Bangime		mɔ̀jⁿɛ̀							1414	SQUEEZE	m ɔ ¹ j̃ ∼ ɛ ¹	m ɔ ¹ j̃ ∼ ɛ ¹
+219	suck	sucer	Bangime		mɔ̀nʤɛ̀							1421	SUCK	m ɔ ¹ n dʒ ɛ ¹	m ɔ ¹ n dʒ ɛ ¹
+220	castrate	castrer	Bangime		mɔ̀ɔ̀lɔ̀							29	GELD	m ɔː ¹ l ɔ ¹	m ɔː ¹ l ɔ ¹
+221	come in	entrer en venant	Bangime		mūn-dà (1)								!COME INSIDE	m u ³ n + d a ¹ #	m u ³ n + d a ¹ #
+223	put on (pants)	mettre, porter (pantalon)	Bangime		mùndà (1)							158	PUT ON	m u ¹ n d a ¹ #	m u ¹ n d a ¹ #
+224	braid (a girl)	tresser (une fille)	Bangime		mùndà (2)							1729	PLAIT OR BRAID OR WEAVE	m u ¹ n d a ¹ #	m u ¹ n d a ¹ #
+227	moisten (garments, earth for construction	mouiller (vêtements, banco)	Bangime		mùwⁿɔ̀-rɔ̀							28	MOISTEN	m u ¹ w̃ ∼ ɔ ¹ + r ɔ ¹	m u ¹ w̃ ∼ ɔ ¹ + r ɔ ¹
+229	come up	venir en montant	Bangime		nā-wɔ̀								!COME UP	n a ³ + w ɔ ¹	n a ³ + w ɔ ¹
+230	stone-grind (e.g. grain); crush (sth, sb)	écraser (céréales etc.) avec des pierres; êcraser (qn, qch)	Bangime		nām-bà							1520	CRUSH	n a ³ m + b a ¹	n a ³ m + b a ¹
+231	post, affix	afficher (qch)	Bangime		nārà								!STICK (V.)	n a ³ r a ¹	n a ³ r a ¹
+232	give	donner	Bangime		nāẁⁿ							1447	GIVE	n a ³ w̃ ∼ ¹	n a ³ w̃ ∼ ¹
+233	guard, watch over (e.g. garden, children)	garder, surveiller (jardin, enfants)	Bangime		nɛ̀bɛ̀								!GUARD (V.)	n ɛ ¹ b ɛ ¹	n ɛ ¹ b ɛ ¹
+234	put up, load	faire monter, charger	Bangime		nɛ̄ɡɛ̀							1679	LOAD	n ɛ ³ ɡ ɛ ¹	n ɛ ³ ɡ ɛ ¹
+235	lock (door)	boucler (porte)	Bangime		nɛ̀ŋɛ̀ndɛ̀								!LOCK (V.)	n ɛ ¹ ŋ ɛ ¹ n d ɛ ¹	n ɛ ¹ ŋ ɛ ¹ n d ɛ ¹
+237	groan; (rain) thunder	gémir; (pluie) tonner	Bangime		nīɡù							716	GROAN	n i ³ ɡ u ¹	n i ³ ɡ u ¹
+238	breathe	respirer	Bangime		nììrù							1407	BREATHE	n iː ¹ r u ¹	n iː ¹ r u ¹
+239	greet	saluer	Bangime		nìjɛ̀-rɛ̀								!GREET	n i ¹ dʒ ɛ ¹ + r ɛ ¹	n i ¹ dʒ ɛ ¹ + r ɛ ¹
+240	say	dire	Bangime		nìŋà								!TALK	n i ¹ ŋ a ¹	n i ¹ ŋ a ¹
+241	hear (sound); detect (odor)	entendre (son); sentir (odeur)	Bangime		nō-rè							1408	HEAR	n o ³ + r e ¹	n o ³ + r e ¹
+242	come	venir	Bangime		nōò							1446	COME	n oː ³¹	n oː ³¹
+243	fix	réparer, régler	Bangime		nùùwⁿà							2243	REPAIR	n uː ¹ w̃ ∼ a ¹	n uː ¹ w̃ ∼ a ¹
+244	pick up, take	prendre	Bangime		ɲà-rⁿà							1749	TAKE	ɲ a ¹ + r̃ ∼ a ¹	ɲ a ¹ + r̃ ∼ a ¹
+245	sleep	dormir	Bangime		ɲām-bà (1)							1585	SLEEP	ɲ a ³ m + b a ¹ #	ɲ a ³ m + b a ¹ #
+248	write	écrire	Bangime		ɲɔ̀ŋɔ̀-ndɔ̀							1672	WRITE	ɲ ɔ ¹ ŋ ɔ ¹ + n d ɔ ¹	ɲ ɔ ¹ ŋ ɔ ¹ + n d ɔ ¹
+249	count	compter	Bangime		ŋììwⁿɔ̀ (1)							1420	COUNT	ŋ iː ¹ w̃ ∼ ɔ ¹ #	ŋ iː ¹ w̃ ∼ ɔ ¹ #
+251	vomit	vomir	Bangime		ŋìjɛ̀ndɛ̀ (1)							1278	VOMIT	ŋ i ¹ dʒ ɛ ¹ n d ɛ ¹ #	ŋ i ¹ dʒ ɛ ¹ n d ɛ ¹ #
+254	drink; (baby) suckle	boire; (enfant) téter	Bangime		ŋìjⁿɛ̀-rɛ̀							2472	SUCKLE (BREASTFEED, NURSE)	ŋ i ¹ j̃ ∼ ɛ ¹ + r ɛ ¹	ŋ i ¹ j̃ ∼ ɛ ¹ + r ɛ ¹
+255	bend (pliable surface, e.g. young gourd fruit)	plier (surface pliante, par ex. jeune fruit du calebassier)	Bangime		ŋɔ̀mbɔ̀-rɔ̀							2004	BEND	ŋ ɔ ¹ m b ɔ ¹ + r ɔ ¹	ŋ ɔ ¹ m b ɔ ¹ + r ɔ ¹
+256	sing	chanter	Bangime		ŋùɥⁿɛ̀-rɛ̀							1261	SING	ŋ u ¹ ɥ ∼ ɛ ¹ + r ɛ ¹	ŋ u ¹ ɥ ∼ ɛ ¹ + r ɛ ¹
+257	walk	marcher	Bangime		ŋùwⁿɔ̀-rɔ̀							1443	WALK	ŋ u ¹ w̃ ∼ ɔ ¹ + r ɔ ¹	ŋ u ¹ w̃ ∼ ɔ ¹ + r ɔ ¹
+258	twist	tordre	Bangime		ŋwììmà							430	TWIST	ŋ w iː ¹ m a ¹	ŋ w iː ¹ m a ¹
+260	gather up	ramasser	Bangime		pàà-rà							7	GATHER	p aː ¹ + r a ¹	p aː ¹ + r a ¹
+261	understand	comprendre	Bangime		pààmìndà							1536	UNDERSTAND	p aː ¹ m i ¹ n d a ¹	p aː ¹ m i ¹ n d a ¹
+263	(sb) feel nostalgic for, miss (sb, sth)	(qn) avois la nostalgie de (qh, qch)	Bangime		pàà-ndà							2328	MISS (SOMEBODY)	p aː ¹ + n d a ¹	p aː ¹ + n d a ¹
+265	put down; bury (corpse)	déposer; enterrer (cadavre)	Bangime		pē-rò							998	PUT	p e ³ + r o ¹	p e ³ + r o ¹
+266	lean on or against (e.g. wall)	s'appuyer sur ou contre (mur etc.)	Bangime		pɛ̀ɡɛ̀rɛ̀							2469	AGAINST	p ɛ ¹ ɡ ɛ ¹ r ɛ ¹	p ɛ ¹ ɡ ɛ ¹ r ɛ ¹
+267	shatter (sth); split (wood, by chopping); rip, tear	briser (qch); fendre (bois), déchirer	Bangime		pɛ̀ndɛ̀ (1)							1437	SPLIT	p ɛ ¹ n d ɛ ¹ #	p ɛ ¹ n d ɛ ¹ #
+269	traverse, cross	traverser	Bangime		pɛ̀ndɛ̀ (3)							1742	TRAVERSE	p ɛ ¹ n d ɛ ¹ #	p ɛ ¹ n d ɛ ¹ #
+270	drive away, expel	chasser, faire partir	Bangime		pɛ̄rɛ̀								!CHASE (AWAY)	p ɛ ³ r ɛ ¹	p ɛ ³ r ɛ ¹
+271	untie (animal, knot); untangle (cord)	détacher (animal, nœud); défaire (tresses); désenchevêtrer (corde)	Bangime		pììndù							352	UNTIE	p iː ¹ n d u ¹	p iː ¹ n d u ¹
+273	(infected wound) swell up, fester	(plaie) gonfler, suppurer	Bangime		pììndù (2)							1573	SWELL	p iː ¹ n d u ¹ #	p iː ¹ n d u ¹ #
+274	sow (seeds)	semer (graines)	Bangime		pījɛ̀ (1)							748	SOW SEEDS	p i ³ dʒ ɛ ¹ #	p i ³ dʒ ɛ ¹ #
+277	jump	sauter	Bangime		pìndò (1)							1829	JUMP	p i ¹ n d o ¹ #	p i ¹ n d o ¹ #
+280	fear, be afraid	avoir peur	Bangime		pìrⁿà							1419	FEAR (BE AFRAID)	p i ¹ r̃ ∼ a ¹	p i ¹ r̃ ∼ a ¹
+281	err, make a mistake, be wrong	avoir tort, faire une faute	Bangime		pìrndà (1)							839	ERR	p i ¹ r n d a ¹ #	p i ¹ r n d a ¹ #
+282	fly away	s'envoler	Bangime		pìrù							1441	FLY (MOVE THROUGH AIR)	p i ¹ r u ¹	p i ¹ r u ¹
+283	shell (e.g. peanuts)	décortiquer (arachides etc.)	Bangime		pɔ̀bɛ̀								!SHELL (V.)	p ɔ ¹ b ɛ ¹	p ɔ ¹ b ɛ ¹
+284	split (nut, e.g. a peanut or kola nut)	fendre (noix, par ex. arachide ou cola)	Bangime		pɔ̀bɛ̀ɛ̀								!HATCH	p ɔ ¹ b ɛː ¹	p ɔ ¹ b ɛː ¹
+288	step on	marcher sur	Bangime		pɔ̄ɡɔ̀							2065	STEP (VERB)	p ɔ ³ ɡ ɔ ¹	p ɔ ³ ɡ ɔ ¹
+289	lift, hold up (e.g. child)	soulever, tenir en haut (enfant etc.)	Bangime		pɔ̀mbɛ̀								!HOLD (UP)	p ɔ ¹ m b ɛ ¹	p ɔ ¹ m b ɛ ¹
+291	dislike, hate (sb, sth)	détester, haïr	Bangime		pɔ̄n-dɔ̀							1607	HATE	p ɔ ³ n + d ɔ ¹	p ɔ ³ n + d ɔ ¹
+294	pick (fruit)	cueiller (fruit)	Bangime		pɔ̀rɔ̀ (1)							2148	PICK	p ɔ ¹ r ɔ ¹ #	p ɔ ¹ r ɔ ¹ #
+296	wash (clothes, dishes)	laver (habits, vaisselle)	Bangime		pūɡà							1453	WASH	p u ³ ɡ a ¹	p u ³ ɡ a ¹
+299	lift (especially sth heavy)	soulever (surtout qqch de lourd)	Bangime		pùɡɛ̀-rɛ̀							501	LIFT	p u ¹ ɡ ɛ ¹ + r ɛ ¹	p u ¹ ɡ ɛ ¹ + r ɛ ¹
+304	tear, rip (cloth, paper)	déchirer (tissu, papier)	Bangime		pùjɛ̀-rɛ̀							1735	TEAR (SHRED)	p u ¹ dʒ ɛ ¹ + r ɛ ¹	p u ¹ dʒ ɛ ¹ + r ɛ ¹
+305	(plant, seeds) sprout	(plante, graines) pousser	Bangime		pūn-dà							2076	SPROUT (VERB)	p u ³ n + d a ¹	p u ³ n + d a ¹
+308	burn (incense)	brûler (encens)	Bangime		pùr-ndà (1)							141	BURN (SOMETHING)	p u ¹ r + n d a ¹ #	p u ¹ r + n d a ¹ #
+310	(blacksmith) forge (iron blade)	(forgeron) forger (une lame)	Bangime		pùwɔ̀-rɔ̀							288	FORGE	p u ¹ w ɔ ¹ + r ɔ ¹	p u ¹ w ɔ ¹ + r ɔ ¹
+314	bring or take down	faire descendre	Bangime		sàà-ndà (1)							692	BRING	s aː ¹ + n d a ¹ #	s aː ¹ + n d a ¹ #
+315	welcome, host (a guest)	accueiller, loger (un étranger)	Bangime		sàà-ndà (2)								!HOST (V.)	s aː ¹ + n d a ¹ #	s aː ¹ + n d a ¹ #
+317	choke (on one’s food)	s'êtrangler (sur qch qu'on mange)	Bangime		sàkà								!CHOKE (ON FOOD)	s a ¹ k a ¹	s a ¹ k a ¹
+327	limp (v)	boiter	Bangime		sèŋèndà							366	LIMP	s e ¹ ŋ e ¹ n d a ¹	s e ¹ ŋ e ¹ n d a ¹
+334	tell (a lie)	mentir, dire (mensonge)	Bangime		sɛ̄rɛ̀ (2)							601	LIE (MISLEAD)	s ɛ ³ r ɛ ¹ #	s ɛ ³ r ɛ ¹ #
+336	(rain) cease	(pluie) s'arrêter	Bangime		sɛ̄rɛ̀ (4)							2115	CEASE OR FINISH	s ɛ ³ r ɛ ¹ #	s ɛ ³ r ɛ ¹ #
+337	ask	demander, interroger	Bangime		sīɡà							1309	ASK (INQUIRE)	s i ³ ɡ a ¹	s i ³ ɡ a ¹
+338	be clean	être propre	Bangime		sīɡà (1)							704	CLEAN	s i ³ ɡ a ¹ #	s i ³ ɡ a ¹ #
+339	(light) shine	(lumière) briller	Bangime		sīɡà (2)							2236	SHINE (EMITTED LIGHT)	s i ³ ɡ a ¹ #	s i ³ ɡ a ¹ #
+341	catch	attraper	Bangime		sījɛ̀ (1)							702	CATCH	s i ³ dʒ ɛ ¹ #	s i ³ dʒ ɛ ¹ #
+343	urinate	uriner	Bangime		sìjɛ̀-rɛ̀							592	PISS	s i ¹ dʒ ɛ ¹ + r ɛ ¹	s i ¹ dʒ ɛ ¹ + r ɛ ¹
+345	(water of spring) pour out; (roof) leak	(eau de source) couler; (toit) suinter	Bangime		sīn-dà								!LEAK	s i ³ n + d a ¹	s i ³ n + d a ¹
+346	rinse	rincer	Bangime		sìŋindà							2904	RINSE	s i ¹ ŋ i n d a ¹	s i ¹ ŋ i n d a ¹
+347	listen	écouter	Bangime		sìwⁿɔ̀ (1)							1608	LISTEN	s i ¹ w̃ ∼ ɔ ¹ #	s i ¹ w̃ ∼ ɔ ¹ #
+348	know	savoir	Bangime		sō-rè (1)							1410	KNOW (SOMETHING)	s o ³ + r e ¹ #	s o ³ + r e ¹ #
+349	recognize (sb, sth)	reconnaître	Bangime		sō-rè (2)							2870	RECOGNIZE (SOMEBODY)	s o ³ + r e ¹ #	s o ³ + r e ¹ #
+352	cover (meal), shut (mouth, eyes)	couvrir (repas), fermer (bouche, yeux)	Bangime		sɔ̄ɡɔ̀							761	COVER	s ɔ ³ ɡ ɔ ¹	s ɔ ³ ɡ ɔ ¹
+353	curse (sb)	maudire	Bangime		sɔ̀ŋɡɔ̀							8	CURSE	s ɔ ¹ ŋ ɡ ɔ ¹	s ɔ ¹ ŋ ɡ ɔ ¹
+360	look at	regarder	Bangime		sùràà							1819	LOOK	s u ¹ r aː ¹	s u ¹ r aː ¹
+361	punch, box (sb)	boxer, donner un coup de poign à	Bangime		sùrù-ɡà							1465	BOX	s u ¹ r u ¹ + ɡ a ¹	s u ¹ r u ¹ + ɡ a ¹
+362	go down	descendre	Bangime		sūɥè							2014	GO DOWN (DESCEND)	s u ³ ɥ e ¹	s u ³ ɥ e ¹
+363	mix, combine (two things)	mélanger (deux choses)	Bangime		sùwɔ̀-rɔ̀							2017	MIX	s u ¹ w ɔ ¹ + r ɔ ¹	s u ¹ w ɔ ¹ + r ɔ ¹
+366	sew	coudre	Bangime		ɕìì-rì							1457	SEW	ɕ iː ¹ + r i ¹	ɕ iː ¹ + r i ¹
+367	burn, roast	brûler, griller	Bangime		ɕììwɔ̀							1962	ROAST (SOMETHING)	ɕ iː ¹ w ɔ ¹	ɕ iː ¹ w ɔ ¹
+368	sneeze	s'éternuer	Bangime		ɕìwⁿɔ̀ (2)							1621	SNEEZE	ɕ i ¹ w̃ ∼ ɔ ¹ #	ɕ i ¹ w̃ ∼ ɔ ¹ #
+369	shoot	tirer (balle)	Bangime		tā-wɔ̀ (1)							1172	SHOOT	t a ³ + w ɔ ¹ #	t a ³ + w ɔ ¹ #
+371	spread out (arms, wet laundry)	étendre (bras, vêtements mouillés)	Bangime		tàà-rà							38	SPREAD OUT	t aː ¹ + r a ¹	t aː ¹ + r a ¹
+373	refuse	refuser	Bangime		tààŋɡà (2)							49	REFUSE	t aː ¹ ŋ ɡ a ¹ #	t aː ¹ ŋ ɡ a ¹ #
+374	accept, receive, take possession of; take (sth) away (from sb)	accepter, recevoir; retirer (qch, à qn)	Bangime		tāɡà (1)								!ACCEPT	t a ³ ɡ a ¹ #	t a ³ ɡ a ¹ #
+377	regret (sth)	regretter (qch)	Bangime		tàjndà							1875	REGRET	t a ¹ dʒ n d a ¹	t a ¹ dʒ n d a ¹
+382	bite, chew; (mosquito, snake) bite (sb); (scorpion) sting (sb)	mordre, mâcher; (moustique, serpent) piquer; (scorpion) piquer	Bangime		tāmbà (1)							1403	BITE	t a ³ m b a ¹ #	t a ³ m b a ¹ #
+383	measure (sth)	mesurer (qch)	Bangime		tām-bà (2)							1506	MEASURE	t a ³ m + b a ¹ #	t a ³ m + b a ¹ #
+385	sit	s'asseoir	Bangime		tē-rò							1416	SIT	t e ³ + r o ¹	t e ³ + r o ¹
+387	learn (a trade)	apprendre (un métier)	Bangime		tèmbò (1)							504	LEARN	t e ¹ m b o ¹ #	t e ¹ m b o ¹ #
+388	instruct (sb, how to do sth)	enseigner, montrer à (qn, comment faire qch)	Bangime		tèmbò (2)								!TRAIN (V.)	t e ¹ m b o ¹ #	t e ¹ m b o ¹ #
+391	(vehicle) get bogged down (in mud or sand)	(voiture) s'embourber, se caler (dans la boue ou le sable)	Bangime		tɛ̀bɛ̀rɛ̀ (2)								!BE STUCK	t ɛ ¹ b ɛ ¹ r ɛ ¹ #	t ɛ ¹ b ɛ ¹ r ɛ ¹ #
+393	forget; cause to forget	oublier; faire oublier	Bangime		tɛ̀ɛ̀-ndɛ̀ (2)							1523	FORGET	t ɛː ¹ + n d ɛ ¹ #	t ɛː ¹ + n d ɛ ¹ #
+394	get lost	se perdre, s'égarer	Bangime		tɛ̀ɛ̀-rɛ̀							423	GET LOST	t ɛː ¹ + r ɛ ¹	t ɛː ¹ + r ɛ ¹
+396	ignite, light (fire)	allumer (feu)	Bangime		tɛ̀ɛ̀-ndà							737	LIGHT (IGNITE)	t ɛː ¹ + n d a ¹	t ɛː ¹ + n d a ¹
+397	push	pousser	Bangime		tɛ̀mbɛ̀							1452	PUSH	t ɛ ¹ m b ɛ ¹	t ɛ ¹ m b ɛ ¹
+400	hammer (sth)	clouer (qch)	Bangime		tɛ̀mbì-jɛ̀								!HAMMER (V.)	t ɛ ¹ m b i ¹ + dʒ ɛ ¹	t ɛ ¹ m b i ¹ + dʒ ɛ ¹
+403	show	montrer	Bangime		tɛ̄rɛ̀							1039	SHOW	t ɛ ³ r ɛ ¹	t ɛ ³ r ɛ ¹
+404	fall	tomber	Bangime		tī-wɔ̀ (1)							1280	FALL	t i ³ + w ɔ ¹ #	t i ³ + w ɔ ¹ #
+405	(bandits) attack, fall on (sb)	(bandits) attaquer, tomber sur (qn)	Bangime		tī-wɔ̀ (2)							722	ATTACK	t i ³ + w ɔ ¹ #	t i ³ + w ɔ ¹ #
+406	run	courir	Bangime		tìɡɛ̀-rɛ̀							1519	RUN	t i ¹ ɡ ɛ ¹ + r ɛ ¹	t i ¹ ɡ ɛ ¹ + r ɛ ¹
+407	begin	commencer	Bangime		tììndà							1806	BEGIN	t iː ¹ n d a ¹	t iː ¹ n d a ¹
+408	(sb) assemble (people)	(qn) rassembler (les gens)	Bangime		tìjɛ̀rɛ̀								!ABSENT	t i ¹ dʒ ɛ ¹ r ɛ ¹	t i ¹ dʒ ɛ ¹ r ɛ ¹
+409	be healthy; be healed, cured	être en bonne santé; se guérir	Bangime		tīn-dà							1364	HEALTHY	t i ³ n + d a ¹	t i ³ n + d a ¹
+411	don, put on (garment)	mettre, porter (un vêtement)	Bangime		tìndè (2)							814	DRESS UP	t i ¹ n d e ¹ #	t i ¹ n d e ¹ #
+412	push on, press	appuyer sur	Bangime		tìŋɡàà							1913	PRESS	t i ¹ ŋ ɡ aː ¹	t i ¹ ŋ ɡ aː ¹
+413	wake up	se réveiller	Bangime		tìŋɡò (1)							1602	WAKE UP	t i ¹ ŋ ɡ o ¹ #	t i ¹ ŋ ɡ o ¹ #
+414	(sun) rise	(soleil) se lever	Bangime		tìŋɡò (2)							568	RISE (MOVE UPWARDS)	t i ¹ ŋ ɡ o ¹ #	t i ¹ ŋ ɡ o ¹ #
+416	drive (vehicle), ride on (donkey)	conduire (voiture,âne)	Bangime		tìŋì-ndà							741	DRIVE	t i ¹ ŋ i ¹ + n d a ¹	t i ¹ ŋ i ¹ + n d a ¹
+417	(food) spoil, become spoiled	(nourriture) pourrir	Bangime		tòjò							569	SPOIL (BECOME SPOILED)	t o ¹ dʒ o ¹	t o ¹ dʒ o ¹
+418	paint, dye, add colors to the surface of (sth)	peinturer, colorer (qch)	Bangime		tòmì-ndà							157	DYE	t o ¹ m i ¹ + n d a ¹	t o ¹ m i ¹ + n d a ¹
+419	knock (on door)	taper (à la porte)	Bangime		tòŋɡò (1)							2396	KNOCK	t o ¹ ŋ ɡ o ¹ #	t o ¹ ŋ ɡ o ¹ #
+422	repay (loan); pay for (sth)	rembourser (prêt); payer (qch)	Bangime		tòŋò-ndà (1)							718	PAY	t o ¹ ŋ o ¹ + n d a ¹ #	t o ¹ ŋ o ¹ + n d a ¹ #
+427	bother, pester, tease (sb)	emmerder, déranger, provoquer (qn)	Bangime		tɔ̀r-ndɔ̀							2869	BOTHER (HARASS)	t ɔ ¹ r + n d ɔ ¹	t ɔ ¹ r + n d ɔ ¹
+428	hang (sth) up	accrocher (qch)	Bangime		tɔ̄rɔ̀ (1)								!HANGING	t ɔ ³ r ɔ ¹ #	t ɔ ³ r ɔ ¹ #
+431	drive (animals)	conduire (animaux)	Bangime		cɔ̀kà							2868	DRIVE (CATTLE)	tʃ ɔ ¹ k a ¹	tʃ ɔ ¹ k a ¹
+436	(sth) pour out	(qch) se verser	Bangime		tùmbè							1487	POUR	t u ¹ m b e ¹	t u ¹ m b e ¹
+437	sell	vendre	Bangime		tūn-dò (1)							1571	SELL	t u ³ n + d o ¹ #	t u ³ n + d o ¹ #
+443	bathe (sb)	laver (qn)	Bangime		tūrà							138	BATHE	t u ³ r a ¹	t u ³ r a ¹
+444	lie down	se coucher	Bangime		tūrù (1)							215	LIE DOWN	t u ³ r u ¹ #	t u ³ r u ¹ #
+445	(sun) set	(soleil) se coucher	Bangime		tūrù (2)							160	SET (HEAVENLY BODIES)	t u ³ r u ¹ #	t u ³ r u ¹ #
+447	carry on head	porter à la tête	Bangime		tùɥɛ̀-rɛ̀ (2)							414	CARRY ON HEAD	t u ¹ ɥ ɛ ¹ + r ɛ ¹ #	t u ¹ ɥ ɛ ¹ + r ɛ ¹ #
+448	spit	cracher	Bangime		tùwì							1440	SPIT	t u ¹ w i ¹	t u ¹ w i ¹
+449	arrive	arriver	Bangime		twàà-rà							1387	ARRIVE	t w aː ¹ + r a ¹	t w aː ¹ + r a ¹
+451	buy	acheter	Bangime		ɥàà-rà							1869	BUY	ɥ aː ¹ + r a ¹	ɥ aː ¹ + r a ¹
+452	go up	monter	Bangime		ɥījè							705	GO UP (ASCEND)	ɥ i ³ dʒ e ¹	ɥ i ³ dʒ e ¹
+454	reap (e.g. rice, with sickle)	récolter (riz etc., avec la faucille)	Bangime		wàà-rà (1)							1827	HARVEST CROPS	w aː ¹ + r a ¹ #	w aː ¹ + r a ¹ #
+455	scoop (water, food, with hand or ladle)	enlever (eau, nourriture, avec la main ou la louche)	Bangime		wàà-rà (2)							2788	LADLE (WATER)	w aː ¹ + r a ¹ #	w aː ¹ + r a ¹ #
+457	(e.g. bullet) miss (target)	(balle etc.) rater (la cible)	Bangime		wɔ̀ɔ̀pà							161	MISS (A TARGET)	w ɔː ¹ p a ¹	w ɔː ¹ p a ¹
+458	go	aller	Bangime		wōrè (1)							695	GO	w o ³ r e ¹ #	w o ³ r e ¹ #
+461	(sb) heat (sth); boil (water)	(qn) chauffer (qch); chauffer, faire bouillir (eau)	Bangime		wùr-ndà							1341	HEAT UP	w u ¹ r + n d a ¹	w u ¹ r + n d a ¹
+462	(sth) get hot, be heated; (water) boil	(qch) se chauffer; (eau) bouillir	Bangime		wùùrà							792	BOIL (OF LIQUID)	w uː ¹ r a ¹	w uː ¹ r a ¹
+465	weep, cry	pleurer	Bangime		ʒīn-dò (1)							1839	CRY	ʒ i ³ n + d o ¹ #	ʒ i ³ n + d o ¹ #
+467	(wind) blow	(vent) souffler	Bangime		ʒīn-dò (3)							175	BLOW (OF WIND)	ʒ i ³ n + d o ¹ #	ʒ i ³ n + d o ¹ #
+468	hang up, hook	accrocher, suspendre	Bangime		ʒūn-dà							1071	HOOK	ʒ u ³ n + d a ¹	ʒ u ³ n + d a ¹
+469	manner, way	manière, façon	Bangime		àbɔ́							488	MANNER	a ¹ b ɔ ⁵	a ¹ b ɔ ⁵
+470	Sunday	dimanche	Bangime		àlà							1699	SUNDAY	a ¹ l a ¹	a ¹ l a ¹
+471	Wednesday	jeudi	Bangime		àlàlbààrɛ̀							1694	WEDNESDAY	a ¹ l a ¹ l b aː ¹ r ɛ ¹	a ¹ l a ¹ l b aː ¹ r ɛ ¹
+472	mosquito net	moustiquaire	Bangime		àlì-kìlɛ̀							2795	MOSQUITO NET	a ¹ l i ¹ + k i ¹ l ɛ ¹	a ¹ l i ¹ + k i ¹ l ɛ ¹
+475	chief (emir)	chef	Bangime		àmìrù							301	CHIEFTAIN	a ¹ m i ¹ r u ¹	a ¹ m i ¹ r u ¹
+478	tea	thé	Bangime		àté							1373	TEA	a ¹ t e ⁵	a ¹ t e ⁵
+481	clothes (collective)	habits (ensemble)	Bangime		bààkùrè							1895	CLOTHES	b aː ¹ k u ¹ r e ¹	b aː ¹ k u ¹ r e ¹
+482	knife	couteau	Bangime		bààⁿ (1)							1352	KNIFE	b ã: ∼ ¹ #	b ã: ∼ ¹ #
+484	fatigue	fatigue	Bangime		bààndà							1140	FATIGUE	b aː ¹ n d a ¹	b aː ¹ n d a ¹
+488	cassava	manioc	Bangime		bànà-ŋ̀-kùù							925	CASSAVA	b a ¹ n a ¹ + ŋ ¹ + k uː ¹	b a ¹ n a ¹ + ŋ ¹ + k uː ¹
+494	ring (halo) around moon or sun	halo lunaire ou solaire	Bangime		bàrì (2)							1467	CIRCLE	b a ¹ r i ¹ #	b a ¹ r i ¹ #
+498	courtyard	cour	Bangime		bɛ́mbɛ̄							4	COURTYARD	b ɛ ⁵ m b ɛ ³	b ɛ ⁵ m b ɛ ³
+502	spleen	rate	Bangime		bɛ́rɛ́ (2)							1744	SPLEEN	b ɛ ⁵ r ɛ ⁵ #	b ɛ ⁵ r ɛ ⁵ #
+503	year	année	Bangime		bììⁿ							1226	YEAR	b ĩː ∼ ¹	b ĩː ∼ ¹
+504	goat	chèvre	Bangime		bīìⁿ							1502	GOAT	b ĩː ∼ ³¹	b ĩː ∼ ³¹
+506	middle	milieu	Bangime		bīīnɔ̀							1093	MIDDLE	b iː ³³ n ɔ ¹	b iː ³³ n ɔ ¹
+507	baby; fruit	enfant; fruit	Bangime		bìjɛ̀								!BABY OR FRUIT	b i ¹ dʒ ɛ ¹	b i ¹ dʒ ɛ ¹
+508	excrement	excréments	Bangime		bījɛ̀							675	FAECES (EXCREMENT)	b i ³ dʒ ɛ ¹	b i ³ dʒ ɛ ¹
+551	ground millet; powder, flour	mil écrasé; poudre, farine	Bangime		būùⁿ								!POWDER	b ũː ∼ ¹⁵	b ũː ∼ ¹⁵
+586	talk, words	parole	Bangime		dìɡà							2708	TALK	d i ¹ ɡ a ¹	d i ¹ ɡ a ¹
+593	hole, pit	trou, fossé	Bangime		dòmbò							1667	HOLE	d o ¹ m b o ¹	d o ¹ m b o ¹
+604	day (unit of time)	jour (unité de temps)	Bangime		dɔ̄ndɛ̀							1260	DAY (24 HOURS)	d ɔ ³ n d ɛ ¹	d ɔ ³ n d ɛ ¹
+621	tree (any)	arbre	Bangime		dwàà							906	TREE	d w aː ¹	d w aː ¹
+634	earth, country, mud, banco	terre, pays, banco	Bangime		ʤúɥɛ́							1228	EARTH (SOIL)	dʒ u ⁵ ɥ ɛ ⁵	dʒ u ⁵ ɥ ɛ ⁵
+637	turban	turban	Bangime		fìrkó							331	HEADDRESS	f i ¹ r k o ⁵	f i ¹ r k o ⁵
+638	Friday	vendredi	Bangime		ɡā-ʤùmà							1692	FRIDAY	ɡ a ³ + dʒ u ¹ m a ¹	ɡ a ³ + dʒ u ¹ m a ¹
+639	Saturday	samedi	Bangime		ɡā-sìbì							1700	SATURDAY	ɡ a ³ + s i ¹ b i ¹	ɡ a ³ + s i ¹ b i ¹
+640	Monday	lundi	Bangime		ɡā-tɛ̀ɛ̀ⁿ							1697	MONDAY	ɡ a ³ + t ɛ̃ː ∼ ¹	ɡ a ³ + t ɛ̃ː ∼ ¹
+641	belch (n), burp (n)	roter, éructer	Bangime		ɡààw							2789	BURP	ɡ aː ¹ w	ɡ aː ¹ w
+643	world	monde	Bangime		ɡàʤíjⁿɛ́							965	WORLD	ɡ a ¹ dʒ i ⁵ j̃ ∼ ɛ ⁵	ɡ a ¹ dʒ i ⁵ j̃ ∼ ɛ ⁵
+646	sweat (n)	sueur	Bangime		ɡáná-wà							125	SWEAT (SUBSTANCE)	ɡ a ⁵ n a ⁵ + w a ¹	ɡ a ⁵ n a ⁵ + w a ¹
+647	place, land, terrain	lieu, endroit, terre, terrain	Bangime		ɡāndà							626	LAND	ɡ a ³ n d a ¹	ɡ a ³ n d a ¹
+648	ancestor	ancêtre	Bangime		ɡándē								!PREDECESSOR	ɡ a ⁵ n d e ³	ɡ a ⁵ n d e ³
+651	guard, watchman	gardien, vigil	Bangime		ɡàrdìŋɛ̀							1940	GUARD	ɡ a ¹ r d i ¹ ŋ ɛ ¹	ɡ a ¹ r d i ¹ ŋ ɛ ¹
+655	loom	métier à tisser	Bangime		ɡèè							1787	LOOM	ɡ eː ¹	ɡ eː ¹
+658	iron, metal	fer, métal	Bangime		ɡɛ́ŋɡɛ̄								!IRON OR METAL	ɡ ɛ ⁵ ŋ ɡ ɛ ³	ɡ ɛ ⁵ ŋ ɡ ɛ ³
+659	crocodile	crocodile	Bangime		ɡɛ̀ŋɡɛ́							1857	CROCODILE	ɡ ɛ ¹ ŋ ɡ ɛ ⁵	ɡ ɛ ¹ ŋ ɡ ɛ ⁵
+662	back (body)	dos	Bangime		ɡīìⁿ							1291	BACK	ɡ ĩː ∼ ³¹	ɡ ĩː ∼ ³¹
+663	lie, falsehood	mensonge	Bangime		ɡìjɛ̀ (1)							2826	LIE (FALSEHOOD)	ɡ i ¹ dʒ ɛ ¹ #	ɡ i ¹ dʒ ɛ ¹ #
+665	broom	balai	Bangime		ɡíjɛ́rⁿɛ̀							245	BROOM	ɡ i ⁵ dʒ ɛ ⁵ r̃ ∼ ɛ ¹	ɡ i ⁵ dʒ ɛ ⁵ r̃ ∼ ɛ ¹
+668	hiccough (n)	hoquet	Bangime		ɡìkóɛ̀							162	HICCOUGH	ɡ i ¹ k o ⁵ ɛ ¹	ɡ i ¹ k o ⁵ ɛ ¹
+671	hare	lièvre	Bangime		ɡìrìmɛ̀							1190	HARE	ɡ i ¹ r i ¹ m ɛ ¹	ɡ i ¹ r i ¹ m ɛ ¹
+675	aunt	tante	Bangime		ɡòɡò							1272	AUNT	ɡ o ¹ ɡ o ¹	ɡ o ¹ ɡ o ¹
+677	step, notch (cut in wooden ladder)	entaille (dans une échelle en bois)	Bangime		ɡòmpàà							1158	STEP	ɡ o ¹ m p aː ¹	ɡ o ¹ m p aː ¹
+679	throat	gorge	Bangime		ɡòndò							1346	THROAT	ɡ o ¹ n d o ¹	ɡ o ¹ n d o ¹
+681	rice	riz	Bangime		ɡɔ́mɛ̀							926	RICE	ɡ ɔ ⁵ m ɛ ¹	ɡ ɔ ⁵ m ɛ ¹
+684	chest; flank, side at ribs (body)	poitrine; flanc (du corps)	Bangime		ɡɔ̀ndɛ̀							1592	CHEST	ɡ ɔ ¹ n d ɛ ¹	ɡ ɔ ¹ n d ɛ ¹
+687	baboon	babouin	Bangime		ɡúmbɛ̄							1197	BABOON	ɡ u ⁵ m b ɛ ³	ɡ u ⁵ m b ɛ ³
+691	owl	hibou	Bangime		ɡùmbì (1)							735	OWL	ɡ u ¹ m b i ¹ #	ɡ u ¹ m b i ¹ #
+693	bottom, base	fond, base	Bangime		ɡùrù							690	BOTTOM	ɡ u ¹ r u ¹	ɡ u ¹ r u ¹
+694	man	homme	Bangime		ɡùwⁿɔ̀							1554	MAN	ɡ u ¹ w̃ ∼ ɔ ¹	ɡ u ¹ w̃ ∼ ɔ ¹
+696	river; pond; irrigation ditch	rivière; mare; fossé d'irrigation	Bangime		ɡúwó							666	RIVER	ɡ u ⁵ w o ⁵	ɡ u ⁵ w o ⁵
+698	age, long life	âge, longévité	Bangime		ɡwìì							1789	AGE	ɡ w iː ¹	ɡ w iː ¹
+700	need	besoin	Bangime		hààʤɛ́							643	NEED (NOUN)	h aː ¹ dʒ ɛ ⁵	h aː ¹ dʒ ɛ ⁵
+701	amazement, wonder	étonnement, merveille	Bangime		hàjndɛ́							1572	SURPRISED	h a ¹ dʒ n d ɛ ⁵	h a ¹ dʒ n d ɛ ⁵
+707	freeborn person, noble (not slave or of caste)	personne noble (ni esclave ni de caste)	Bangime		hɔ̄ɔ̄rɔ̀							482	NOBLE	h ɔː ³ r ɔ ¹	h ɔː ³ r ɔ ¹
+710	young woman	jeune femme	Bangime		jáá-pùjɛ̀							1646	GIRL	dʒ aː ⁵ + p u ¹ dʒ ɛ ¹	- - - dʒ aː ⁵ + p u ¹ dʒ ɛ ¹
+711	child	enfant	Bangime		jáá-mbɛ̀							2099	CHILD	dʒ aː ⁵ + m b ɛ ¹	dʒ aː ⁵ + m b ɛ ¹
+714	onion	oignon	Bangime		jāɡàɛ̀ɛ̀							2366	ONION	dʒ a ³ ɡ a ¹ ɛː ¹	dʒ a ³ ɡ a ¹ ɛː ¹
+715	crowd	foule	Bangime		jámbā							2023	CROWD	dʒ a ⁵ m b a ³	dʒ a ⁵ m b a ³
+716	shed, stall, palaver shed	hangar	Bangime		jàŋà							851	STABLE	dʒ a ¹ ŋ a ¹	dʒ a ¹ ŋ a ¹
+717	shout (n)	cri	Bangime		jèrè							715	SHOUT	dʒ e ¹ r e ¹	dʒ e ¹ r e ¹
+719	road, path	chemin	Bangime		jɛ̀mbɛ̀							2457	PATH OR ROAD	dʒ ɛ ¹ m b ɛ ¹	dʒ ɛ ¹ m b ɛ ¹
+723	person	personne	Bangime		jìbɛ̀							683	PERSON	dʒ i ¹ b ɛ ¹	dʒ i ¹ b ɛ ¹
+724	chameleon	caméléon	Bangime		jíɡí-jáɡájɛ̀							1555	CHAMELEON	dʒ i ⁵ ɡ i ⁵ + dʒ a ⁵ ɡ a ⁵ dʒ ɛ ¹	dʒ i ⁵ ɡ i ⁵ + dʒ a ⁵ ɡ a ⁵ dʒ ɛ ¹
+725	pocket	poche	Bangime		jīī-bɛ̀							1851	POCKET	dʒ iː ³³ + b ɛ ¹	dʒ iː ³³ + b ɛ ¹
+727	rainbow	arc-en-ciel	Bangime		jìì-kɔ́ɔ́rɛ̀							1733	RAINBOW	dʒ iː ¹ + k ɔː ⁵ r ɛ ¹	dʒ iː ¹ + k ɔː ⁵ r ɛ ¹
+729	visitor, guest	étranger, invité	Bangime		jīī-tūwⁿɔ̀								!GUEST OR STRANGER	dʒ iː ³³ + t u ³ w̃ ∼ ɔ ¹	dʒ iː ³³ + t u ³ w̃ ∼ ɔ ¹
+730	night	nuit	Bangime		jììjè							1233	NIGHT	dʒ iː ¹ dʒ e ¹	dʒ iː ¹ dʒ e ¹
+731	evening meal, supper	repas du soir, dîner	Bangime		jììjē-hùⁿ-pɔ́wⁿ							1833	DINNER (SUPPER)	dʒ iː ¹ dʒ e ³ + h ũ ∼ ¹ + p ɔ ⁵ w̃ ∼	dʒ iː ¹ dʒ e ³ + h ũ ∼ ¹ + p ɔ ⁵ w̃ ∼
+733	honey	miel	Bangime		jījɛ̀							942	HONEY	dʒ i ³ dʒ ɛ ¹	dʒ i ³ dʒ ɛ ¹
+734	smoke, steam	fumée, vapeur	Bangime		jìjɛ̀ (1)							1193	STEAM	dʒ i ¹ dʒ ɛ ¹ #	dʒ i ¹ dʒ ɛ ¹ #
+737	blood	sang	Bangime		jījì							946	BLOOD	dʒ i ³ dʒ i ¹	dʒ i ³ dʒ i ¹
+738	root	racine	Bangime		jíjíì							670	ROOT	dʒ i ⁵ dʒ iː ⁵¹	dʒ i ⁵ dʒ iː ⁵¹
+742	animal	animal	Bangime		jíríbɛ̀							619	ANIMAL	dʒ i ⁵ r i ⁵ b ɛ ¹	dʒ i ⁵ r i ⁵ b ɛ ¹
+746	penis	sexe de l'homme	Bangime		jómbórò							1222	PENIS	dʒ o ⁵ m b o ⁵ r o ¹	dʒ o ⁵ m b o ⁵ r o ¹
+748	comb (of rooster); ridge or ball-shaped tuft of hair in some coiffures (e.g. mohawk)	crête (d'un coq); crête ou boule de cheveux en haut de certaines coiffures	Bangime		jɔ̀mbɔ̀							188	COMB OF BIRD	dʒ ɔ ¹ m b ɔ ¹	dʒ ɔ ¹ m b ɔ ¹
+751	sorceror	sorcier	Bangime		jɔ́wⁿ-tjɛ̀ɛ̀ⁿ							823	SORCERER	dʒ ɔ ⁵ w̃ ∼ + t dʒ ɛ̃ː ∼ ¹	dʒ ɔ ⁵ w̃ ∼ + t dʒ ɛ̃ː ∼ ¹
+753	fly (n)	mouche	Bangime		jùrì							1504	FLY (INSECT)	dʒ u ¹ r i ¹	dʒ u ¹ r i ¹
+754	dance (n)	danse	Bangime		jūwⁿɔ̀								DANCE (N.)	dʒ u ³ w̃ ∼ ɔ ¹	dʒ u ³ w̃ ∼ ɔ ¹
+758	old person; parent(s); ancestor(s)	vieille personne; parent(s) (père, mère); ancêtre(s)	Bangime		kāàⁿ							1669	ANCESTORS	k ã: ∼ ³¹	k ã: ∼ ³¹
+766	tweezers (for removing splinters), tongs (of blacksmith)	pinces (pour enlever les échardes); pinces (du forgeron)	Bangime		kámbá-rà							272	TONGS	k a ⁵ m b a ⁵ + r a ¹	k a ⁵ m b a ⁵ + r a ¹
+768	husband	mari	Bangime		kàndè							1200	HUSBAND	k a ¹ n d e ¹	k a ¹ n d e ¹
+774	gold	or	Bangime		kàŋŋɛ̀							1369	GOLD	k a ¹ ŋ ŋ ɛ ¹	k a ¹ ŋ ŋ ɛ ¹
+779	jail	prison, cachot	Bangime		kàsó							1281	PRISON	k a ¹ s o ⁵	k a ¹ s o ⁵
+782	lower jaw	mâchoire inférieure	Bangime		kāwⁿɔ̀							798	JAW	k a ³ w̃ ∼ ɔ ¹	k a ³ w̃ ∼ ɔ ¹
+786	silence, quiet (n)	silence	Bangime		kéré-kérè							1314	QUIET	k e ⁵ r e ⁵ + k e ⁵ r e ¹	k e ⁵ r e ⁵ + k e ⁵ r e ¹
+789	thing; (plural also:) gear, baggage	chose; (au pluriel aussi) bagage, matériel	Bangime		kɛ́							738	THING	k ɛ ⁵	k ɛ ⁵
+793	cheek	joue	Bangime		kɛ̄ɛ̀ⁿ (1)							1730	CHEEK	k ɛ ³ ɛ̃ ∼ ¹ #	k ɛ ³ ɛ̃ ∼ ¹ #
+795	mat	natte	Bangime		kɛ̀ɡɛ̀rɛ̀							195	MAT	k ɛ ¹ ɡ ɛ ¹ r ɛ ¹	k ɛ ¹ ɡ ɛ ¹ r ɛ ¹
+797	snake (any)	serpent (tout)	Bangime		kɛ́r(ɛ́)-ń-dɛ́-kɛ̀							730	SNAKE	k ɛ ⁵ r ɛ ⁵ + n ⁵ + d ɛ ⁵ + k ɛ ¹	k ɛ ⁵ r ɛ ⁵ + n ⁵ + d ɛ ⁵ + k ɛ ¹
+798	side	côté	Bangime		kɛ̀rɛ̀							682	SIDE	k ɛ ¹ r ɛ ¹	k ɛ ¹ r ɛ ¹
+803	branch	branche	Bangime		kììjɛ̀(ɛ̀)							1531	BRANCH	k iː ¹ dʒ ɛ ¹ ɛ ¹	k iː ¹ dʒ ɛ ¹ ɛ ¹
+805	boat (skiff)	pirogue	Bangime		kīìⁿ							1844	BOAT	k ĩː ∼ ³¹	k ĩː ∼ ³¹
+806	lion	lion	Bangime		kìjɛ̀ (1)							1386	LION	k i ¹ dʒ ɛ ¹ #	k i ¹ dʒ ɛ ¹ #
+810	piece (of sth)	morceau (de qch)	Bangime		kímbō							594	PIECE	k i ⁵ m b o ³	k i ⁵ m b o ³
+814	skin	peau	Bangime		kìŋɡɛ̀ (1)							763	SKIN	k i ¹ ŋ ɡ ɛ ¹ #	k i ¹ ŋ ɡ ɛ ¹ #
+821	doorway	porte (passage)	Bangime		kò-nɔ̀wⁿ							80	DOORPOST	k o ¹ + n ɔ ¹ w̃ ∼	k o ¹ + n ɔ ¹ w̃ ∼
+823	shell (carapace of tortoise)	carapace (de tortue)	Bangime		kómbē (1)							598	SHELL	k o ⁵ m b e ³ #	k o ⁵ m b e ³ #
+825	armpit (where baby is picked up)	aisselle (où on prend un bébé)	Bangime		kōmpàà							1886	ARMPIT	k o ³ m p aː ¹	k o ³ m p aː ¹
+827	fight (n), war	lutte, guerre	Bangime		kóré							1423	FIGHT	k o ⁵ r e ⁵	k o ⁵ r e ⁵
+828	belly	ventre	Bangime		kòrè							1251	BELLY	k o ¹ r e ¹	k o ¹ r e ¹
+830	interior, inside(s)	intérieur	Bangime		kōrò							1606	INSIDE	k o ³ r o ¹	k o ³ r o ¹
+831	donkey	âne	Bangime		kóróŋɡò							1862	DONKEY	k o ⁵ r o ⁵ ŋ ɡ o ¹	k o ⁵ r o ⁵ ŋ ɡ o ¹
+838	shoes	chaussures	Bangime		kɔ̀kɛ̀							1381	SHOE	k ɔ ¹ k ɛ ¹	k ɔ ¹ k ɛ ¹ - - -
+839	parrot	perroquet	Bangime		kɔ̄kɛ̀ (1)							882	PARROT	k ɔ ³ k ɛ ¹ #	k ɔ ³ k ɛ ¹ #
+843	slave	esclave	Bangime		kɔ̀mɛ̀							812	SLAVE	k ɔ ¹ m ɛ ¹	k ɔ ¹ m ɛ ¹
+845	afternoon	après-midi	Bangime		kɔ̄mpè							1807	AFTERNOON	k ɔ ³ m p e ¹	k ɔ ³ m p e ¹
+854	wall	mur	Bangime		kɔ́rⁿɔ́							933	WALL (OF HOUSE)	k ɔ ⁵ r̃ ∼ ɔ ⁵	k ɔ ⁵ r̃ ∼ ɔ ⁵
+858	shin (tibia)	tibia	Bangime		kɔ̀rɔ̀ (3)							186	SHIN	k ɔ ¹ r ɔ ¹ #	k ɔ ¹ r ɔ ¹ #
+859	resin, tree gum, gum arabic	gomme d'arbre, gomme arabique	Bangime		kɔ̀rɔ̀-ǹ-dɔ̀mbɔ̀							664	RESIN	k ɔ ¹ r ɔ ¹ + n ¹ + d ɔ ¹ m b ɔ ¹	k ɔ ¹ r ɔ ¹ + n ¹ + d ɔ ¹ m b ɔ ¹
+861	hip	hanche	Bangime		kù(ù)ⁿ							1745	HIP	k u ¹ u ¹ ∼	k u ¹ u ¹ ∼
+862	egg	œuf	Bangime		kú(ú)ⁿ (1)							744	EGG	k u ⁵ u ⁵ ∼ #	k u ⁵ u ⁵ ∼ #
+863	market	marché	Bangime		kú(ú)ⁿ (2)							633	MARKET	k u ⁵ u ⁵ ∼ #	k u ⁵ u ⁵ ∼ #
+866	scales (of fish or snake)	écailles	Bangime		kūjɛ̀							266	SCALE	k u ³ dʒ ɛ ¹	k u ³ dʒ ɛ ¹
+868	roof	toit	Bangime		kùmbè							769	ROOF	k u ¹ m b e ¹	k u ¹ m b e ¹
+869	a walk (stroll)	promenade	Bangime		kūmbò								!STROLL	k u ³ m b o ¹	k u ³ m b o ¹
+870	tortoise	tortue	Bangime		kūmɛ̀							895	TORTOISE	k u ³ m ɛ ¹	k u ³ m ɛ ¹
+874	stool	escabeau	Bangime		kùndùɛ̀ɛ̀							2058	STOOL	k u ¹ n d u ¹ ɛː ¹	k u ¹ n d u ¹ ɛː ¹
+876	kidney	rein, rognon	Bangime		kùŋkúyⁿɛ̀							489	KIDNEY	k u ¹ ŋ k u ⁵ j ∼ ɛ ¹	k u ¹ ŋ k u ⁵ j ∼ ɛ ¹
+877	dog	chien	Bangime		kùrɛ̀ɛ̀							2009	DOG	k u ¹ r ɛː ¹	k u ¹ r ɛː ¹
+879	dust	poussière	Bangime		kúrí							2	DUST	k u ⁵ r i ⁵	k u ⁵ r i ⁵
+881	hump (on back of cow or camel), curved back (of person)	bosse (au dos d'une vache ou d'un chameau), dos courbé (d'une personne)	Bangime		kùrì (2)							534	HUMP	k u ¹ r i ¹ #	k u ¹ r i ¹ #
+885	ladle; spoon	louche; cuiller	Bangime		kūrū-bà							1378	SPOON	k u ³ r u ³ + b a ¹	k u ³ r u ³ + b a ¹
+886	intestines	intestin	Bangime		kūrū-bɛ̀ (1)							1991	INTESTINES	k u ³ r u ³ + b ɛ ¹ #	k u ³ r u ³ + b ɛ ¹ #
+888	stomach; rumen (of livestock animal)	estomac; gros estomac (de ruminant)	Bangime		kūrū-bɛ̄-bōɡò							1334	GUTS	k u ³ r u ³ + b ɛ ³ + b o ³ ɡ o ¹	k u ³ r u ³ + b ɛ ³ + b o ³ ɡ o ¹
+890	wedding	noces	Bangime		kùtúú							1259	WEDDING	k u ¹ t uː ⁵	k u ¹ t uː ⁵
+891	yam (Dioscorea, commercialized)	igname (Dioscorea, commercialisée)	Bangime		kùù							410	YAM	k uː ¹	k uː ¹
+894	calabash	calebasse	Bangime		kūɥɛ̀ (1)							411	GOURD	k u ³ ɥ ɛ ¹ #	k u ³ ɥ ɛ ¹ #
+895	shell (of nut); bark (of tree)	coque (de noix); écorce	Bangime		kūɥɛ̀ (2)								!BARK OR SHELL	k u ³ ɥ ɛ ¹ #	k u ³ ɥ ɛ ¹ #
+896	pestle	pilon	Bangime		kùwⁿɛ̀ɛ̀							225	PESTLE	k u ¹ w̃ ∼ ɛː ¹	k u ¹ w̃ ∼ ɛː ¹
+897	digit (finger, toe)	doigt ou orteil	Bangime		kūwⁿɛ̀ɛ̀							1896	FINGERNAIL OR TOENAIL	k u ³ w̃ ∼ ɛː ¹	k u ³ w̃ ∼ ɛː ¹
+898	sickle	faucille	Bangime		kúwⁿɔ́							341	SICKLE	k u ⁵ w̃ ∼ ɔ ⁵	k u ⁵ w̃ ∼ ɔ ⁵
+899	shoulder; wing	épaule; aile	Bangime		kúwó								!SHOULDER OR WING	k u ⁵ w o ⁵	k u ⁵ w o ⁵
+900	house	maison	Bangime		kūwò							1252	HOUSE	k u ³ w o ¹	k u ³ w o ¹
+906	neck	cou	Bangime		kwāà (1)							1333	NECK	k w aː ³¹ #	k w aː ³¹ #
+907	voice	voix	Bangime		kwāà (2)							1363	VOICE	k w aː ³¹ #	k w aː ³¹ #
+914	hair	cheveux	Bangime		kwìì							1040	HAIR	k w iː ¹	k w iː ¹
+915	blanket	couverture (pour dormir)	Bangime		kwīī-sɔ̄ẁⁿ							806	BLANKET	k w iː ³³ + s ɔ ³ w̃ ∼ ¹	k w iː ³³ + s ɔ ³ w̃ ∼ ¹
+919	liana (Tinospora)	liane (Tinospora)	Bangime		kwóó-(ⁿ)-jíjíí							2388	LIANA	k w oː ⁵ + ∼ + dʒ i ⁵ dʒ iː ⁵	k w oː ⁵ + ∼ + dʒ i ⁵ dʒ iː ⁵
+921	beetle, bug	coléoptère, punaise	Bangime		kwóómbɛ̀							620	INSECT	k w oː ⁵ m b ɛ ¹	k w oː ⁵ m b ɛ ¹
+926	(modern) lamp	lampe (moderne)	Bangime		làmpá							625	LAMP	l a ¹ m p a ⁵	l a ¹ m p a ⁵
+927	tax	impôt	Bangime		làmpó							873	TAX	l a ¹ m p o ⁵	l a ¹ m p o ⁵
+932	bell (for donkey etc.)	cloche (pour l'âne etc.)	Bangime		lèŋɡúrú							2246	BELL	l e ¹ ŋ ɡ u ⁵ r u ⁵	l e ¹ ŋ ɡ u ⁵ r u ⁵
+938	okra	gombo	Bangime		mààjí							1737	OKRA	m aː ¹ dʒ i ⁵	m aː ¹ dʒ i ⁵
+941	plastic	plastique, cautchouc	Bangime		mànà							654	PLASTIC	m a ¹ n a ¹	m a ¹ n a ¹
+943	papaya	papaye	Bangime		mànʤó							2445	PAPAYA	m a ¹ n dʒ o ⁵	m a ¹ n dʒ o ⁵
+947	mango	mangue	Bangime		màŋɡó-ró							2398	MANGO	m a ¹ ŋ ɡ o ⁵ + r o ⁵	m a ¹ ŋ ɡ o ⁵ + r o ⁵
+949	devil, djinn	djinn, diable	Bangime		márá-ɡà-jɛ̀							1973	DEMON	m a ⁵ r a ⁵ + ɡ a ¹ + dʒ ɛ ¹	m a ⁵ r a ⁵ + ɡ a ¹ + dʒ ɛ ¹
+951	bull (uncastrated)	taureau (non castré)	Bangime		màrⁿà							1008	BULL	m a ¹ r̃ ∼ a ¹	m a ¹ r̃ ∼ a ¹
+952	hammer	marteau	Bangime		màrtó							1481	HAMMER	m a ¹ r t o ⁵	m a ¹ r t o ⁵
+953	scissors	ciseaux	Bangime		mɛ̀sɛ̀-kɛ̀rɛ̀							356	SHEARS	m ɛ ¹ s ɛ ¹ + k ɛ ¹ r ɛ ¹	m ɛ ¹ s ɛ ¹ + k ɛ ¹ r ɛ ¹
+954	dew	rosée	Bangime		mììŋɡá							1977	DEW	m iː ¹ ŋ ɡ a ⁵	m iː ¹ ŋ ɡ a ⁵
+955	mosque	mosquée	Bangime		míírù							1603	MOSQUE	m iː ⁵ r u ¹	m iː ⁵ r u ¹
+958	caterpillar, larva, grub	chenille, larve	Bangime		míndī							2247	CATERPILLAR	m i ⁵ n d i ³	m i ⁵ n d i ³
+961	place	lieu	Bangime		mírⁿà							723	PLACE (POSITION)	m i ⁵ r̃ ∼ a ¹	m i ⁵ r̃ ∼ a ¹
+962	door (physical object)	battant de porte	Bangime		mìrⁿà (1)							1567	DOOR	m i ¹ r̃ ∼ a ¹ #	m i ¹ r̃ ∼ a ¹ #
+966	(man-made) apiary (hollowed out log, in trees)	ruche (en bois creux, dans les arbres)	Bangime		míró-ḿ-páɡà								!APIARY	m i ⁵ r o ⁵ + m ⁵ + p a ⁵ ɡ a ¹	m i ⁵ r o ⁵ + m ⁵ + p a ⁵ ɡ a ¹
+967	vehicle (four or more wheels), car, bus, truck	voiture (quatre roux), car, camion	Bangime		mòbé							2167	VEHICLE (CLASSIFIER)	m o ¹ b e ⁵	m o ¹ b e ⁵
+968	motorcycle	moto	Bangime		mòtó(ó)							638	MOTORCYCLE	m o ¹ t o ⁵ o ⁵	m o ¹ t o ⁵ o ⁵
+972	hunger	faim	Bangime		mūjⁿɛ̀							1864	HUNGER	m u ³ j̃ ∼ ɛ ¹	m u ³ j̃ ∼ ɛ ¹
+973	torch (for removing bees from apiary)	flambeau (sert à chasser les abeilles de la ruche)	Bangime		mùndɛ̀							1919	TORCH	m u ¹ n d ɛ ¹	m u ¹ n d ɛ ¹
+975	sugar cane	canne à sucre	Bangime		mùrè							146	SUGAR CANE	m u ¹ r e ¹	m u ¹ r e ¹
+979	manure (used as fertilizer)	fumier	Bangime		mūùⁿ							676	SHIT (DEFECATE)	m ũː ∼ ¹⁵	m ũː ∼ ¹⁵
+982	the bush	la brousse	Bangime		náà							1683	BUSH	n a: ⁵¹	n a: ⁵¹
+983	cow	vache	Bangime		nàà							1007	COW	n aː ¹	n aː ¹
+984	gazelle	biche, gazelle	Bangime		náá-ḿ-bííⁿ							5	GAZELLE	n aː ⁵ + m ⁵ + b ĩː ∼ ⁵	n aː ⁵ + m ⁵ + b ĩː ∼ ⁵
+987	buffalo	buffle	Bangime		náá-ń-nàà							934	BUFFALO	n aː ⁵ + n ⁵ + n aː ¹	n aː ⁵ + n ⁵ + n aː ¹
+988	banana	banane	Bangime		nàmàsá							868	BANANA	n a ¹ m a ¹ s a ⁵	n a ¹ m a ¹ s a ⁵
+992	host (of a lodger)	logeur	Bangime		nʤààtìɡì							1545	HOST	n dʒ aː ¹ t i ¹ ɡ i ¹	n dʒ aː ¹ t i ¹ ɡ i ¹
+993	uncle	oncle	Bangime		nèrè							1327	UNCLE	n e ¹ r e ¹	n e ¹ r e ¹
+996	hand	main	Bangime		nìì							1277	HAND	n iː ¹	n iː ¹
+997	name	nom	Bangime		nīì							1405	NAME	n iː ³¹	n iː ³¹
+999	elbow	coude	Bangime		nìī-ŋ̄-kùmbɛ̀							981	ELBOW	n i ¹ i ³ + ŋ ³ + k u ¹ m b ɛ ¹	n i ¹ i ³ + ŋ ³ + k u ¹ m b ɛ ¹
+1000	finger	doigt	Bangime		nìī-ŋ̄-kūwⁿɛ̀ɛ̀							1303	FINGER	n i ¹ i ³ + ŋ ³ + k u ³ w̃ ∼ ɛː ¹	n i ¹ i ³ + ŋ ³ + k u ³ w̃ ∼ ɛː ¹
+1001	rainy season	hivernage, saison pluvieuse	Bangime		nìjè							453	RAINY SEASON	n i ¹ dʒ e ¹	n i ¹ dʒ e ¹
+1002	milk	lait	Bangime		níjɛ́							635	MILK	n i ⁵ dʒ ɛ ⁵	n i ⁵ dʒ ɛ ⁵
+1003	sun	soleil	Bangime		nìjɛ̀ (1)							1343	SUN	n i ¹ dʒ ɛ ¹ #	n i ¹ dʒ ɛ ¹ #
+1004	day	jour	Bangime		nìjɛ̀ (2)							1225	DAY (NOT NIGHT)	n i ¹ dʒ ɛ ¹ #	n i ¹ dʒ ɛ ¹ #
+1005	mid-day meal, lunch	repas de midi, déjeuner	Bangime		nìjɛ̄-hùⁿ-pɔ́wⁿ							768	LUNCH	n i ¹ dʒ ɛ ³ + h ũ ∼ ¹ + p ɔ ⁵ w̃ ∼	n i ¹ dʒ ɛ ³ + h ũ ∼ ¹ + p ɔ ⁵ w̃ ∼
+1007	tongue	langue (corps)	Bangime		nɔ̄-n̄-ʤɛ̀ (1)							1205	TONGUE	n ɔ ³ + n ³ + dʒ ɛ ¹ #	n ɔ ³ + n ³ + dʒ ɛ ¹ #
+1008	spittle	crachat	Bangime		nɔ̄-n̄-ʤɛ̀ (2)							1503	SALIVA	n ɔ ³ + n ³ + dʒ ɛ ¹ #	n ɔ ³ + n ³ + dʒ ɛ ¹ #
+1009	yawn (n)	baîllement	Bangime		nɔ́-ŋááẁ							1028	YAWN	n ɔ ⁵ + ŋ aː ⁵ w ¹	n ɔ ⁵ + ŋ aː ⁵ w ¹
+1010	tooth	dent	Bangime		nɔ̄-sìⁿ							1380	TOOTH	n ɔ ³ + s ĩ ∼ ¹	n ɔ ³ + s ĩ ∼ ¹
+1011	scorpion	scorpion	Bangime		nɔ́mbɛ̄							1538	SCORPION	n ɔ ⁵ m b ɛ ³	n ɔ ⁵ m b ɛ ³
+1013	body	corps	Bangime		nɔ́ɔ́-ndɛ́							1480	BODY	n ɔː ⁵ + n d ɛ ⁵	n ɔː ⁵ + n d ɛ ⁵
+1014	bone	os	Bangime		nɔ̀rɛ̀							1394	BONE	n ɔ ¹ r ɛ ¹	n ɔ ¹ r ɛ ¹
+1015	mouth; edge	bouche; bord	Bangime		nɔ̀wⁿ (1)							674	MOUTH	n ɔ ¹ w̃ ∼ #	n ɔ ¹ w̃ ∼ #
+1016	noise	bruit	Bangime		nɔ̀wⁿ (2)							1182	NOISE	n ɔ ¹ w̃ ∼ #	n ɔ ¹ w̃ ∼ #
+1017	cotton	coton	Bangime		nūɡò							1850	COTTON	n u ³ ɡ o ¹	n u ³ ɡ o ¹
+1018	vagina	vagin	Bangime		númbɛ́							1836	VAGINA	n u ⁵ m b ɛ ⁵	n u ⁵ m b ɛ ⁵
+1021	ginger	gingembre	Bangime		ɲàmàkù							2500	GINGER	ɲ a ¹ m a ¹ k u ¹	ɲ a ¹ m a ¹ k u ¹
+1023	soul, vital spirit (of the living)	âme, esprit vital (d'un vivant)	Bangime		ɲāŋɡò							53	SPIRIT	ɲ a ³ ŋ ɡ o ¹	ɲ a ³ ŋ ɡ o ¹
+1027	sand	sable	Bangime		ɲíímbɛ̀							671	SAND	ɲ iː ⁵ m b ɛ ¹	ɲ iː ⁵ m b ɛ ¹
+1028	charcoal	charbon	Bangime		ɲììmbɛ́							1188	CHARCOAL	ɲ iː ¹ m b ɛ ⁵	ɲ iː ¹ m b ɛ ⁵
+1031	camel	chameau	Bangime		ɲɔ̀ŋɔ̀mɛ́							1871	CAMEL	ɲ ɔ ¹ ŋ ɔ ¹ m ɛ ⁵	ɲ ɔ ¹ ŋ ɔ ¹ m ɛ ⁵
+1032	fat (n)	graisse	Bangime		ɲùwⁿɛ̀							323	FAT (ORGANIC SUBSTANCE)	ɲ u ¹ w̃ ∼ ɛ ¹	ɲ u ¹ w̃ ∼ ɛ ¹
+1033	tamarind	tamarin	Bangime		ŋàà							35	TAMARIND	ŋ aː ¹	ŋ aː ¹
+1036	shepherd	berger (de moutons)	Bangime		ŋámbá-rá-ḿ-búwɔ̀							2544	SHEPHERD	ŋ a ⁵ m b a ⁵ + r a ⁵ + m ⁵ + b u ⁵ w ɔ ¹	ŋ a ⁵ m b a ⁵ + r a ⁵ + m ⁵ + b u ⁵ w ɔ ¹
+1038	sheep	mouton	Bangime		ŋámbárà							1331	SHEEP	ŋ a ⁵ m b a ⁵ r a ¹	ŋ a ⁵ m b a ⁵ r a ¹
+1041	God	Dieu	Bangime		ŋàrà							1944	GOD	ŋ a ¹ r a ¹	ŋ a ¹ r a ¹
+1044	Thursday	jeudi	Bangime		ŋárá-mùnʤà							1693	THURSDAY	ŋ a ⁵ r a ⁵ + m u ¹ n dʒ a ¹	ŋ a ⁵ r a ⁵ + m u ¹ n dʒ a ¹
+1045	sky	ciel	Bangime		ŋàrā-n̄-dòŋɡò							1732	SKY	ŋ a ¹ r a ³ + n ³ + d o ¹ ŋ ɡ o ¹	ŋ a ¹ r a ³ + n ³ + d o ¹ ŋ ɡ o ¹
+1047	meat	viande	Bangime		ŋàwⁿ							2615	FLESH OR MEAT	ŋ a ¹ w̃ ∼	ŋ a ¹ w̃ ∼
+1049	city	ville	Bangime		ŋɡàló							1391	TOWN	ŋ ɡ a ¹ l o ⁵	ŋ ɡ a ¹ l o ⁵
+1052	mouse	souris	Bangime		ŋìì							1491	MOUSE	ŋ iː ¹	ŋ iː ¹
+1054	woman	femme	Bangime		ŋìjɛ̀-rɛ́							962	WOMAN	ŋ i ¹ dʒ ɛ ¹ + r ɛ ⁵	ŋ i ¹ dʒ ɛ ¹ + r ɛ ⁵
+1055	mother	mère	Bangime		ŋìjⁿà							1216	MOTHER	ŋ i ¹ j̃ ∼ a ¹	ŋ i ¹ j̃ ∼ a ¹
+1058	pond	mare	Bangime		ŋɔ́mbɛ̄							2035	POND	ŋ ɔ ⁵ m b ɛ ³	ŋ ɔ ⁵ m b ɛ ³
+1060	leopard	léopard, panthère	Bangime		ŋɔ̀rkɛ́							1139	LEOPARD	ŋ ɔ ¹ r k ɛ ⁵	ŋ ɔ ¹ r k ɛ ⁵
+1062	oil, butter	huile, beurre	Bangime		ŋùjⁿɛ̀							2556	OIL (HYDROPHOBIC LIQUID)	ŋ u ¹ j̃ ∼ ɛ ¹	ŋ u ¹ j̃ ∼ ɛ ¹
+1063	song	chanson	Bangime		ŋúɥⁿɛ́ɛ̀							1096	SONG	ŋ u ⁵ ɥ ∼ ɛː ⁵¹	ŋ u ⁵ ɥ ∼ ɛː ⁵¹
+1064	trick, ruse	astuce, truc	Bangime		ŋwáárⁿì								!TRICK (N.)	ŋ w aː ⁵ r̃ ∼ i ¹	ŋ w aː ⁵ r̃ ∼ i ¹
+1066	cave	grotte	Bangime		pàà							1155	CAVE	p aː ¹	p aː ¹
+1067	friend	ami	Bangime		pààⁿ							1325	FRIEND	p ã: ∼ ¹	p ã: ∼ ¹
+1074	spear	lance	Bangime		pānʤà							945	SPEAR	p a ³ n dʒ a ¹	p a ³ n dʒ a ¹
+1081	sesame	sésame	Bangime		párá							2797	SESAME	p a ⁵ r a ⁵	p a ⁵ r a ⁵
+1082	arrow	flèche	Bangime		párí							977	ARROW	p a ⁵ r i ⁵	p a ⁵ r i ⁵
+1087	wind (n)	vent	Bangime		pɛ̀bɛ̀rɛ̀							960	WIND	p ɛ ¹ b ɛ ¹ r ɛ ¹	p ɛ ¹ b ɛ ¹ r ɛ ¹
+1088	ladder	échelle	Bangime		pɛ́ɛ́ⁿ							1464	LADDER	p ɛ̃ː ∼ ⁵	p ɛ̃ː ∼ ⁵
+1089	comb (n)	peigne	Bangime		pɛ̀ɛ̀ɲɛ́							1475	COMB	p ɛː ¹ ɲ ɛ ⁵	p ɛː ¹ ɲ ɛ ⁵
+1093	key	clé	Bangime		pɛ̀rɛ̀ɛ̀							1472	KEY	p ɛ ¹ r ɛː ¹	p ɛ ¹ r ɛː ¹
+1096	sauce	sauce	Bangime		pìì							132	SAUCE	p iː ¹	p iː ¹
+1102	odor, smell (n)	odeur	Bangime		pìjⁿɔ̀wⁿ							2124	SMELL	p i ¹ j̃ ∼ ɔ ¹ w̃ ∼	p i ¹ j̃ ∼ ɔ ¹ w̃ ∼
+1105	lung(s)	poumon(s)	Bangime		póɡó-póɡò (2)							688	LUNG	p o ⁵ ɡ o ⁵ + p o ⁵ ɡ o ¹ #	p o ⁵ ɡ o ⁵ + p o ⁵ ɡ o ¹ #
+1106	tracks, trail (of herd of cows, snake, etc.)	traces, piste (d'un troupeau, d'un serpent)	Bangime		pòmbòrò								!TRACKS	p o ¹ m b o ¹ r o ¹	p o ¹ m b o ¹ r o ¹
+1108	cloud	nuage	Bangime		pōrò							1489	CLOUD	p o ³ r o ¹	p o ³ r o ¹
+1111	soap	savon	Bangime		pɔ̄ɔ̄-kɛ̀							788	SOAP	p ɔː ³ + k ɛ ¹	p ɔː ³ + k ɛ ¹
+1114	well (n)	puits	Bangime		pɔ̀rɛ̀							954	WELL	p ɔ ¹ r ɛ ¹	p ɔ ¹ r ɛ ¹
+1118	poison	poison	Bangime		pɔ̀sɔ́							655	POISON	p ɔ ¹ s ɔ ⁵	p ɔ ¹ s ɔ ⁵
+1120	meal	repas	Bangime		pɔ̀wⁿ							1526	MEAL	p ɔ ¹ w̃ ∼	p ɔ ¹ w̃ ∼
+1126	wife	épouse	Bangime		pùjɛ̀							1199	WIFE	p u ¹ dʒ ɛ ¹	p u ¹ dʒ ɛ ¹
+1127	young woman	jeune femme	Bangime		pújɛ́-bɛ̀							77	YOUNG WOMAN	p u ⁵ dʒ ɛ ⁵ + b ɛ ¹	p u ⁵ dʒ ɛ ⁵ + b ɛ ¹ - - -
+1128	leaf	feuille (de plante)	Bangime		pūjⁿɛ̀							628	LEAF	p u ³ j̃ ∼ ɛ ¹	p u ³ j̃ ∼ ɛ ¹
+1131	froth, foam	mousse, écume	Bangime		pūrɛ̀ɛ̀							1768	FOAM	p u ³ r ɛː ¹	p u ³ r ɛː ¹
+1134	lid	couvercle	Bangime		púúbɛ̀							2319	LID (COVER, CAP)	p uː ⁵ b ɛ ¹	p uː ⁵ b ɛ ¹
+1141	reason, cause	cause, raison	Bangime		sāābè							860	CAUSE	s aː ³ b e ¹	s aː ³ b e ¹
+1145	well (n)	puits	Bangime		sāàⁿ (2)							2144	SPRING OR WELL	s ã: ∼ ³¹ #	s ã: ∼ ³¹ #
+1149	medication, remedy	médicament, remède	Bangime		sābè							499	CURE	s a ³ b e ¹	s a ³ b e ¹
+1156	time	moment, temps	Bangime		sāŋà							892	TIME	s a ³ ŋ a ¹	s a ³ ŋ a ¹
+1158	watermelon	pastèque	Bangime		sāŋàɛ̀ɛ̀							2766	WATERMELON	s a ³ ŋ a ¹ ɛː ¹	s a ³ ŋ a ¹ ɛː ¹
+1166	beard	barbe	Bangime		sèmbò							678	BEARD	s e ¹ m b o ¹	s e ¹ m b o ¹
+1169	louse	pou	Bangime		sɛ̀mà							1392	LOUSE	s ɛ ¹ m a ¹	s ɛ ¹ m a ¹
+1176	eye(s)	œil, yeux	Bangime		sībɛ̀							1248	EYE	s i ³ b ɛ ¹	s i ³ b ɛ ¹
+1179	blind person	aveugle	Bangime		sìbɛ̀-kùwⁿɔ̀							457	BLIND PERSON	s i ¹ b ɛ ¹ + k u ¹ w̃ ∼ ɔ ¹	s i ¹ b ɛ ¹ + k u ¹ w̃ ∼ ɔ ¹
+1181	week	semaine	Bangime		sīɡò							1469	WEEK	s i ³ ɡ o ¹	s i ³ ɡ o ¹
+1182	ethnicity, race, kind	ethnicité, race, sorte	Bangime		sīì							844	KIND (THING)	s iː ³¹	s iː ³¹
+1184	shadow	ombre	Bangime		sííⁿ							1388	SHADE	s ĩː ∼ ⁵	s ĩː ∼ ⁵
+1185	urine	urine	Bangime		sììⁿ							1142	URINE	s ĩː ∼ ¹	s ĩː ∼ ¹
+1188	kite (hawk, Milvus)	milan noir (rapace, Milvus)	Bangime		sījè							307	HAWK	s i ³ dʒ e ¹	s i ³ dʒ e ¹
+1189	firewood	bois de chauffage	Bangime		sìjɛ̀							10	FIREWOOD	s i ¹ dʒ ɛ ¹	s i ¹ dʒ ɛ ¹
+1192	shrub (Abrus)	arbuste (Abrus)	Bangime		sìjɛ̄-pùɡɛ̀							751	SHRUB	s i ¹ dʒ ɛ ³ + p u ¹ ɡ ɛ ¹	s i ¹ dʒ ɛ ³ + p u ¹ ɡ ɛ ¹
+1193	sugar	sucre	Bangime		sìkɔ̀rɔ́							862	SUGAR	s i ¹ k ɔ ¹ r ɔ ⁵	s i ¹ k ɔ ¹ r ɔ ⁵
+1194	stone	pierre, caillou	Bangime		símɛ̀							857	STONE	s i ⁵ m ɛ ¹	s i ⁵ m ɛ ¹
+1196	pig or warthog	cochon ou phacochère	Bangime		sìmì-ɲáŋá							2169	PIG (CLASSIFIER)	s i ¹ m i ¹ + ɲ a ⁵ ŋ a ⁵	s i ¹ m i ¹ + ɲ a ⁵ ŋ a ⁵
+1198	spring (water source)	source (d'eau)	Bangime		sìndà (1)							849	SPRING (OF WATER)	s i ¹ n d a ¹ #	s i ¹ n d a ¹ #
+1201	horn (of animal)	corne	Bangime		sìrà							1393	HORN (ANATOMY)	s i ¹ r a ¹	s i ¹ r a ¹
+1202	tobacco (ready to consume)	tabac (prêt à consommer)	Bangime		sīràà								!TOBACCO (PROCESSED)	s i ³ r aː ¹	s i ³ r aː ¹
+1203	amulet	amulette, gri-gri	Bangime		sìrì							2804	AMULET	s i ¹ r i ¹	s i ¹ r i ¹
+1204	face	visage	Bangime		sìrìbì (1)							1560	FACE	s i ¹ r i ¹ b i ¹ #	s i ¹ r i ¹ b i ¹ #
+1205	razor (folding knife)	rasoir	Bangime		sìrìbì (2)							151	RAZOR	s i ¹ r i ¹ b i ¹ #	s i ¹ r i ¹ b i ¹ #
+1206	whip (n)	fouet	Bangime		sìrìmɛ̀							2630	WHIP	s i ¹ r i ¹ m ɛ ¹	s i ¹ r i ¹ m ɛ ¹
+1208	hunter	chasseur	Bangime		sīsɔ̀ɡɔ̀							1053	HUNTER	s i ³ s ɔ ¹ ɡ ɔ ¹	s i ³ s ɔ ¹ ɡ ɔ ¹
+1209	hunting (n), (the) hunt 	la chasse	Bangime		sísɔ̀ɡɔ́-mɛ̀							1435	HUNT	s i ⁵ s ɔ ¹ ɡ ɔ ⁵ + m ɛ ¹	s i ⁵ s ɔ ¹ ɡ ɔ ⁵ + m ɛ ¹
+1210	power, force, strength	force	Bangime		sjɛ̀ɛ̀ⁿ (1)							2526	POWER	s dʒ ɛ̃ː ∼ ¹ #	s dʒ ɛ̃ː ∼ ¹ #
+1211	tendon	tendon	Bangime		sjɛ̀ɛ̀ⁿ (2)							1137	TENDON	s dʒ ɛ̃ː ∼ ¹ #	s dʒ ɛ̃ː ∼ ¹ #
+1214	(finger/toe-)nail	ongle	Bangime		sɔ̀ɡɔ̀-ʤì							2128	CLAW OR NAIL	s ɔ ¹ ɡ ɔ ¹ + dʒ i ¹	s ɔ ¹ ɡ ɔ ¹ + dʒ i ¹
+1216	truth	vérité	Bangime		sɔ́ɡɔ́jɛ̀							1638	TRUTH	s ɔ ⁵ ɡ ɔ ⁵ dʒ ɛ ¹	s ɔ ⁵ ɡ ɔ ⁵ dʒ ɛ ¹
+1220	lock (n)	fermeture	Bangime		sɔ̀rɡú							1596	LOCK	s ɔ ¹ r ɡ u ⁵	s ɔ ¹ r ɡ u ⁵
+1224	boubou (garment)	boubou (vêtement)	Bangime		sɔ̀wⁿ							461	BOUBOU	s ɔ ¹ w̃ ∼	s ɔ ¹ w̃ ∼
+1227	nose	nez	Bangime		sùmbì							1221	NOSE	s u ¹ m b i ¹	s u ¹ m b i ¹
+1229	female breast	sein de femme	Bangime		súɥɛ́							1402	BREAST	s u ⁵ ɥ ɛ ⁵	s u ⁵ ɥ ɛ ⁵
+1230	chicken	poulet	Bangime		sùɥɛ̀							1318	CHICKEN	s u ¹ ɥ ɛ ¹	s u ¹ ɥ ɛ ¹
+1231	rooster	coq	Bangime		sùɥɛ̀-ŋ̀-káŋɡē							1511	ROOSTER	s u ¹ ɥ ɛ ¹ + ŋ ¹ + k a ⁵ ŋ ɡ e ³	s u ¹ ɥ ɛ ¹ + ŋ ¹ + k a ⁵ ŋ ɡ e ³
+1233	grain-based meal (millet, sorghum, rice)	repas à base de céréales (mil, sorgho, riz)	Bangime		sɥīì							256	FOOD	s ɥ iː ³¹	s ɥ iː ³¹
+1234	mortar	mortier	Bangime		swáá-kɛ̀							224	MORTAR CRUSHER	s w aː ⁵ + k ɛ ¹	s w aː ⁵ + k ɛ ¹
+1238	sorghum	sorgho	Bangime		ɕīnʤɛ̀							347	SORGHUM	ɕ i ³ n dʒ ɛ ¹	ɕ i ³ n dʒ ɛ ¹
+1240	half	moitié	Bangime		tāà (1)							816	HALF	t aː ³¹ #	t aː ³¹ #
+1241	side	côté	Bangime		tāà (2)							1816	BESIDE	t aː ³¹ #	t aː ³¹ #
+1243	table	table	Bangime		tààbál							1775	TABLE	t aː ¹ b a ⁵ l	t aː ¹ b a ⁵ l
+1244	spider	araignée	Bangime		tāārè							843	SPIDER	t aː ³ r e ¹	t aː ³ r e ¹
+1247	belt, belt-cord (for pants)	ceinture (de pantalon)	Bangime		tààwà-m̀-bɔ́jɛ́							772	BELT	t aː ¹ w a ¹ + m ¹ + b ɔ ⁵ dʒ ɛ ⁵	t aː ¹ w a ¹ + m ¹ + b ɔ ⁵ dʒ ɛ ⁵
+1249	neighbor	voisin	Bangime		tàɡàlɛ̀mɛ̀							1332	NEIGHBOUR	t a ¹ ɡ a ¹ l ɛ ¹ m ɛ ¹	t a ¹ ɡ a ¹ l ɛ ¹ m ɛ ¹
+1251	(sb’s) character, nature	caractère, nature (de qn)	Bangime		tàɡù							1024	CHARACTER	t a ¹ ɡ u ¹	t a ¹ ɡ u ¹
+1254	home, place where one sleeps	domicile, lieu où on dort	Bangime		tàjè							2406	HOME	t a ¹ dʒ e ¹	t a ¹ dʒ e ¹
+1255	breakfast	petit déjeuner	Bangime		tájkòj							1322	BREAKFAST	t a ⁵ dʒ k o ¹ dʒ	t a ⁵ dʒ k o ¹ dʒ
+1256	tomato	tomate	Bangime		tàmàtí							986	TOMATO	t a ¹ m a ¹ t i ⁵	t a ¹ m a ¹ t i ⁵
+1258	ear	oreille	Bangime		tàŋà							1247	EAR	t a ¹ ŋ a ¹	t a ¹ ŋ a ¹
+1259	earring	boucle d'oreille	Bangime		tàŋà-jérémbɛ̀							770	EARRING	t a ¹ ŋ a ¹ + dʒ e ⁵ r e ⁵ m b ɛ ¹	t a ¹ ŋ a ¹ + dʒ e ⁵ r e ⁵ m b ɛ ¹
+1260	earlobe	lobe de l'oreille	Bangime		tàŋà-jɛ́rɛ́bɛ̀							18	EARLOBE	t a ¹ ŋ a ¹ + dʒ ɛ ⁵ r ɛ ⁵ b ɛ ¹	t a ¹ ŋ a ¹ + dʒ ɛ ⁵ r ɛ ⁵ b ɛ ¹
+1261	elephant	éléphant	Bangime		tàŋà-m̀-bóɡó							1290	ELEPHANT	t a ¹ ŋ a ¹ + m ¹ + b o ⁵ ɡ o ⁵	t a ¹ ŋ a ¹ + m ¹ + b o ⁵ ɡ o ⁵
+1264	bamboo	bambou	Bangime		tàŋkàlàwá							1927	BAMBOO	t a ¹ ŋ k a ¹ l a ¹ w a ⁵	t a ¹ ŋ k a ¹ l a ¹ w a ⁵
+1266	Tuesday	mardi	Bangime		tāràà							1695	TUESDAY	t a ³ r aː ¹	t a ³ r aː ¹
+1269	tobacco	tabac	Bangime		tāwɔ̀							974	TOBACCO	t a ³ w ɔ ¹	t a ³ w ɔ ¹
+1271	elder sibling	frère ou sœur aîné(e), grand frère ou grande sœur	Bangime		tèè (1)							405	OLDER SIBLING	t eː ¹ #	t eː ¹ #
+1273	forehead	front	Bangime		tèɡò							123	FOREHEAD	t e ¹ ɡ o ¹	t e ¹ ɡ o ¹
+1278	grandfather	grand-père	Bangime		tèndè							1383	GRANDFATHER	t e ¹ n d e ¹	t e ¹ n d e ¹
+1279	ability to transmit (good or bad) luck	capacité de transmettre la bonne ou mauvaise chance	Bangime		tèrì							56	BAD LUCK	t e ¹ r i ¹	t e ¹ r i ¹
+1282	palm (hand), sole (foot)	paume (de la main); plante (du pied)	Bangime		tɛ̀ɛ̀							1183	PALM OF HAND	t ɛː ¹	t ɛː ¹
+1288	peanut	arachide	Bangime		tìɡàjí							2364	PEANUT	t i ¹ ɡ a ¹ dʒ i ⁵	t i ¹ ɡ a ¹ dʒ i ⁵
+1289	tail	queue	Bangime		tììⁿ							1220	TAIL	t ĩː ∼ ¹	t ĩː ∼ ¹
+1294	grandmother	grand-mère	Bangime		tìjè							1496	GRANDMOTHER	t i ¹ dʒ e ¹	t i ¹ dʒ e ¹
+1297	mirror	miroir	Bangime		tìn-tìŋɡà							1171	MIRROR	t i ¹ n + t i ¹ ŋ ɡ a ¹	t i ¹ n + t i ¹ ŋ ɡ a ¹
+1300	trunk, stem	tronc, tige	Bangime		tīŋɡà							344	TREE TRUNK	t i ³ ŋ ɡ a ¹	t i ³ ŋ ɡ a ¹
+1303	testicle	testicule	Bangime		tój							797	TESTICLES	t o ⁵ dʒ	t o ⁵ dʒ
+1304	puddle, rainwater pool on rock	flaque d’eau de pluie sur pierre	Bangime		tòmbè							2290	PUDDLE	t o ¹ m b e ¹	t o ¹ m b e ¹
+1307	window	fenêtre	Bangime		tòmpàà (2)							1375	WINDOW	t o ¹ m p aː ¹ #	t o ¹ m p aː ¹ #
+1313	thigh	cuisse	Bangime		tóŋɡórò							800	THIGH	t o ⁵ ŋ ɡ o ⁵ r o ¹	t o ⁵ ŋ ɡ o ⁵ r o ¹
+1315	younger sibling	frère ou sœur cadet(te), petit frère ou petite sœur	Bangime		tòò (1)							427	YOUNGER SIBLING	t oː ¹ #	t oː ¹ #
+1318	star	étoile	Bangime		tōrɛ̀ɛ̀							1430	STAR	t o ³ r ɛː ¹	t o ³ r ɛː ¹
+1320	anvil	enclume	Bangime		tɔ́-tɔ̀							1648	ANVIL	t ɔ ⁵ + t ɔ ¹	t ɔ ⁵ + t ɔ ¹
+1325	sparrow	moineau	Bangime		tɔ́n-tórɛ́ɛ̀							1854	SPARROW	t ɔ ⁵ n + t o ⁵ r ɛː ⁵¹	t ɔ ⁵ n + t o ⁵ r ɛː ⁵¹
+1326	bow (for arrow)	arc	Bangime		tɔ̀ŋɛ̀							994	BOW	t ɔ ¹ ŋ ɛ ¹	t ɔ ¹ ŋ ɛ ¹
+1327	duck	canard	Bangime		tɔ̀ŋɔ̀nɔ̀ (1)							1360	DUCK	t ɔ ¹ ŋ ɔ ¹ n ɔ ¹ #	t ɔ ¹ ŋ ɔ ¹ n ɔ ¹ #
+1329	pumpkin	courge	Bangime		tɔ̀ŋwⁿɛ̀ɛ̀							864	PUMPKIN	t ɔ ¹ ŋ w̃ ∼ ɛː ¹	t ɔ ¹ ŋ w̃ ∼ ɛː ¹
+1332	money	argent	Bangime		tɔ́wⁿ							1559	MONEY	t ɔ ⁵ w̃ ∼	t ɔ ⁵ w̃ ∼
+1337	termite	termite	Bangime		tùjɛ̀ (1)							883	TERMITE	t u ¹ dʒ ɛ ¹ #	t u ¹ dʒ ɛ ¹ #
+1339	buttock	fesse	Bangime		tùkúrú							834	BUTTOCKS	t u ¹ k u ⁵ r u ⁵	t u ¹ k u ⁵ r u ⁵
+1341	ant	fourmi	Bangime		túmbɛ̄							587	ANT	t u ⁵ m b ɛ ³	t u ⁵ m b ɛ ³
+1343	message; errand	message; commission	Bangime		tūmbɛ̀							2961	MESSAGE	t u ³ m b ɛ ¹	t u ³ m b ɛ ¹
+1345	garlic	ail	Bangime		tùmɛ̀							2368	GARLIC	t u ¹ m ɛ ¹	t u ¹ m ɛ ¹
+1347	menstruation	menstruation, règles de femme	Bangime		tūŋɛ̀							766	MENSTRUATION	t u ³ ŋ ɛ ¹	t u ³ ŋ ɛ ¹
+1348	neighborhood, section of a village or city	quartier d'un village ou d'une ville	Bangime		tūrù								!NEIGHBORHOOD	t u ³ r u ¹	t u ³ r u ¹
+1349	anus	anus	Bangime		tùù							1935	ANUS	t uː ¹	t uː ¹
+1350	thorn	épine	Bangime		tùùⁿ							124	THORN	t ũː ∼ ¹	t ũː ∼ ¹
+1352	hyena	hyène	Bangime		tùùrɛ́							1799	HYENA	t uː ¹ r ɛ ⁵	t uː ¹ r ɛ ⁵
+1353	ashes	cendre	Bangime		tùɥɛ̀							646	ASH	t u ¹ ɥ ɛ ¹	t u ¹ ɥ ɛ ¹
+1356	cat	chat	Bangime		tūwⁿɛ̀ɛ̀							1208	CAT	t u ³ w̃ ∼ ɛː ¹	t u ³ w̃ ∼ ɛː ¹
+1357	blacksmith	forgeron	Bangime		tùwⁿɔ̀							1001	BLACKSMITH	t u ¹ w̃ ∼ ɔ ¹	t u ¹ w̃ ∼ ɔ ¹
+1358	flower	fleur	Bangime		twīìⁿ							239	FLOWER	t w ĩː ∼ ³¹	t w ĩː ∼ ³¹
+1359	price	prix	Bangime		ɥàà							657	PRICE	ɥ aː ¹	ɥ aː ¹
+1363	moon	lune	Bangime		ɥìjɛ̀							1313	MOON	ɥ i ¹ dʒ ɛ ¹	ɥ i ¹ dʒ ɛ ¹
+1364	water	eau	Bangime		ɥījɛ̀							948	WATER	ɥ i ³ dʒ ɛ ¹	ɥ i ³ dʒ ɛ ¹
+1367	fish	poisson	Bangime		ɥìjɛ̄-ŋ̄-kò-ŋáwⁿ							227	FISH	ɥ i ¹ dʒ ɛ ³ + ŋ ³ + k o ¹ + ŋ a ⁵ w̃ ∼	ɥ i ¹ dʒ ɛ ³ + ŋ ³ + k o ¹ + ŋ a ⁵ w̃ ∼
+1368	thirst	soif	Bangime		ɥìjɛ̀-pìnɛ̀							848	THIRST	ɥ i ¹ dʒ ɛ ¹ + p i ¹ n ɛ ¹	ɥ i ¹ dʒ ɛ ¹ + p i ¹ n ɛ ¹
+1369	thunder (n)	tonnerre	Bangime		ɥɔ̀-ǹ-níɡú							1150	THUNDER	ɥ ɔ ¹ + n ¹ + n i ⁵ ɡ u ⁵	ɥ ɔ ¹ + n ¹ + n i ⁵ ɡ u ⁵
+1370	rain	pluie	Bangime		ɥɔ̀wⁿ							658	RAIN (PRECIPITATION)	ɥ ɔ ¹ w̃ ∼	ɥ ɔ ¹ w̃ ∼
+1371	obligation, duty, necessity	obligation	Bangime		wààʤí-bí							422	NECESSITY	w aː ¹ dʒ i ⁵ + b i ⁵	w aː ¹ dʒ i ⁵ + b i ⁵
+1374	work (n)	travail	Bangime		wārì							984	WORK (LABOUR)	w a ³ r i ¹	w a ³ r i ¹
+1378	cart	charrette	Bangime		wòtóró							122	CART	w o ¹ t o ⁵ r o ⁵	w o ¹ t o ⁵ r o ⁵
+1381	hearth (three stones on which pot is set to cook)	foyer (trois pierres sur lesquelles on pose la marmite)	Bangime		wɔ́ɔ́-bɛ̀							185	FIREPLACE	w ɔː ⁵ + b ɛ ¹	w ɔː ⁵ + b ɛ ¹
+1382	carp	carpe	Bangime		wɔ̀ɔ̀-pɛ́rɛ́							2685	CARP (FISH)	w ɔː ¹ + p ɛ ⁵ r ɛ ⁵	w ɔː ¹ + p ɛ ⁵ r ɛ ⁵
+1383	collarbone (clavicle)	clavicule	Bangime		wɔ́ɔ́rɛ̀							1994	COLLARBONE	w ɔː ⁵ r ɛ ¹	w ɔː ⁵ r ɛ ¹
+1388	pigeon	pigeon	Bangime		wúúrɛ̀							1853	DOVE	w uː ⁵ r ɛ ¹	w uː ⁵ r ɛ ¹
+1397	fat, corpulent (person)	gros (personne, ventre), en surpoids	Bangime		bárⁿú (2)							1279	FAT (OBESE)	b a ⁵ r̃ ∼ u ⁵ #	b a ⁵ r̃ ∼ u ⁵ #
+1398	long; tall	long; haut de taille	Bangime		bɛ́ndɛ́							2143	LONG OR TALL	b ɛ ⁵ n d ɛ ⁵	b ɛ ⁵ n d ɛ ⁵
+1399	hard, solid	dur, solide	Bangime		bíjó (1)							1884	HARD	b i ⁵ dʒ o ⁵ #	b i ⁵ dʒ o ⁵ #
+1400	ripe (grain, fruit); cooked, done (meat)	(fruit) mûr; (viande) cuite	Bangime		bíjó (2)								!COOKED OR RIPE	b i ⁵ dʒ o ⁵ #	b i ⁵ dʒ o ⁵ #
+1403	thin (stick)	(bâton etc.) mince	Bangime		bírī-bɛ̀ (1)							2157	FINE OR THIN	b i ⁵ r i ³ + b ɛ ¹ #	b i ⁵ r i ³ + b ɛ ¹ #
+1405	tall	haut de taille	Bangime		bóɡó							711	TALL	b o ⁵ ɡ o ⁵	b o ⁵ ɡ o ⁵
+1406	soft, mushy (over-ripe fruit)	mou (fruit trop mûr)	Bangime		bɔ́ɡɔ́-bɔ́ɡɔ̀								!MUSHY	b ɔ ⁵ ɡ ɔ ⁵ + b ɔ ⁵ ɡ ɔ ¹	b ɔ ⁵ ɡ ɔ ⁵ + b ɔ ⁵ ɡ ɔ ¹
+1408	big (house, tree, animal); fat (person)	gros (personne, ventre), en surpoids	Bangime		bɔ́rⁿú (2)							1202	BIG	b ɔ ⁵ r̃ ∼ u ⁵ #	b ɔ ⁵ r̃ ∼ u ⁵ #
+1409	red, brown	rouge, brun	Bangime		bújɛ́							156	RED	b u ⁵ dʒ ɛ ⁵	b u ⁵ dʒ ɛ ⁵
+1410	blue	bleu	Bangime		būlā-būlà							837	BLUE	b u ³ l a ³ + b u ³ l a ¹	b u ³ l a ³ + b u ³ l a ¹
+1411	small	petit	Bangime		dáɡájɛ̀							1246	SMALL	d a ⁵ ɡ a ⁵ dʒ ɛ ¹	d a ⁵ ɡ a ⁵ dʒ ɛ ¹
+1412	full	plein	Bangime		dámbā							1429	FULL	d a ⁵ m b a ³	d a ⁵ m b a ³
+1413	delicious, sweet	délicieux, doux	Bangime		dèj (1)							717	SWEET	d e ¹ dʒ #	d e ¹ dʒ #
+1415	delicious, sweet	délicieux, doux	Bangime		dérí (1)							1813	TASTY	d e ⁵ r i ⁵ #	d e ⁵ r i ⁵ #
+1416	sharp (blade)	tranchant	Bangime		dérí (2)							1396	SHARP	d e ⁵ r i ⁵ #	d e ⁵ r i ⁵ #
+1417	bitter	amer	Bangime		dɛ̀ɛ̀rù							887	BITTER	d ɛː ¹ r u ¹	d ɛː ¹ r u ¹
+1418	short (rope, person)	court (corde, personne)	Bangime		dúɡɛ́							1645	SHORT	d u ⁵ ɡ ɛ ⁵	d u ⁵ ɡ ɛ ⁵
+1419	lean, emaciated (animal)	maigre (animal)	Bangime		ʤàŋɡà							2219	LEAN (MEAT)	dʒ a ¹ ŋ ɡ a ¹	dʒ a ¹ ŋ ɡ a ¹
+1420	cold, cool	frois, frais	Bangime		ʤímbō (1)							1287	COLD	dʒ i ⁵ m b o ³ #	dʒ i ⁵ m b o ³ #
+1421	slow	lent	Bangime		ʤímbō (2)							701	SLOW	dʒ i ⁵ m b o ³ #	dʒ i ⁵ m b o ³ #
+1422	good	bon	Bangime		ɡáwⁿ							1035	GOOD	ɡ a ⁵ w̃ ∼	ɡ a ⁵ w̃ ∼
+1423	green; fresh (vegetables)	vert; frais (légumes)	Bangime		ɡúʤɛ́-kárà							243	FRESH	ɡ u ⁵ dʒ ɛ ⁵ + k a ⁵ r a ¹	ɡ u ⁵ dʒ ɛ ⁵ + k a ⁵ r a ¹
+1424	bad; ugly	mauvais; vilain	Bangime		jáŋɡā							1292	BAD	dʒ a ⁵ ŋ ɡ a ³	dʒ a ⁵ ŋ ɡ a ³
+1426	nearby, close by	proche	Bangime		jéró							1942	NEAR	dʒ e ⁵ r o ⁵	dʒ e ⁵ r o ⁵
+1428	deep	profond	Bangime		jùɡù							1593	DEEP	dʒ u ¹ ɡ u ¹	dʒ u ¹ ɡ u ¹
+1429	distant, far away	lointain	Bangime		jùndù							1406	FAR	dʒ u ¹ n d u ¹	dʒ u ¹ n d u ¹
+1430	narrow (passage); cramped, confined (space); busy, occupied	étroit; coincé; occupé	Bangime		kàmbàà							1267	NARROW	k a ¹ m b aː ¹	k a ¹ m b aː ¹
+1431	new	nouveau	Bangime		kárá (1)							1231	NEW	k a ⁵ r a ⁵ #	k a ⁵ r a ⁵ #
+1432	unripe (fruit), raw (meat)	cru (non-mûr, non cuit)	Bangime		kárá (2)								!RAW OR UNRIPE	k a ⁵ r a ⁵ #	k a ⁵ r a ⁵ #
+1434	difficult (work); expensive	difficile; cher	Bangime		kíw								!DIFFICULT OR EXPENSIVE	k i ⁵ w	k i ⁵ w
+1435	coarse, rough (texture), scaly (skin, bark)	rugueux, écailleux	Bangime		kùɡù-jù							2151	COARSE	k u ¹ ɡ u ¹ + dʒ u ¹	k u ¹ ɡ u ¹ + dʒ u ¹
+1436	dry	sec	Bangime		kùwò-ndì							1398	DRY	k u ¹ w o ¹ + n d i ¹	k u ¹ w o ¹ + n d i ¹
+1437	smooth, sleek (surface)	lisse (surface)	Bangime		mérú-mérù							1234	SMOOTH	m e ⁵ r u ⁵ + m e ⁵ r u ¹	m e ⁵ r u ⁵ + m e ⁵ r u ¹
+1439	heavy	lourd	Bangime		mɛ̀rⁿɛ̀ (1)							1210	HEAVY	m ɛ ¹ r̃ ∼ ɛ ¹ #	m ɛ ¹ r̃ ∼ ɛ ¹ #
+1440	strong; thick (wall)	fort; épais (mur)	Bangime		mɛ̀rⁿɛ̀ (2)							1244	THICK	m ɛ ¹ r̃ ∼ ɛ ¹ #	m ɛ ¹ r̃ ∼ ɛ ¹ #
+1442	rotten	pourri	Bangime		mɔ́ɡɔ́							1728	ROTTEN	m ɔ ⁵ ɡ ɔ ⁵	m ɔ ⁵ ɡ ɔ ⁵
+1443	some (ones), others	certain(s), d'autres	Bangime		mɔ̀rɛ̀							1241	SOME	m ɔ ¹ r ɛ ¹	m ɔ ¹ r ɛ ¹
+1444	soft (skin, ripe mango)	mou (peau, mangue mûre)	Bangime		múɡú-múɡù							1856	SOFT	m u ⁵ ɡ u ⁵ + m u ⁵ ɡ u ¹	m u ⁵ ɡ u ⁵ + m u ⁵ ɡ u ¹
+1445	wet	mouillé	Bangime		múndā								!WET (V.)	m u ⁵ n d a ³	m u ⁵ n d a ³
+1446	blunt, dull (blade)	émoussé (lame)	Bangime		mùtù							379	BLUNT	m u ¹ t u ¹	m u ¹ t u ¹
+1449	lightweight; weak	léger; faible	Bangime		péɡé-péɡè							1052	LIGHT (WEIGHT)	p e ⁵ ɡ e ⁵ + p e ⁵ ɡ e ¹	p e ⁵ ɡ e ⁵ + p e ⁵ ɡ e ¹
+1450	lightweight; thin (wall)	léger; mince (mur)	Bangime		póɡó-póɡò (1)							1400	THIN (SLIM)	p o ⁵ ɡ o ⁵ + p o ⁵ ɡ o ¹ #	p o ⁵ ɡ o ⁵ + p o ⁵ ɡ o ¹ #
+1452	black (dark)	noir, foncé	Bangime		pɔ́ɔ́rɛ̀							163	BLACK	p ɔː ⁵ r ɛ ¹	p ɔː ⁵ r ɛ ¹
+1455	sour (lemon); curdled (milk)	aigre (citron); (lait) caillé	Bangime		sììndù							1906	SOUR	s iː ¹ n d u ¹	s iː ¹ n d u ¹
+1456	old (thing), elderly (person)	vieux (objet), âgé (personne)	Bangime		sìjɛ̀-ndɛ̀							1229	OLD	s i ¹ dʒ ɛ ¹ + n d ɛ ¹	s i ¹ dʒ ɛ ¹ + n d ɛ ¹
+1457	rough (surface)	rugeux, coriace	Bangime		sɔ̀ɡɔ́j-bɛ̀							1923	ROUGH	s ɔ ¹ ɡ ɔ ⁵ dʒ + b ɛ ¹	s ɔ ¹ ɡ ɔ ⁵ dʒ + b ɛ ¹
+1459	white (light-colored)	blanc, couleur claire	Bangime		símá							1335	WHITE	s i ⁵ m a ⁵	s i ⁵ m a ⁵
+1461	other	autre	Bangime		tāàⁿ							197	OTHER	t ã: ∼ ³¹	t ã: ∼ ³¹
+1463	wide (passage), spacious (area), broad; loose (oversized garment)	large, spacieux; (vêtement) extra large	Bangime		téŋɡō							2652	BROAD OR WIDE	t e ⁵ ŋ ɡ o ³	t e ⁵ ŋ ɡ o ³
+1466	wet	mouillé	Bangime		tɔ́ndɛ̄							1726	WET	t ɔ ⁵ n d ɛ ³	t ɔ ⁵ n d ɛ ³
+1469	foreign (person)	étrange (personne)	Bangime		túwⁿɔ́							109	FOREIGN	t u ⁵ w̃ ∼ ɔ ⁵	t u ⁵ w̃ ∼ ɔ ⁵
+1470	hot	chaud	Bangime		wáá (1)							1286	HOT	w aː ⁵ #	w aː ⁵ #
+1471	fast	rapide	Bangime		wáá (2)							1631	FAST	w aː ⁵ #	w aː ⁵ #
+1472	loose, dangling, not tightly fitting (rope, bracelet)	lâche (corde, bracelet)	Bangime		wóró-wórò							2506	LOOSE	w o ⁵ r o ⁵ + w o ⁵ r o ¹	w o ⁵ r o ⁵ + w o ⁵ r o ¹
+1473	yellow	jaune	Bangime		ʒùɥɛ̀-m̀-búⁿ							1424	YELLOW	ʒ u ¹ ɥ ɛ ¹ + m ¹ + b ũ ∼ ⁵	ʒ u ¹ ɥ ɛ ¹ + m ¹ + b ũ ∼ ⁵
+1480	6	6	Bangime		kéérè							1703	SIX	k eː ⁵ r e ¹	k eː ⁵ r e ¹
+1481	another; 1	un autre; 1	Bangime		kétè								!ANOTHER	k e ⁵ t e ¹	k e ⁵ t e ¹
+1483	7	7	Bangime		kííjè							1704	SEVEN	k iː ⁵ dʒ e ¹	k iː ⁵ dʒ e ¹
+1485	10	10	Bangime		kùrɛ̀							1515	TEN	k u ¹ r ɛ ¹	k u ¹ r ɛ ¹
+1487	thousand	mille	Bangime		mùjⁿì							1843	THOUSAND	m u ¹ j̃ ∼ i ¹	m u ¹ j̃ ∼ i ¹
+1488	4	4	Bangime		nɛ̀ɛ̀ⁿ							1500	FOUR	n ɛ̃ː ∼ ¹	n ɛ̃ː ∼ ¹
+1489	5	5	Bangime		núndī							493	FIVE	n u ⁵ n d i ³	n u ⁵ n d i ³
+1490	8	8	Bangime		sáɡì							1705	EIGHT	s a ⁵ ɡ i ¹	s a ⁵ ɡ i ¹
+1491	3	3	Bangime		tààrù							492	THREE	t aː ¹ r u ¹	t aː ¹ r u ¹
+1496	9	9	Bangime		tɛ̀ɡɔ̀							1483	NINE	t ɛ ¹ ɡ ɔ ¹	t ɛ ¹ ɡ ɔ ¹
+1497	hundred	cent	Bangime		tɛ̀mɛ̀-dɛ́rɛ́							1634	HUNDRED	t ɛ ¹ m ɛ ¹ + d ɛ ⁵ r ɛ ⁵	t ɛ ¹ m ɛ ¹ + d ɛ ⁵ r ɛ ⁵
+1499	1	1	Bangime		tòrè							1493	ONE	t o ¹ r e ¹	t o ¹ r e ¹
+1500	2	2	Bangime		ʒìndò							1498	TWO	ʒ i ¹ n d o ¹	ʒ i ¹ n d o ¹
