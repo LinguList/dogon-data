@@ -1,0 +1,238 @@
+ID	DOCULECT	CONCEPT	TOKENS	MORPHEMES
+1	Bondu_So	FRIEND	n a ¹ l e ¹ + dʒ uː ⁵¹	friend dʒu-class-animate
+2	Tebul_Ure	HEAD	k u ⁵ + ɡ ɔ ⁵	head ɡɔ-class-bodyparts
+3	Tebul_Ure	MOUTH	m ¹ b u ¹ + ɡ ɔ ⁵	mouth ɡɔ-class-bodyparts
+4	Penange	TREE	t i ¹ n d i ¹ + ɡ ɔ ¹	tree ɡɔ-class-long
+5	Dogul_Dom	COW	n aː ¹⁵ + ɡ	cow ɡ-class-animate
+6	Dogul_Dom	DONKEY	d u ⁵ l u ¹ + ɡ	donkey ɡ-class-animate
+7	Dogul_Dom	FOOT OR LEG	n aː ¹⁵ + ɡ	foot ɡ-class-bodyparts
+8	Dogul_Dom	GRASS	k ɔː ¹⁵ + ɡ	grass ɡ-class-long
+9	Dogul_Dom	HEAD	k iː ⁵¹ + ɡ	head ɡ-class-bodyparts
+10	Dogul_Dom	KEY	k a ⁵ j + ɡ eː ¹ + ɡ	lock child ɡ-class-animate
+11	Dogul_Dom	NECK	m ɔː ¹⁵ + ɡ	neck ɡ-class-bodyparts
+12	Dogul_Dom	WEEK	dʒ uː ⁵¹ + ɡ	week ɡ-class-long
+13	Dogul_Dom	WOMAN	j aː ¹⁵ + ɡ	woman ɡ-class-animate
+14	Dogul_Dom	PATH OR ROAD	o ⁵ s u ¹ + ɡ	road ɡ-class-long
+15	Dogul_Dom	PESTLE	k u ¹ n eː ¹⁵ + ɡ	pound ɡ-class-long
+16	Dogul_Dom	CASSAVA	k uː ¹ + b eː ¹⁵ + ɡ	cassava ɡ-class-round
+17	Dogul_Dom	MOON	w ɔː ¹⁵ + ɡ	moon ɡ-class-round
+18	Donno_So	FRIEND	a ¹ n u ¹ + ɡ eː ¹⁵	friend ɡeː-class-animate
+19	Ampari	NAME	i ¹ n i ¹ + ɡ e ⁵	name ɡe-class-bodyparts
+20	Bunoge	BLANKET	ɲ a ⁵ m + ɡ e ¹	blanket ɡe-class-round
+21	Tiranige_Diga	BREAST	u ¹ n dʒ i ¹ + ɡ e ¹	breast ɡe-class-round
+22	Tiranige_Diga	MILLET	j oː ¹ + ɡ e ¹	millet ɡe-class-round
+23	Dogul_Dom	FISH	i ⁵ s i ¹ + ɡ i ¹	fish ɡi-class-animate
+24	Bondu_So	FOOT OR LEG	n aː ¹ + ɡ o ⁵	foot ɡo-class-bodyparts
+25	Tiranige_Diga	HEAD	k o ⁵ + ɡ o ⁵	head ɡo-class-bodyparts
+26	Tebul_Ure	NAME	b o ⁵ n + ɡ o ⁵	name ɡo-class-bodyparts
+27	Tebul_Ure	SUN	u ¹ d u ¹ + ɡ o ⁵	sun ɡo-class-round
+28	Toro_Tegu	HORSE	s o ¹ ŋ + ɡ u ⁵	horse ɡu-class-animate
+29	Tebul_Ure	SKIN	ɡ u ¹ d u ¹ + ɡ o ⁵	skin ɡu-class-bodyparts
+30	Perge_Tegu	MOUSE	o ¹⁵ + j	mouse j-class-animate
+31	Yorno_So	EYE	ɡ i ¹ r i ¹ + j ⁵	eye j-class-bodyparts
+32	Bankan_Tey	FOREHEAD	d i ¹ m b e ⁵¹ + j	forehead j-class-bodyparts
+33	Bankan_Tey	JOINT	d iː ⁵ r a ⁵ + j	joint j-class-bodyparts
+34	Bankan_Tey	LEFT	b a ¹ n d a ¹⁵ + j	left j-class-bodyparts
+35	Ben_Tey	LEFT	b a ¹ n a ¹⁵ + j ∼	left j-class-bodyparts
+36	Ben_Tey	DISEASE	ɔː ¹ r ɔ ¹⁵ + j	disease j-class-building
+37	Bankan_Tey	PESTLE	t a ¹ n d a ⁵¹ + j	pound j-class-long
+38	Ben_Tey	PESTLE	t a ¹ l a ⁵¹ + j	pound j-class-long
+39	Bankan_Tey	BONE	k i ¹ r̃ e ¹⁵ + j	bone j-class-long
+40	Bankan_Tey	CHEEK	k e ¹ n d e ⁵¹ + j	cheek j-class-round
+41	Bankan_Tey	CHIN	ɔ ¹ m b ɔ ⁵¹ + j	chin j-class-round
+42	Ben_Tey	CHIN	o ¹ m b o ⁵¹+ j	chin j-class-round
+43	Bankan_Tey	FOOD	ŋ ¹ ɡ uː ⁵ e ¹ + j	eat j-class-round
+44	Nanga	CAT	d o ¹ n d i ⁵ + j e ⁵¹	cat je-class-animate
+45	Tiranige_Diga	WOMAN	n d a ¹ + j eː ⁵	woman je-class-animate
+46	Yanda_Dom	EYE	ɡ i ¹ d + i ⁵ + j e ¹	eye je-class-bodyparts
+47	Mombo	SHOE	t a ⁵ ɡ + j eː ⁵¹	shoe je-class-animate
+48	Penange	CHEEK	k e ⁵ ɡ e ⁵ l + j e ¹	cheek je-class-round
+49	Ben_Tey	BONE	tʃ i ¹ r̃ ɛ ¹⁵ + j ∼	bone jn-class-round
+50	Mombo	HIP	p e ⁵ ŋ ɡ e ⁵ + l i ⁵	hip li-class-bodyparts
+51	Bankan_Tey	!GUEST OR STRANGER	nd o ¹ s u ⁵ + m	lodger m-class-animate
+52	Ben_Tey	!GUEST OR STRANGER	l oː ¹ s u ⁵ + m	lodger m-class-animate
+53	Bankan_Tey	BIRD	n iː ¹⁵ + m	bird m-class-animate
+54	Ben_Tey	BIRD	n iː ¹ j ∼ i ⁵¹ + m	bird m-class-animate
+55	Bankan_Tey	BITTER	ɡ a ¹ r u ¹⁵ + m	bitter m-class-animate
+56	Ben_Tey	BITTER	ɡ a ⁵ r i ¹ + m	bitter m-class-animate
+57	Dogul_Dom	BITTER	ɡ a ⁵ l l a ¹ + ŋ ¹	bitter m-class-animate
+58	Bankan_Tey	BLACKSMITH	z ɛ ⁵ m b ɛ ¹ + m	blacksmith m-class-animate
+59	Ben_Tey	BLACKSMITH	dʒ ɛ ⁵ m b ɛ ¹⁵ + m	blacksmith m-class-animate
+60	Bankan_Tey	CAMEL	ɔː ¹ + ɲ ɛ̃ ⁵¹ + m	camel m-class-animate
+61	Ben_Tey	CAMEL	ɔː ¹ + ɲ u ¹ + w̃ ɔ ⁵¹ + m	camel m-class-animate
+62	Bankan_Tey	CAT	n u ¹ m a ¹⁵ + m	cat m-class-animate
+63	Ben_Tey	CAT	n i ¹ w̃ ɛ ¹⁵ + m	cat m-class-animate
+64	Bankan_Tey	CHICKEN	ɛ ¹ z ɛ ¹⁵ + m	chicken m-class-animate
+65	Ben_Tey	CHICKEN	ɛ ¹ n dʒ ɛ ¹⁵ + m	chicken m-class-animate
+66	Bankan_Tey	CHILD	j i ⁵ + m	child m-class-animate
+67	Ben_Tey	CHILD	j i ⁵ + m	child m-class-animate
+68	Bankan_Tey	COW	n aː ¹⁵ + m	cow m-class-animate
+69	Ben_Tey	COW	n aː ¹⁵ + m	cow m-class-animate
+70	Bankan_Tey	DOG	n ¹ dʒ e ¹ + r u ⁵¹ + m	dog m-class-animate
+71	Ben_Tey	DOG	i ¹ n dʒ ɛ ¹⁵ + m	dog m-class-animate
+72	Bankan_Tey	DONKEY	d u ⁵ r u ¹ + m	donkey m-class-animate
+73	Ben_Tey	DONKEY	s u ⁵ r u ⁵ + b ɔ ¹ ŋ ɡ ɔ ⁵¹ + m	donkey m-class-animate
+74	Bankan_Tey	DOVE	t u ¹ r u ¹ s u ⁵¹ + m	dove m-class-animate
+75	Ben_Tey	DOVE	ɡ ɔ̃ː ∼ + m	dove m-class-animate
+76	Toro_Tegu	DOVE	t u ¹ s u ⁵¹ + m	dove m-class-animate
+77	Bankan_Tey	FISH	i ⁵ s i ¹ + m	fish m-class-animate
+78	Ben_Tey	FISH	i ⁵ s i ¹ + m	fish m-class-animate
+79	Bankan_Tey	FLY (INSECT)	dʒ e ¹ dʒ e ⁵¹ ∼ + m	fly m-class-animate
+80	Ben_Tey	FLY (INSECT)	ɡ i ¹ ɡ ɛ̃ː + m	fly m-class-animate
+81	Bankan_Tey	FRIEND	s i ¹ j ∼ ɛ ¹⁵ + m	friend m-class-animate
+82	Ben_Tey	FRIEND	t i ¹ j a ¹⁵ + m	friend m-class-animate
+83	Bankan_Tey	GIRL	j aː ¹ + j i ⁵¹ + m 	girl m-class-animate
+84	Ben_Tey	GIRL	j aː ¹ + j i ⁵¹ + m 	girl m-class-animate
+85	Bankan_Tey	GOAT	b ɛ ⁵ r u ¹ + m	goat m-class-animate
+86	Ben_Tey	GOAT	b ɛ ⁵ r i ¹ + m	goat m-class-animate
+87	Bankan_Tey	GRANDFATHER	p aː ¹⁵ + m	grandfather m-class-animate
+88	Bankan_Tey	HORSE	s o ¹⁵ + m	horse m-class-animate
+89	Ben_Tey	HORSE	s o ¹⁵ + m	horse m-class-animate
+90	Nanga	HORSE	s o ¹⁵ + ŋ	horse m-class-animate
+91	Penange	HORSE	s o ¹ n dʒ o ¹ + m	horse m-class-animate
+92	Perge_Tegu	HORSE	s o ¹⁵ + m	horse m-class-animate
+93	Tommo_So	HORSE	s o ⁵ + m	horse m-class-animate
+94	Yanda_Dom	HORSE	s o ¹ + m	horse m-class-animate
+95	Yorno_So	HORSE	s o ¹⁵ + m	horse m-class-animate
+96	Bankan_Tey	HOST	u ¹ r o ¹ + s i ¹ j i ⁵¹ + m	house lodger m-class-animate
+97	Bankan_Tey	HUSBAND	ɔ ¹ ŋ ɡ ɔ ¹ r ɔ ¹⁵ + m	husband m-class-animate
+98	Perge_Tegu	IRON	iː ⁵ n ɛ ⁵ + m	iron m-class-animate
+99	Bankan_Tey	LOUSE	t oː ⁵ r̃ ∼ u ⁵ + m	louse m-class-animate
+100	Ben_Tey	LOUSE	k ɔ ¹ t ɔ ¹ + k ɔː + m	louse m-class-animate
+101	Bankan_Tey	MAN	a ⁵ r̃ ∼ a ¹ + m	man m-class-animate
+102	Gourou	MAN	a ¹⁵ + n	man m-class-animate
+103	Ben_Tey	MARROW	b uː ⁵ s a ¹⁵ + m	marrow m-class-animate
+104	Gourou	MARROW	b uː ⁵ s ɔ ¹ + m	marrow m-class-animate
+105	Jamsay	MARROW	b u ⁵ s a ⁵¹ + m	marrow m-class-animate
+106	Perge_Tegu	MARROW	b u ⁵ s a ⁵¹ + m	marrow m-class-animate
+107	Yanda_Dom	MARROW	b ɔ ¹ n d u ⁵ + m	marrow m-class-animate
+108	Bankan_Tey	MOUSE	o ⁵¹ + m	mouse m-class-animate
+109	Ben_Tey	MOUSE	o ⁵¹ + m	mouse m-class-animate
+110	Bankan_Tey	NEIGHBOR	u ¹ r o ¹ + z e ⁵ ŋ ɡ u ⁵ + m	house beside m-class-animate
+111	Ben_Tey	NEIGHBOR	t a ⁵ w̃ ∼ j ∼ a ⁵ + m	neighbor m-class-animate
+112	Bankan_Tey	NINE	t eː ¹ s u ⁵ + m	nine m-class-animate
+113	Ben_Tey	NINE	t eː ¹ s i ¹⁵ + m	nine m-class-animate
+114	Bankan_Tey	NOBLE	d i ⁵ m o ¹ + m	noble m-class-animate
+115	Ben_Tey	NOBLE	b aː ¹ m a ¹ + j i ⁵ + m	noble m-class-animate
+116	Bankan_Tey	OLD MAN	a ¹ r̃ ∼ a ¹ _ p ɛ ¹⁵ + m	old man m-class-animate
+117	Ben_Tey	OLD MAN	a ¹ r̃ ∼ a ¹ _ p ɛ ¹⁵ + m	old man m-class-animate
+118	Bankan_Tey	OLD WOMAN	n a ¹ r̃ ∼ i ¹ j ∼ ɛ ¹⁵ + m	old woman m-class-animate
+119	Ben_Tey	OLD WOMAN	l aː ¹ w a ¹ + ɡ u ⁵ + m	old woman m-class-animate
+120	Bankan_Tey	ORPHAN	n a ¹ r̃ ∼ i ¹ j ∼ ɛ ¹⁵ + m	orphan m-class-animate
+121	Ben_Tey	ORPHAN	l aː ¹ w a ¹ + ɡ u ⁵ + m	orphan m-class-animate
+122	Bankan_Tey	OTHER	n ¹ d a ¹⁵ w + m	other m-class-animate
+123	Ben_Tey	OTHER	l a ¹⁵ + m	other m-class-animate
+124	Ben_Tey	PERSON	a ¹ s u ¹ m a ¹⁵ + m	person m-class-animate
+125	Bunoge	PERSON	n u ¹⁵ + m	person m-class-animate
+126	Bankan_Tey	PIG	a ¹ r i ⁵ j e ¹ + m	pig m-class-animate
+127	Ben_Tey	PIG	t o ⁵ r u ⁵ + m	pig m-class-animate
+128	Bankan_Tey	RAINBOW	n u ¹ m u ⁵ + m	rainbow m-class-animate
+129	Ben_Tey	RAINBOW	n u ¹ m b u ⁵ + m	rainbow m-class-animate
+130	Bankan_Tey	SHEEP	p ɛ ¹ r ɛ ¹⁵ + m	sheep m-class-animate
+131	Bankan_Tey	SHEPHERD	b e ¹ + b e ¹ r u ⁵ + m	sheep agentive m-class-animate
+132	Ben_Tey	SHEPHERD	a ¹ r s ɛː ¹ + b e ¹ r e ⁵ + m	sheep agentive m-class-animate
+133	Bankan_Tey	SLAVE	ɡ u ¹ n d a ¹⁵ + m	slave m-class-animate
+134	Ben_Tey	SLAVE	ɡ u ¹ l ɔ ¹⁵ + m	slave m-class-animate
+135	Bankan_Tey	SNAKE	a ¹ w a ¹⁵ + m	snake m-class-animate
+136	Ben_Tey	SNAKE	a ¹ w a ¹⁵ + m	snake m-class-animate
+137	Bankan_Tey	SPIRIT	dʒ i ⁵ n n aː ⁵ r u ¹ + m	spirit m-class-animate
+138	Ben_Tey	SPIRIT	dʒ i ⁵ n n aː ⁵ dʒ o ¹ + m	spirit m-class-animate
+139	Tommo_So	SUN	n a ¹⁵ + m	sun m-class-round
+140	Yorno_So	SUN	n a ¹⁵ + m	sun m-class-round
+141	Bankan_Tey	WOMAN	j a ¹⁵ + m	woman m-class-animate
+142	Gourou	WOMAN	ɲ ɛ ¹⁵ + m	woman m-class-animate
+143	Bankan_Tey	FACE	ɡ i ¹ r e ¹ + n u ⁵¹ + m	face m-class-bodyparts
+144	Ben_Tey	FACE	dʒ i ¹ r e ¹ + n u ⁵¹ + m	face m-class-bodyparts
+145	Perge_Tegu	FACE	ɡ i ¹ r e ¹ + n u ¹⁵+ m	face m-class-bodyparts
+146	Yanda_Dom	FACE	ɡ i ¹ d e ¹ + n o ¹ + m	face m-class-bodyparts
+147	Yorno_So	HIP	d o ¹⁵ + m	hip m-class-bodyparts
+148	Perge_Tegu	!GUEST OR STRANGER	l oː ¹ s u ⁵ + n	lodger n-class-animate
+149	Gourou	BLACKSMITH	z ɛ ⁵ m ɛ ¹ + n	blacksmith n-class-animate
+150	Jamsay	BLACKSMITH	dʒ ɛ ⁵ m ɛ ¹ + n	blacksmith n-class-animate
+151	Perge_Tegu	BLACKSMITH	ɡ ɛ ⁵ m b ɛ ¹ + n	blacksmith n-class-animate
+152	Gourou	CHILD	i ⁵¹ + n	child n-class-animate
+153	Jamsay	CHILD	i ⁵¹ + n	child n-class-animate
+154	Bondu_So	HOST	o ¹ l e ¹ + s u ⁵ ɡ i ⁵ + n	house lodge n-class-animate
+155	Jamsay	MAN	a ¹⁵ + n	man n-class-animate
+156	Bondu_So	NAME	i ⁵ n e ¹ + n	name n-class-animate
+157	Jamsay	ORPHAN	l aː ¹ w a ¹ + ɡ i ⁵ + n	orphan n-class-animate
+158	Jamsay	PERSON	i ⁵ n e ⁵ + n	person n-class-animate
+159	Bondu_So	SKY	a ¹ dʒ a ¹⁵ + n	sky n-class-round
+160	Jamsay	WOMAN	ɲ ɛ ¹⁵ + n	woman n-class-animate
+161	Yanda_Dom	HUSBAND	n u ¹ ŋ ɔ ¹ + n	husband n-class-bodyparts
+162	Gourou	SLAVE	ɡ u ¹ n o ⁵ + n	slave n-class-bodyparts
+163	Jamsay	SLAVE	ɡ u ¹ n o ⁵ + n	slave n-class-bodyparts
+164	Bankan_Tey	DISEASE	ɔː ¹ r ɔ ¹⁵ + n	disease n-class-building
+165	Bondu_So	DISEASE	s aː ¹ m a ¹⁵ + n	disease n-class-building
+166	Bondu_So	MARKET	e ⁵ b a ⁵ + n	market n-class-building
+167	Penange	FOOD	ɲ ɔː ¹ + n dʒ e ⁵	eat ndʒe-class-round
+168	Yorno_So	FRIEND	a ⁵ + n ɡ e ⁵	friend nɡe-class-animate
+169	Dogul_Dom	DOG	u ¹ ŋ ɔ ⁵ + ŋ ⁵	dog ŋ-class-animate
+170	Dogul_Dom	FRIEND	n a ¹ l e ⁵ + ŋ ⁵	friend ŋ-class-animate
+171	Yanda_Dom	FRIEND	l a ¹ l u ¹ + ŋ	friend ŋ-class-animate
+172	Dogul_Dom	IRON	i ⁵ n a ¹ + ŋ ¹	iron ŋ-class-animate
+173	Nanga	WOMAN	j a ¹⁵ + ŋ	woman ŋ-class-animate
+174	Dogul_Dom	CHEST	ɡ e ¹ ɲ u ⁵ + ŋ ⁵	chest ŋ-class-bodyparts
+175	Toro_Tegu	FACE	dʒ i ¹ n o ¹⁵ + ŋ	face ŋ-class-bodyparts
+176	Dogul_Dom	LEFT	n aː ¹ ɡ _ n a ¹ n d a ¹ + ŋ ⁵	left ŋ-class-bodyparts
+177	Dogul_Dom	MOUTH	k ɛ ¹ n n u ⁵ + ŋ ⁵	mouth ŋ-class-bodyparts
+178	Dogul_Dom	SHOE	t a ¹ ɡ u ⁵ + ŋ ⁵	shoe ŋ-class-bodyparts
+179	Dogul_Dom	DISEASE	dʒ i ¹ m u ⁵ + ŋ	disease ŋ-class-building
+180	Yanda_Dom	RAIN (PRECIPITATION)	a ¹ r̃ ∼ u ¹ + ŋ	rain ŋ-class-long
+181	Dogul_Dom	BONE	k ɛ ¹ n ɛ ⁵ + ŋ ⁵	bone ŋ-class-long
+182	Dogul_Dom	LADDER	dʒ o ⁵ n u ¹ + ŋ ¹	tree ŋ-class-long
+183	Mombo	RAIN (PRECIPITATION)	k u ⁵ m a ⁵ + ŋ ɡ a ¹	rain ŋɡa-class-long
+184	Penange	RAIN (PRECIPITATION)	k u ¹ m aː ¹ + ŋ ɡ a ¹	rain ŋɡa-class-long
+185	Ampari	TREE	t i ¹ + ŋ ɡ ɔ ⁵	tree ŋɡɔ-class-long
+186	Mombo	TREE	t i ⁵ n i ⁵ + ŋ ɡ ɔ ¹	tree ŋɡɔ-class-long
+187	Tiranige_Diga	TREE	t i ⁵ l + ŋ ɡ ɔ ⁵	tree ŋɡɔ-class-long
+188	Bondu_So	CHEST	p ɛ ⁵ l ɛ ¹ + ŋ ɡ e ¹	chest ŋɡe-class-bodyparts
+189	Bondu_So	FOREHEAD	ɡ e ⁵ n d e ¹ + ŋ ɡ e ¹	forehead ŋɡe-class-bodyparts
+190	Mombo	GRASS	b e ⁵ l e ⁵ + ŋ ɡ e ¹	grass ŋɡe-class-long
+191	Bondu_So	HEAD	k iː ⁵¹ + ŋ ɡ e ¹	head ŋɡe-class-bodyparts
+192	Bondu_So	JOINT	d i ⁵ ɡ i ¹ + n ɡ e ¹	joint ŋɡe-class-bodyparts
+193	Bondu_So	MOUTH	i ¹ b i ⁵ + ŋ ɡ e ⁵	mouth ŋɡe-class-bodyparts
+194	Bunoge	NECK	k o ⁵ l a ⁵ + ŋ ɡ e ¹	neck ŋɡe-class-bodyparts
+195	Bondu_So	SPRING OR WELL	d a ¹⁵ j + ŋ ɡ e ⁵	spring or well ŋɡe-class-long
+196	Bunoge	TREE	t i ⁵ l i ⁵ + ŋ ɡ e ¹	tree ŋɡe-class-long
+197	Bondu_So	BLOOD	ɡ e ¹⁵ + n ɡ e ⁵	blood ŋɡe-class-liquid
+198	Mombo	BLOOD	ɡ eː ¹ + ŋ ɡ e ⁵	blood ŋɡe-class-liquid
+199	Tebul_Ure	BLOOD	dʒ e ¹ + n dʒ e ⁵	blood ŋɡe-class-liquid
+200	Tiranige_Diga	BLOOD	dʒ eː ⁵ + ŋ ɡ e ⁵	blood ŋɡe-class-liquid
+201	Bunoge	EGG	p o ⁵ l e ⁵ + ŋ ɡ e ¹	egg ŋɡe-class-round
+202	Tiranige_Diga	EGG	p o ⁵ l + ŋ ɡ e ⁵	egg ŋɡe-class-round
+203	Bunoge	MILK	ʔ ɛ ¹ m ɛ ¹ + ŋ ɡ e ¹	milk ŋɡe-class-round
+204	Penange	MILK	ɛ ⁵ m ɛː ⁵ + ŋ ɡ e ⁵	milk ŋɡe-class-round
+205	Tiranige_Diga	MILK	ɛ ¹ m ɛ ¹ + ŋ ɡ e ¹	milk ŋɡe-class-round
+206	Bunoge	MILLET	s eː ⁵ + ŋ ɡ e ¹	millet ŋɡe-class-round
+207	Mombo	MILLET	s eː ⁵ + ŋ ɡ e ¹	millet ŋɡe-class-round
+208	Penange	MILLET	s eː ¹ + ŋ ɡ e ¹	millet ŋɡe-class-round
+209	Tebul_Ure	FOOD	ɲ ɛ ⁵ + ŋ ɡ ɛ ⁵	eat ŋɡɛ-class-round
+210	Tomo_Kan	FOOD	ɲ iː ⁵ + n dʒ e ⁵	eat ŋɡɛ-class-round
+211	Bunoge	SKY	ʔ a ⁵ ŋ k o ⁵ + ŋ ɡ o ¹	sky ŋɡo-class-round
+212	Bondu_So	BONE	k i ¹ n a ⁵ + ŋ ɡ o ⁵	bone ŋɡo-class-round
+213	Bondu_So	CASSAVA	b a ¹ n a ¹ ŋ k uː ⁵¹ + ŋ ɡ o ¹	cassava ŋɡo-class-round
+214	Toro_Tegu	CHEEK	k a ¹ + p i ¹ r + ŋ ɡ o ⁵	cheek ŋɡo-class-round
+215	Bondu_So	EGG	p o ¹⁵ l + ŋ ɡ o ⁵	egg ŋɡo-class-round
+216	Bondu_So	FIREWOOD	t eː ⁵ + ŋ ɡ o ⁵	firewood ŋɡo-class-round
+217	Bunoge	FIREWOOD	t eː ⁵ + ŋ ɡ o ¹	firewood ŋɡo-class-round
+218	Mombo	FIREWOOD	t eː ⁵ + ŋ ɡ o ⁵	firewood ŋɡo-class-round
+219	Penange	FIREWOOD	t eː ¹ + ŋ ɡ o ¹	firewood ŋɡo-class-round
+220	Tiranige_Diga	FIREWOOD	t eː ¹ + ŋ ɡ o ¹	firewood ŋɡo-class-round
+221	Bondu_So	FLOWER	p u ¹ n ɛ ¹⁵ n + ɡ o ⁵	flower ŋɡo-class-round
+222	Bondu_So	FOOD	k w ɛ ⁵ + ŋ ɡ o ¹	eat ŋɡo-class-round
+223	Bondu_So	GRASS	s ɔː ¹⁵ m ɛ ¹ + ŋ ɡ o ¹	grass ŋɡo-class-long
+224	Bondu_So	HIP	t i ⁵ n iː ¹ + ŋ ɡ o ¹	hip ŋɡo-class-round
+225	Bondu_So	IRON	i ⁵ n o ⁵ + ŋ ɡ o ⁵	iron ŋɡo-class-long
+226	Bondu_So	LADDER	b i ⁵ + n ɡ o ⁵	tree ŋɡo-class-long
+227	Tebul_Ure	LADDER	t i ⁵ n i ⁵ + ŋ ɡ o ⁵	tree ŋɡo-class-long
+228	Bondu_So	MILLET	j o ⁵ + ŋ ɡ o ⁵	millet ŋɡo-class-round
+229	Bondu_So	PUMPKIN	ɡ o ⁵ n e ⁵ + ŋ ɡ o ⁵	pumpkin ŋɡo-class-round
+230	Bondu_So	SUN	u ¹ dʒ u ⁵ + ŋ ɡ o ⁵	sun ŋɡo-class-round
+231	Ampari	PERSON	i ¹ n d a ¹ + r o ⁵	person ro-class-animate
+232	Bankan_Tey	PERSON	i ¹ n d a ¹ + r o ⁵	person ro-class-animate
+233	Toro_Tegu	CHILD	i ¹ + r̃ ∼ u ⁵	child ru-class-animate
+234	Perge_Tegu	PERSON	i ⁵ n e ⁵ + r̃ ∼ u ⁵	person ru-class-animate
+235	Bunoge	EYE	ɡ i ⁵ r e ⁵ + s e ¹	eye se-class-bodyparts
+236	Yanda_Dom	PERSON	n u ¹ + r̃ ∼ u ⁵	person u-class-animate
+237	Tomo_Kan	HORSE	s o ¹ + w̃ ∼	horse w-class-animate
