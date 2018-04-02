@@ -1,0 +1,40 @@
+Phylum 	Family 	Sub-Family 	 Language (Heath2017) 	Ethnicity (Babiker2017) 	 Village 	 GlottoCode 	 GeneticData 	 LinguisticData	Latitude	Longitude	Other
+--- 	 --- 	 Isolate 	Bangime 	Bangande 	Bounou 	Bang1363 	Y 	Y	14.79848333	-3.76015	
+Niger-Congo 	 Mande 	Bozo 	Jenaama 	Bozo 	Kargue	Jena1242 	Y 	Y	14.79426667	-3.81545	
+Nilo-Saharan 	Songhai 	 --- 	Songhai_Kiini 	Songhai 	Kikara	 koyr1240 	Y 	N	15.21028333	-2.749566667	
+Nilo-Saharan 	Songhai 	 --- 	Songhai_Senni 	Songhai 	Hombori	 humb1243 	Y 	Y	15.27783333	-1.699983333	
+Niger-Congo 	 Atlantic 	Fula Maasina 	Fulfulde 	Fulani 	Dari-Wouro	 maas1239 	Y 	Y	14.49205	-3.615066667	
+Niger-Congo 	Dogon 	WesternDogon 	Donno_So 	Dogon 	Wendegele	Donn1238 	Y 	Y	14.359	-3.368	
+Niger-Congo 	Dogon 	EasternDogon 	Jamsay 	Dogon 	Douentza area 	Jams1239 	Y 	Y	15.00045	-2.95395	
+Niger-Congo 	Dogon 	WesternDogon 	Tiranige_Diga 	Dogon 	Boui	Tira1258 	Y 	Y	14.85	-3.733333333	
+Niger-Congo 	Dogon 	WesternDogon 	 Mombo 	Dogon 	Songho	momb1254 	Y 	Y	14.4	-3.7	
+Niger-Congo 	Dogon 	WesternDogon 	Penange 	Dogon 	Pinia	Pena1270 	Y 	Y	14.39385	-4.032383333	
+Niger-Congo 	Dogon 	EasternDogon 	Tomo_Kan 	Dogon 	Segue	Tomo1243 	Y 	Y 	13.839	-3.751	
+Niger-Congo 	Dogon 	WesternDogon 	Ampari 	Dogon 	Nando	 ampa1238 	N 	Y	14.15	-3.55	
+Niger-Congo 	Dogon 	EasternDogon 	Bankan_Tey 	Dogon 	Oualo	Bank1259 	N 	Y	15.07	-2.91	
+Niger-Congo 	Dogon 	EasternDogon 	BenTey 	Dogon 	Beni	Bent1238 	N 	Y	14.8524	-2.946416667	
+Niger-Congo 	Dogon 	WesternDogon 	Bunoge 	Dogon 	Boudou	Buno1241 	N 	Y	14.65323333	-3.793616667	
+Niger-Congo 	Dogon 	WesternDogon 	Dogul_Dom 	Dogon 	Bendiely	Dogu1235 	N 	Y	14.49455	-3.560383333	
+Niger-Congo 	Dogon 	WesternDogon 	 Gourou 	Dogon 	Koro	 guru1265 	N 	Y	14.0634	-3.245633333	
+Niger-Congo 	Dogon 	WesternDogon 	Najamba-Kindige 	Dogon 	Kubewel	Bond1248 	N 	Y 	14.98333333	-3.033333333	
+Niger-Congo 	Dogon 	WesternDogon 	Nanga 	Dogon 	Anda	Nang1261 	N 	Y	14.81938333	-3.010433333	
+Niger-Congo 	Dogon 	WesternDogon 	Perge_Tegu 	Dogon 	Pergue	Perg1234 	  N 	Y	14.85205	-3.0218	
+Niger-Congo 	Dogon 	WesternDogon 	Tebul_Ure 	Dogon 	Bamba-Tene	Tebu1239 	N 	Y	14.685	-3.057	
+Niger-Congo 	Dogon 	WesternDogon 	Togo_Kan 	Dogon 	Peledourou 	Togo1254 	N 	Y	13.933	-3.416	
+Niger-Congo 	Dogon 	WesternDogon 	Tommo_So 	Dogon 	Tongo-Tongo 	Tomm1242 	N 	Y	14.56083333	-3.393933333	Kani-Gogouna
+Niger-Congo 	Dogon 	WesternDogon 	Toro_Tegu 	Dogon 	Toupere	Toro1253 	N 	Y	15.00526667	-2.085	
+Niger-Congo 	Dogon 	WesternDogon 	Yanda_Dom 	Dogon 	Yanda	Yand1257 	N 	Y	14.64718333	-3.148166667	
+Niger-Congo 	Dogon 	WesternDogon 	Yorno_So 	Dogon 	Yendouma 	Yorn1234 	N 	Y	14.5627	-3.2353	
+Niger-Congo 	Dogon 	WesternDogon 	Sangha_So	Dogon	Sangha	tor1252	N	Y 	14.46666667	-3.316666667	
+Niger-Congo 	Dogon 	WesternDogon 	Ibi_So	Dogon	Ibi	tor1252	N	Y 	14.47841667	-3.259516667	
+Niger-Congo 	 Mande 	Bozo 	Bozo_Debo	Bozo 	 - 	Nucl1444 	N 	Y	14.75	-4.5	
+Niger-Congo 	 Mande 	Bozo 	Bozo_Hainyaxo	Bozo 	 - 	 hain1253 	N 	Y	13.75	-5.75	
+Niger-Congo 	 Mande 	Bozo 	Bozo_Korondougou_nord 	Bozo 	 - 	 - 	N 	Y			
+Niger-Congo 	 Mande 	Bozo 	Bozo_Korondougou_sud 	Bozo 	 - 	 - 	N 	Y			
+Niger-Congo 	 Mande 	Bozo 	Bozo_Kotya 	Bozo 	 - 	Nucl1444 	N 	Y			
+Niger-Congo 	 Mande 	Bozo 	Bozo_Pondori_nord 	Bozo 	 - 	 - 	N 	Y			
+Niger-Congo 	 Mande 	Bozo 	Bozo_Pondori_sud 	Bozo 	 - 	 - 	N 	Y			
+Niger-Congo 	 Mande 	Bozo 	Bozo_Tiema_Cewe 	Bozo 	 - 	Tiem1235 	N 	Y	15.6	-4.3	
+Niger-Congo 	 Mande 	Bozo 	Bozo_Tieyaxo 	Bozo 	 - 	Tiey1235 	N 	Y	14.25	-5	
+Niger-Congo 	 Mande 	Soninke-Bozo 	Soninke 	Soninke 	 - 	Soni1257 	N 	Y	14.86	-12.48	
+Niger-Congo 	 Mande 	East-Manding	Bambara 	Bamana 	 - 	Bamb1269 	N 	Y	10.11	-6.99	
