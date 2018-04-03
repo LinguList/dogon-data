@@ -3,7 +3,6 @@ from clldutils.text import split_text_with_context, strip_brackets
 from lingpy import *
 from segments import Tokenizer
 from collections import OrderedDict, defaultdict
-from unicodedata import normalize
 
 op = Tokenizer('D_profile.tsv')
 
@@ -64,9 +63,8 @@ with UnicodeDictReader('D_dogon-wordlist.csv') as reader:
             if entry.strip():
                 try:
                     form = strip_brackets(
-                            split_text_with_context(entry, separators=r',;/~\\')[0],
+                            split_text_with_context(entry, separators=',;/')[0],
                             ).strip().replace(' ', '_').replace(',', '')
-                    form = normalize('NFC', form)
                 except IndexError:
                     form = False
                 if form and form.strip():
@@ -87,7 +85,7 @@ with open('D_dogon-concepts.tsv', 'w') as f:
     f.write('ID\tNUMBER\tENGLISH\tFRENCH\tENGLISH_SHORT\tSEMFIELD_CODE\tREFERENCE\tOCCURRENCE\n')
     for i, (vals, occ) in enumerate(sorted(concepts.items(), key=lambda x:
         x[1], reverse=True)):
-        if occ >= 17:
+        if occ > 15:
             f.write(str(i+1)+'\t'+str(i+1)+'\t'+'\t'.join(vals)+'\t'+str(occ)+'\n')
 wl = Wordlist(D)
 wl.output('tsv', filename='D_dogon-edictor', ignore='all', prettify=False)
